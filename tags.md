@@ -1,0 +1,29 @@
+---
+layout: page
+title: 标签
+permalink: /tags/
+subtitle: 按标签浏览文章，可用于主题或来源过滤。
+---
+
+{% assign tags = site.tags | sort %}
+{% if tags.size == 0 %}
+  <p class="empty">还没有标签。</p>
+{% else %}
+  <p class="source-note">
+    {% for tag in tags %}
+      <a class="tag" href="#{{ tag[0] | slugify }}">{{ tag[0] }}（{{ tag[1].size }}）</a>
+    {% endfor %}
+  </p>
+
+  {% for tag in tags %}
+    <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+    <ul>
+      {% for post in tag[1] %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          <span class="meta">{{ post.date | date: "%Y-%m-%d" }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+{% endif %}

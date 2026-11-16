@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="prose post">
+  <header class="page-header">
+    <p class="meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d %H:%M" }} · Asia/Shanghai (UTC+8)</time>
+      {% if page.collected_at %}
+        · 采集 {{ page.collected_at }}
+      {% endif %}
+    </p>
+    <h1>{{ page.title }}</h1>
+    {% if page.tags.size > 0 %}
+      <p class="meta">
+        {% for tag in page.tags %}
+          <a class="tag" href="{{ "/tags/" | relative_url }}#{{ tag | slugify }}">{{ tag }}</a>
+        {% endfor %}
+      </p>
+    {% endif %}
+  </header>
+  {{ content }}
+</article>
