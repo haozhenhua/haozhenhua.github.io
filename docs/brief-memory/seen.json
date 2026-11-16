@@ -1,0 +1,1173 @@
+{
+  "version": 1,
+  "updated": "2026-11-16",
+  "source_brief": "/2026/11/16/daily-brief/",
+  "rules": {
+    "skip_if_seen": true,
+    "material_update_as_followup": true,
+    "finance_always_refresh": true,
+    "book_installments_follow_plan": true,
+    "same_youtube_video_no_repeat": true,
+    "new_episode_of_same_show_ok": true,
+    "same_story_even_with_new_url": true
+  },
+  "items": [
+    {
+      "id": "story:apec-shenzhen-xi-trump-putin-meeting",
+      "type": "story",
+      "title": "深圳 APEC：美中俄三方会晤正在协调",
+      "url": "https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://www.bbc.com/zhongwen/articles/c6lym29v7nr0o/trad",
+        "https://www.bbc.com/zhongwen/articles/cwe85djzkkv5o/trad",
+        "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
+        "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html"
+      ]
+    },
+    {
+      "id": "story:zelensky-starlink-starshield-restrictions",
+      "type": "story",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://www.nytimes.com/2026/11/14/world/europe/ukraine-starshield-zelensky.html",
+        "https://www.bbc.com/zhongwen/articles/cqgm3vnx3zx3o/trad"
+      ]
+    },
+    {
+      "id": "story:yemen-houthi-red-sea-saudi-retreat",
+      "type": "story",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html"
+      ]
+    },
+    {
+      "id": "story:nvidia-jensen-huang-resignation-return-rumors",
+      "type": "story",
+      "title": "英伟达风波：黄仁勋去职与回归传闻（流传，非已核实事实）",
+      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+        "https://www.bbc.com/zhongwen/articles/cw8dvqp5z412o/trad",
+        "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+        "https://www.youtube.com/watch?v=Uv2w4VTU-iQ"
+      ],
+      "note": "传言与评论节目，不是已核实的人事结论。All-In 2026-11-13 同题一期已视为同一事件，不单列展开。"
+    },
+    {
+      "id": "story:iran-bahrain-attacks",
+      "type": "story",
+      "title": "Iran Attacks Bahrain for the Second Time in Days",
+      "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://www.nytimes.com/2026/11/15/world/europe/iran-attacks-threats-europe.html"
+      ]
+    },
+    {
+      "id": "story:pope-leo-amazon-activists",
+      "type": "story",
+      "title": "Pope Leo demands justice for people killed protecting the Amazon",
+      "url": "https://www.theguardian.com/world/2026/nov/16/pope-leo-speech-peru-justice-for-amazon-activists-environment",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "story:australia-mp-hospital-car-attack",
+      "type": "story",
+      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "story:jordan-church-attack-death-sentence",
+      "type": "story",
+      "title": "Jordan Sentences 3 to Death Over Greek Orthodox Church Attack",
+      "url": "https://www.nytimes.com/2026/11/15/world/middleeast/jordan-church-attack-death-sentence.html",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "story:felix-gallardo-death",
+      "type": "story",
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "story:haiti-election-assassinated-leader-wife",
+      "type": "story",
+      "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "story:trump-venezuela-oil",
+      "type": "story",
+      "title": "Trump’s Oil Grab in Venezuela Is Testing the Country’s National Identity",
+      "url": "https://www.nytimes.com/2026/11/14/world/americas/trump-venezuela-oil.html",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "story:qwen4-max-launch",
+      "type": "story",
+      "title": "Alibaba Unveils Qwen4-Max",
+      "url": "https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://qwen.ai/blog?id=qwen4-max",
+        "https://x.com/i/trending/2122182546100261250"
+      ]
+    },
+    {
+      "id": "story:deepseek-compute-quota",
+      "type": "story",
+      "title": "DeepSeek因算力不足限额",
+      "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%9B%A0%E7%AE%97%E5%8A%9B%E4%B8%8D%E8%B6%B3%E9%99%90%E9%A2%9D%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50500963",
+      "type": "hn",
+      "title": "SpaceX Flight 15 页面",
+      "url": "https://news.ycombinator.com/item?id=50500963",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://www.spacex.com/launches/starship-flight-15"
+      ]
+    },
+    {
+      "id": "news:https://www.spacex.com/launches/starship-flight-15",
+      "type": "news",
+      "title": "SpaceX Flight 15 页面",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50509411",
+      "type": "hn",
+      "title": "《Microsoft-Panne als Ursache: 15 Gäste im Phantasialand verletzt》",
+      "url": "https://news.ycombinator.com/item?id=50509411",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html"
+      ]
+    },
+    {
+      "id": "news:https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "type": "news",
+      "title": "《Microsoft-Panne als Ursache: 15 Gäste im Phantasialand verletzt》",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50506719",
+      "type": "hn",
+      "title": "MacAnorak",
+      "url": "https://news.ycombinator.com/item?id=50506719",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/"
+      ]
+    },
+    {
+      "id": "news:https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "type": "news",
+      "title": "MacAnorak",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50463399",
+      "type": "hn",
+      "title": "YouTube 视频页",
+      "url": "https://news.ycombinator.com/item?id=50463399",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://www.youtube.com/watch?v=WPj3aQ-xxpI"
+      ]
+    },
+    {
+      "id": "news:https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "type": "news",
+      "title": "YouTube 视频页",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50513215",
+      "type": "hn",
+      "title": " *Alibaba Unveils Qwen4-Max: New AI Teammate for Work, Creativity, and Discovery* ",
+      "url": "https://news.ycombinator.com/item?id=50513215",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783"
+      ]
+    },
+    {
+      "id": "news:https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783",
+      "type": "news",
+      "title": " *Alibaba Unveils Qwen4-Max: New AI Teammate for Work, Creativity, and Discovery* ",
+      "url": "https://www.alibabacloud.com/blog/alibaba-unveils-qwen4-max-new-ai-teammate-for-work-creativity-and-discovery_603783",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50513160",
+      "type": "hn",
+      "title": "iter.ca",
+      "url": "https://news.ycombinator.com/item?id=50513160",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://iter.ca/post/ubo-uxss/"
+      ]
+    },
+    {
+      "id": "news:https://iter.ca/post/ubo-uxss/",
+      "type": "news",
+      "title": "iter.ca",
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50511395",
+      "type": "hn",
+      "title": "Ransomnews",
+      "url": "https://news.ycombinator.com/item?id=50511395",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/"
+      ]
+    },
+    {
+      "id": "news:https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "type": "news",
+      "title": "Ransomnews",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50512235",
+      "type": "hn",
+      "title": "Steve Blank 博客",
+      "url": "https://news.ycombinator.com/item?id=50512235",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://steveblank.com/2026/11/15/whats-next-for-nvidia/"
+      ]
+    },
+    {
+      "id": "news:https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "type": "news",
+      "title": "Steve Blank 博客",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50509023",
+      "type": "hn",
+      "title": "*‘Birdbrain’ Is a Misnomer. Crows Make Decisions Faster Than We Can*",
+      "url": "https://news.ycombinator.com/item?id=50509023",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html"
+      ]
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "type": "news",
+      "title": "*‘Birdbrain’ Is a Misnomer. Crows Make Decisions Faster Than We Can*",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50509837",
+      "type": "hn",
+      "title": "Bruce Roettgers",
+      "url": "https://news.ycombinator.com/item?id=50509837",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://bruceroettgers.eu/blog/protomaps/"
+      ]
+    },
+    {
+      "id": "news:https://bruceroettgers.eu/blog/protomaps/",
+      "type": "news",
+      "title": "Bruce Roettgers",
+      "url": "https://bruceroettgers.eu/blog/protomaps/",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50512441",
+      "type": "hn",
+      "title": "Security Release 0.4.9.17",
+      "url": "https://news.ycombinator.com/item?id=50512441",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://forum.torproject.org/t/security-release-0-4-9-17/22454"
+      ]
+    },
+    {
+      "id": "news:https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "type": "news",
+      "title": "Security Release 0.4.9.17",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50511806",
+      "type": "hn",
+      "title": "Internet Archive 博客",
+      "url": "https://news.ycombinator.com/item?id=50511806",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/"
+      ]
+    },
+    {
+      "id": "news:https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "type": "news",
+      "title": "Internet Archive 博客",
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50506894",
+      "type": "hn",
+      "title": "*Things That Turbo Pascal Is Smaller Than (2011)*",
+      "url": "https://news.ycombinator.com/item?id=50506894",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://prog21.dadgum.com/116.html"
+      ]
+    },
+    {
+      "id": "news:https://prog21.dadgum.com/116.html",
+      "type": "news",
+      "title": "*Things That Turbo Pascal Is Smaller Than (2011)*",
+      "url": "https://prog21.dadgum.com/116.html",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50509972",
+      "type": "hn",
+      "title": "*Handwriting, as a Font*",
+      "url": "https://news.ycombinator.com/item?id=50509972",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://ductus.sorenblank.com"
+      ]
+    },
+    {
+      "id": "news:https://ductus.sorenblank.com",
+      "type": "news",
+      "title": "*Handwriting, as a Font*",
+      "url": "https://ductus.sorenblank.com",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50509308",
+      "type": "hn",
+      "title": "50509308",
+      "url": "https://news.ycombinator.com/item?id=50509308",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50508715",
+      "type": "hn",
+      "title": "*Clice v1.0 Released: Welcome to Modern C++*",
+      "url": "https://news.ycombinator.com/item?id=50508715",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://ykiko.me/en/articles/2105384023094834022/"
+      ]
+    },
+    {
+      "id": "news:https://ykiko.me/en/articles/2105384023094834022/",
+      "type": "news",
+      "title": "*Clice v1.0 Released: Welcome to Modern C++*",
+      "url": "https://ykiko.me/en/articles/2105384023094834022/",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50510296",
+      "type": "hn",
+      "title": "*WebGL Flight Simulator with seed generated terrain*",
+      "url": "https://news.ycombinator.com/item?id=50510296",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://baron.by.dai.studio/"
+      ]
+    },
+    {
+      "id": "news:https://baron.by.dai.studio/",
+      "type": "news",
+      "title": "*WebGL Flight Simulator with seed generated terrain*",
+      "url": "https://baron.by.dai.studio/",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50512824",
+      "type": "hn",
+      "title": "*Coles hit by a cybersecurity incident*",
+      "url": "https://news.ycombinator.com/item?id=50512824",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://www.colesgroup.com.au/updates/"
+      ]
+    },
+    {
+      "id": "news:https://www.colesgroup.com.au/updates/",
+      "type": "news",
+      "title": "*Coles hit by a cybersecurity incident*",
+      "url": "https://www.colesgroup.com.au/updates/",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50509416",
+      "type": "hn",
+      "title": "*Eclipse Mosquitto – An open source MQTT broker*",
+      "url": "https://news.ycombinator.com/item?id=50509416",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://github.com/eclipse-mosquitto/mosquitto"
+      ]
+    },
+    {
+      "id": "news:https://github.com/eclipse-mosquitto/mosquitto",
+      "type": "news",
+      "title": "*Eclipse Mosquitto – An open source MQTT broker*",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50513451",
+      "type": "hn",
+      "title": "*Tell HN: HN is being scraped for emails to scam*",
+      "url": "https://news.ycombinator.com/item?id=50513451",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50486880",
+      "type": "hn",
+      "title": "*A quest to create the perfect whiskey glass*",
+      "url": "https://news.ycombinator.com/item?id=50486880",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html"
+      ]
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+      "type": "news",
+      "title": "*A quest to create the perfect whiskey glass*",
+      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50484998",
+      "type": "hn",
+      "title": "*Do we still have to denormalize? Have your schema and search it too*",
+      "url": "https://news.ycombinator.com/item?id=50484998",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://www.paradedb.com/blog/joins"
+      ]
+    },
+    {
+      "id": "news:https://www.paradedb.com/blog/joins",
+      "type": "news",
+      "title": "*Do we still have to denormalize? Have your schema and search it too*",
+      "url": "https://www.paradedb.com/blog/joins",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50512231",
+      "type": "hn",
+      "title": "*Mini.nvim Is Now on Tangled*",
+      "url": "https://news.ycombinator.com/item?id=50512231",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://tangled.org/nvim-mini.org/mini.nvim"
+      ]
+    },
+    {
+      "id": "news:https://tangled.org/nvim-mini.org/mini.nvim",
+      "type": "news",
+      "title": "*Mini.nvim Is Now on Tangled*",
+      "url": "https://tangled.org/nvim-mini.org/mini.nvim",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50514470",
+      "type": "hn",
+      "title": "*How to Make Almost Anything*",
+      "url": "https://news.ycombinator.com/item?id=50514470",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://pub.cba.mit.edu/863.26/site/"
+      ]
+    },
+    {
+      "id": "news:https://pub.cba.mit.edu/863.26/site/",
+      "type": "news",
+      "title": "*How to Make Almost Anything*",
+      "url": "https://pub.cba.mit.edu/863.26/site/",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50514180",
+      "type": "hn",
+      "title": "*Debian Becomes Unresponsive after 6.1.0-55 Kernel Update*",
+      "url": "https://news.ycombinator.com/item?id=50514180",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101"
+      ]
+    },
+    {
+      "id": "news:https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+      "type": "news",
+      "title": "*Debian Becomes Unresponsive after 6.1.0-55 Kernel Update*",
+      "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50479405",
+      "type": "hn",
+      "title": "*The Miracle Cure: In 1977, a drug rejected by doctors became a sensation*",
+      "url": "https://news.ycombinator.com/item?id=50479405",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html"
+      ]
+    },
+    {
+      "id": "news:https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
+      "type": "news",
+      "title": "*The Miracle Cure: In 1977, a drug rejected by doctors became a sensation*",
+      "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50512296",
+      "type": "hn",
+      "title": "*Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones*",
+      "url": "https://news.ycombinator.com/item?id=50512296",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone"
+      ]
+    },
+    {
+      "id": "news:https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+      "type": "news",
+      "title": "*Skydio's asymmetrical F10 Lightrunner solves a problem with fixed-wing drones*",
+      "url": "https://spectrum.ieee.org/skydio-f10-lightrunner-asymmetrical-drone",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50485275",
+      "type": "hn",
+      "title": "*Artificial Intelligence for the Z80*",
+      "url": "https://news.ycombinator.com/item?id=50485275",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://www.dfsantos.com/en/libro-ia-z80"
+      ]
+    },
+    {
+      "id": "news:https://www.dfsantos.com/en/libro-ia-z80",
+      "type": "news",
+      "title": "*Artificial Intelligence for the Z80*",
+      "url": "https://www.dfsantos.com/en/libro-ia-z80",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50514093",
+      "type": "hn",
+      "title": "*Stop Filming in Log*",
+      "url": "https://news.ycombinator.com/item?id=50514093",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/"
+      ]
+    },
+    {
+      "id": "news:https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+      "type": "news",
+      "title": "*Stop Filming in Log*",
+      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50467599",
+      "type": "hn",
+      "title": "*Simple 8085 Computer*",
+      "url": "https://news.ycombinator.com/item?id=50467599",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "urls": [
+        "https://www.hackster.io/mit41301/simple-8085-computer-9fe156"
+      ]
+    },
+    {
+      "id": "news:https://www.hackster.io/mit41301/simple-8085-computer-9fe156",
+      "type": "news",
+      "title": "*Simple 8085 Computer*",
+      "url": "https://www.hackster.io/mit41301/simple-8085-computer-9fe156",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#习近平将同普京特朗普会晤#",
+      "type": "weibo",
+      "title": "#习近平将同普京特朗普会晤#",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%86%E5%90%8C%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:weibo.com/1699432410/RrBRjfkJ8",
+      "type": "weibo",
+      "title": "weibo.com/1699432410/RrBRjfkJ8",
+      "url": "https://weibo.com/1699432410/RrBRjfkJ8",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#中俄美元首会晤将在深圳举行#",
+      "type": "weibo",
+      "title": "#中俄美元首会晤将在深圳举行#",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#APEC为什么这么重要#",
+      "type": "weibo",
+      "title": "#APEC为什么这么重要#",
+      "url": "https://s.weibo.com/weibo?q=%23APEC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%87%8D%E8%A6%81%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#深圳人APEC周居家办公第一天#",
+      "type": "weibo",
+      "title": "#深圳人APEC周居家办公第一天#",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%BA%BAAPEC%E5%91%A8%E5%B1%85%E5%AE%B6%E5%8A%9E%E5%85%AC%E7%AC%AC%E4%B8%80%E5%A4%A9%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#三军仪仗队迎接APEC会议外国元首#",
+      "type": "weibo",
+      "title": "#三军仪仗队迎接APEC会议外国元首#",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%86%9B%E4%BB%AA%E4%BB%97%E9%98%9F%E8%BF%8E%E6%8E%A5APEC%E4%BC%9A%E8%AE%AE%E5%A4%96%E5%9B%BD%E5%85%83%E9%A6%96%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#DeepSeek因算力不足限额#",
+      "type": "weibo",
+      "title": "#DeepSeek因算力不足限额#",
+      "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E5%9B%A0%E7%AE%97%E5%8A%9B%E4%B8%8D%E8%B6%B3%E9%99%90%E9%A2%9D%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:金价",
+      "type": "weibo",
+      "title": "金价",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#黄仁勋要夺回英伟达#",
+      "type": "weibo",
+      "title": "#黄仁勋要夺回英伟达#",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%A6%81%E5%A4%BA%E5%9B%9E%E8%8B%B1%E4%BC%9F%E8%BE%BE%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#黄仁勋辞任100小时传出回归消息#",
+      "type": "weibo",
+      "title": "#黄仁勋辞任100小时传出回归消息#",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E4%BB%BB100%E5%B0%8F%E6%97%B6%E4%BC%A0%E5%87%BA%E5%9B%9E%E5%BD%92%E6%B6%88%E6%81%AF%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#英伟达机器人学习工程师辞职#",
+      "type": "weibo",
+      "title": "#英伟达机器人学习工程师辞职#",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%BE%9E%E8%81%8C%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#曝iPhone20苹果明年重头戏#",
+      "type": "weibo",
+      "title": "#曝iPhone20苹果明年重头戏#",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone20%E8%8B%B9%E6%9E%9C%E6%98%8E%E5%B9%B4%E9%87%8D%E5%A4%B4%E6%88%8F%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#华为最平整的折叠屏要来了#",
+      "type": "weibo",
+      "title": "#华为最平整的折叠屏要来了#",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%9C%80%E5%B9%B3%E6%95%B4%E7%9A%84%E6%8A%98%E5%8F%A0%E5%B1%8F%E8%A6%81%E6%9D%A5%E4%BA%86%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#AI演员方桃子代言美瞳广告被罚#",
+      "type": "weibo",
+      "title": "#AI演员方桃子代言美瞳广告被罚#",
+      "url": "https://s.weibo.com/weibo?q=%23AI%E6%BC%94%E5%91%98%E6%96%B9%E6%A1%83%E5%AD%90%E4%BB%A3%E8%A8%80%E7%BE%8E%E7%9D%A3%E5%B9%BF%E5%91%8A%E8%A2%AB%E7%BD%9A%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#豆包把水印标反了#",
+      "type": "weibo",
+      "title": "#豆包把水印标反了#",
+      "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E6%8A%8A%E6%B0%B4%E5%8D%B0%E6%A0%87%E5%8F%8D%E4%BA%86",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#北大399元羽绒服全网刷屏#",
+      "type": "weibo",
+      "title": "#北大399元羽绒服全网刷屏#",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%A8%E7%BD%91%E5%88%B7%E5%B1%8F%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#北大399元羽绒服充绒量为20.5G#",
+      "type": "weibo",
+      "title": "#北大399元羽绒服充绒量为20.5G#",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%85%E7%BB%92%E9%87%8F%E4%B8%BA20.5G%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#农民工转讨薪贴被当黑社会遭起诉#",
+      "type": "weibo",
+      "title": "#农民工转讨薪贴被当黑社会遭起诉#",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%B0%91%E5%B7%A5%E8%BD%AC%E8%AE%A8%E8%96%AA%E8%B4%B4%E8%A2%AB%E5%BD%93%E9%BB%91%E7%A4%BE%E4%BC%9A%E9%81%AD%E8%B5%B7%E8%AF%89%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:14岁日本女孩直播从阳台坠落",
+      "type": "weibo",
+      "title": "14岁日本女孩直播从阳台坠落",
+      "url": "https://s.weibo.com/weibo?q=14%E5%B2%81%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%A9%E7%9B%B4%E6%92%AD%E4%BB%8E%E9%98%B3%E5%8F%B0%E5%9D%A0%E8%90%BD",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#女孩坠落后直播仍持了约44分钟#",
+      "type": "weibo",
+      "title": "#女孩坠落后直播仍持了约44分钟#",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%9D%A0%E8%90%BD%E5%90%8E%E7%9B%B4%E6%92%AD%E4%BB%8D%E6%8C%81%E4%BA%86%E7%BA%A644%E5%88%86%E9%92%9F%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#女子假扮男性与女友恋爱19年#",
+      "type": "weibo",
+      "title": "#女子假扮男性与女友恋爱19年#",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%87%E6%89%AE%E7%94%B7%E6%80%A7%E4%B8%8E%E5%A5%B3%E5%8F%8B%E6%81%8B%E7%88%B119%E5%B9%B4%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#胖东来羊毛衫进价97售价133#",
+      "type": "weibo",
+      "title": "#胖东来羊毛衫进价97售价133#",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E7%BE%8A%E6%AF%9B%E8%A1%AB%E8%BF%9B%E4%BB%B797%E5%94%AE%E4%BB%B7133%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#王子璇好能读懂文吉儿的言下之意#",
+      "type": "weibo",
+      "title": "#王子璇好能读懂文吉儿的言下之意#",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E5%A5%BD%E8%83%BD%E8%AF%BB%E6%87%82%E6%96%87%E5%90%89%E5%84%BF%E7%9A%84%E8%A8%80%E4%B8%8B%E4%B9%8B%E6%84%8F%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#奔跑吧大湾区篇官宣嘉宾阵容#",
+      "type": "weibo",
+      "title": "#奔跑吧大湾区篇官宣嘉宾阵容#",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%AF%87%E5%AE%98%E5%AE%A3%E5%98%89%E5%AE%BE%E9%98%B5%E5%AE%B9%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#虞书欣围裙照删除了#",
+      "type": "weibo",
+      "title": "#虞书欣围裙照删除了#",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%B4%E8%A3%99%E7%85%A7%E5%88%A0%E9%99%A4%E4%BA%86%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#赵本山唱慌啥子嘛担心跟AI不像#",
+      "type": "weibo",
+      "title": "#赵本山唱慌啥子嘛担心跟AI不像#",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%94%B1%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E6%8B%85%E5%BF%83%E8%B7%9FAI%E4%B8%8D%E5%83%8F%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:Bin夺冠仍存短板",
+      "type": "weibo",
+      "title": "Bin夺冠仍存短板",
+      "url": "https://s.weibo.com/weibo?q=Bin%E5%A4%BA%E5%86%A0%E4%BB%8D%E5%AD%98%E7%9F%AD%E6%9D%BF",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#方博回应王楚钦一输球就被喷#",
+      "type": "weibo",
+      "title": "#方博回应王楚钦一输球就被喷#",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%8D%9A%E5%9B%9E%E5%BA%94%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%80%E8%BE%93%E7%90%83%E5%B0%B1%E8%A2%AB%E5%96%B7%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#蒋欣李光洁回复王安宇#",
+      "type": "weibo",
+      "title": "#蒋欣李光洁回复王安宇#",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E6%9D%8E%E5%85%89%E6%B4%81%E5%9B%9E%E5%A4%8D%E7%8E%8B%E5%AE%89%E5%AE%87%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#Lisa赌场表演争议#",
+      "type": "weibo",
+      "title": "#Lisa赌场表演争议#",
+      "url": "https://s.weibo.com/weibo?q=%23Lisa%E8%B5%8C%E5%9C%BA%E8%A1%A8%E6%BC%94%E4%BA%89%E8%AE%AE%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#亚马尔转发含歧视内容应有道歉#",
+      "type": "weibo",
+      "title": "#亚马尔转发含歧视内容应有道歉#",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%A9%AC%E5%B0%94%E8%BD%AC%E5%8F%91%E5%90%AB%E6%AD%A7%E8%A7%86%E5%86%85%E5%AE%B9%E5%BA%94%E6%9C%89%E9%81%93%E6%AD%89%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:后会友期 删减",
+      "type": "weibo",
+      "title": "后会友期 删减",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%20%E5%88%A0%E5%87%8F",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#白鹿尖叫之夜官宣微指断层#",
+      "type": "weibo",
+      "title": "#白鹿尖叫之夜官宣微指断层#",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%AE%98%E5%AE%A3%E5%BE%AE%E6%8C%87%E6%96%AD%E5%B1%82%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#不二之臣男主明天就要死了#",
+      "type": "weibo",
+      "title": "#不二之臣男主明天就要死了#",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8D%E4%BA%8C%E4%B9%8B%E8%87%A3%E7%94%B7%E4%B8%BB%E6%98%8E%E5%A4%A9%E5%B0%B1%E8%A6%81%E6%AD%BB%E4%BA%86%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#范丞丞还有五部作品待播#",
+      "type": "weibo",
+      "title": "#范丞丞还有五部作品待播#",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%BF%98%E6%9C%89%E4%BA%94%E9%83%A8%E4%BD%9C%E5%93%81%E5%BE%85%E6%92%AD%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#杨超越跳舞是在做动作#",
+      "type": "weibo",
+      "title": "#杨超越跳舞是在做动作#",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%B7%B3%E8%88%9E%E6%98%AF%E5%9C%A8%E5%81%9A%E5%8A%A8%E4%BD%9C%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#BLG四人合同明日到期#",
+      "type": "weibo",
+      "title": "#BLG四人合同明日到期#",
+      "url": "https://s.weibo.com/weibo?q=%23BLG%E5%9B%9B%E4%BA%BA%E5%90%88%E5%90%8C%E6%98%8E%E6%97%A5%E5%88%B0%E6%9C%9F%23",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "x:status:2122051261935899052",
+      "type": "x",
+      "title": "Globe Eye News 称 Kalshi 交易者给出 17%",
+      "url": "https://x.com/GlobeEyeNews/status/2122051261935899052",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "note": "未核实的市场传闻"
+    },
+    {
+      "id": "yt:WY0cdD4gNoQ",
+      "type": "youtube",
+      "title": "Lenny's Podcast: Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
+      "url": "https://www.youtube.com/watch?v=WY0cdD4gNoQ",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "yt:y1-9yeYLJUo",
+      "type": "youtube",
+      "title": "Y Combinator: The Rise Of AI Coworkers",
+      "url": "https://www.youtube.com/watch?v=y1-9yeYLJUo",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "yt:PbD9pVXxsYM",
+      "type": "youtube",
+      "title": "a16z: Cyberattacks Used to Take Months. AI Can Do It in Minutes.",
+      "url": "https://www.youtube.com/watch?v=PbD9pVXxsYM",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "yt:IiKf3BgBezE",
+      "type": "youtube",
+      "title": "No Priors: Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg",
+      "url": "https://www.youtube.com/watch?v=IiKf3BgBezE",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "yt:LI3lxzHfRrU",
+      "type": "youtube",
+      "title": "a16z: Mike Volpi on Why AI Infrastructure Will Outlast the Hype Cycle",
+      "url": "https://www.youtube.com/watch?v=LI3lxzHfRrU",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "yt:rSWiNE92xqM",
+      "type": "youtube",
+      "title": "Latent Space: Rebuilding GitHub for the Agent Era — Jay Parikh, EVP of CoreAI, Microsoft",
+      "url": "https://www.youtube.com/watch?v=rSWiNE92xqM",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered"
+    },
+    {
+      "id": "yt:WPj3aQ-xxpI",
+      "type": "youtube",
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "first_brief": "2026-11-16",
+      "last_brief": "2026-11-16",
+      "status": "covered",
+      "note": "作为 HN 条目引用，不是访谈栏目正文"
+    }
+  ]
+}

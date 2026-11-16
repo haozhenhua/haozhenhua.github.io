@@ -1,16 +1,16 @@
 ---
 layout: post
 title: "早报 · 2026-11-16"
-date: 2026-11-16 15:10:00 +0800
+date: 2026-11-16 15:30:00 +0800
 category: daily
 categories: [daily]
-tags: [每日早报, 金融市场, 全球头条, Hacker News, X, 微博, 本月阅读, 人月神话]
+tags: [每日早报, 金融市场, 全球头条, Hacker News, X, 微博, 油管访谈, 本月阅读, 人月神话]
 collected_at: "2026-11-16 14:56:00 Asia/Shanghai (UTC+8)"
 permalink: /2026/11/16/daily-brief/
 excerpt_separator: "<!--more-->"
 ---
 
-本期是本站第一篇每日早报，于 2026 年 11 月 16 日（星期一）下午编发，不是 09:00 前的定时稿。下文数字、标题与引语均来自当次抓取的公开来源；时间已换算为 Asia/Shanghai（UTC+8）。路透社与美联社的 RSS 在本次抓取中未能连通，故未列入。同日稍后，站点更名为 OLLY早报，并增补本月软件工程书单，以及《人月神话》工作日第一期书摘。
+本期是本站第一篇每日早报，于 2026 年 11 月 16 日（星期一）下午编发，不是 09:00 前的定时稿。下文数字、标题与引语均来自当次抓取的公开来源；时间已换算为 Asia/Shanghai（UTC+8）。路透社与美联社的 RSS 在本次抓取中未能连通，故未列入。同日稍后，站点更名为 OLLY早报，并增补本月软件工程书单，以及《人月神话》工作日第一期书摘。再后补上油管科技访谈栏目，并为后续早报建立查重档案，避免已经写过的信息重复出现。
 
 <!--more-->
 
@@ -217,7 +217,47 @@ WDR 报道，周五微软服务故障导致 Outlook 等中断。德国主题乐�
 纯娱乐与综艺剧集类不单独分析，仅保留检索链接：[#女子假扮男性与女友恋爱19年#](https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%87%E6%89%AE%E7%94%B7%E6%80%A7%E4%B8%8E%E5%A5%B3%E5%8F%8B%E6%81%8B%E7%88%B119%E5%B9%B4%23)、[#胖东来羊毛衫进价97售价133#](https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E7%BE%8A%E6%AF%9B%E8%A1%AB%E8%BF%9B%E4%BB%B797%E5%94%AE%E4%BB%B7133%23)、[#王子璇好能读懂文吉儿的言下之意#](https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E5%A5%BD%E8%83%BD%E8%AF%BB%E6%87%82%E6%96%87%E5%90%89%E5%84%BF%E7%9A%84%E8%A8%80%E4%B8%8B%E4%B9%8B%E6%84%8F%23)、[#奔跑吧大湾区篇官宣嘉宾阵容#](https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%AF%87%E5%AE%98%E5%AE%A3%E5%98%89%E5%AE%BE%E9%98%B5%E5%AE%B9%23)、[#虞书欣围裙照删除了#](https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%9B%B4%E8%A3%99%E7%85%A7%E5%88%A0%E9%99%A4%E4%BA%86%23)、[#赵本山唱慌啥子嘛担心跟AI不像#](https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E5%94%B1%E6%85%8C%E5%95%A5%E5%AD%90%E5%98%9B%E6%8B%85%E5%BF%83%E8%B7%9FAI%E4%B8%8D%E5%83%8F%23)、[Bin夺冠仍存短板](https://s.weibo.com/weibo?q=Bin%E5%A4%BA%E5%86%A0%E4%BB%8D%E5%AD%98%E7%9F%AD%E6%9D%BF)、[#方博回应王楚钦一输球就被喷#](https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%8D%9A%E5%9B%9E%E5%BA%94%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%80%E8%BE%93%E7%90%83%E5%B0%B1%E8%A2%AB%E5%96%B7%23)、[#蒋欣李光洁回复王安宇#](https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E6%9D%8E%E5%85%89%E6%B4%81%E5%9B%9E%E5%A4%8D%E7%8E%8B%E5%AE%89%E5%AE%87%23)、[#Lisa赌场表演争议#](https://s.weibo.com/weibo?q=%23Lisa%E8%B5%8C%E5%9C%BA%E8%A1%A8%E6%BC%94%E4%BA%89%E8%AE%AE%23)、[#亚马尔转发含歧视内容应有道歉#](https://s.weibo.com/weibo?q=%23%E4%BA%9A%E9%A9%AC%E5%B0%94%E8%BD%AC%E5%8F%91%E5%90%AB%E6%AD%A7%E8%A7%86%E5%86%85%E5%AE%B9%E5%BA%94%E6%9C%89%E9%81%93%E6%AD%89%23)、[后会友期 删减](https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%20%E5%88%A0%E5%87%8F)、[#白鹿尖叫之夜官宣微指断层#](https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%AE%98%E5%AE%A3%E5%BE%AE%E6%8C%87%E6%96%AD%E5%B1%82%23)、[#不二之臣男主明天就要死了#](https://s.weibo.com/weibo?q=%23%E4%B8%8D%E4%BA%8C%E4%B9%8B%E8%87%A3%E7%94%B7%E4%B8%BB%E6%98%8E%E5%A4%A9%E5%B0%B1%E8%A6%81%E6%AD%BB%E4%BA%86%23)、[#范丞丞还有五部作品待播#](https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%BF%98%E6%9C%89%E4%BA%94%E9%83%A8%E4%BD%9C%E5%93%81%E5%BE%85%E6%92%AD%23)、[#杨超越跳舞是在做动作#](https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%B7%B3%E8%88%9E%E6%98%AF%E5%9C%A8%E5%81%9A%E5%8A%A8%E4%BD%9C%23)、[#BLG四人合同明日到期#](https://s.weibo.com/weibo?q=%23BLG%E5%9B%9B%E4%BA%BA%E5%90%88%E5%90%8C%E6%98%8E%E6%97%A5%E5%88%B0%E6%9C%9F%23)。
 
 
-## 6. 本月阅读与今日书摘
+## 6. 油管科技访谈
+
+这一栏收录近一周科技访谈或对谈的 brief 解读。依据各期[官方视频页](https://www.youtube.com/)上的简介、章节目录与出品方说明撰写，不转写、不转载字幕或全文。时长与发布时间为视频页标注，已换算为 Asia/Shanghai（UTC+8）。采集时段约为 2026-11-16 15:20–15:26 Asia/Shanghai（UTC+8）。[All-In](https://www.youtube.com/@allin) 在 11 月 13 日有一期以英伟达人事传闻为主，与上文已经写过的条目重叠，故不重复展开。
+
+### [Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos](https://www.youtube.com/watch?v=WY0cdD4gNoQ)
+
+[Lenny's Podcast](https://www.youtube.com/@lennyspodcast)，2026-11-15 21:30:37 Asia/Shanghai（UTC+8），时长 1:27:15。嘉宾 Mona Sarantakos 是 Meta Superintelligence Labs 产品副总裁，从第一天起负责 Muse；节目称这是她的首次播客访谈。
+
+按[节目简介](https://www.youtube.com/watch?v=WY0cdD4gNoQ)，Muse 被出品方称为当时 App Store 排名第一的应用，也是「arguably the fastest-growing AI consumer product of all time」——这是节目自己的表述，不是本站独立核实的市场数据。对谈从一次周末实验讲起：用树莓派跑 OpenClaw，后来做成 Muse；团队起步并不晚，却等了七个月才上线。Nat Friedman、Alex Wang 和 Mark Zuckerberg 都被说成在产品上留下了各自的印记。讨论还覆盖：用「agent swarms」规模化整理用户洞察、团队事先没料到的购物场景、占位形象 Jolly 如何变成符号、真正能拉动智能体激活的两个杠杆，以及她现在招产品经理时最看重什么。完整文字稿在 [Lenny 的 newsletter](https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most) 上，这里只做导读。
+
+### [The Rise Of AI Coworkers](https://www.youtube.com/watch?v=y1-9yeYLJUo)
+
+[Y Combinator](https://www.youtube.com/@ycombinator) 的 Lightcone，2026-11-15 07:21:16 Asia/Shanghai（UTC+8），时长 1:00:06。嘉宾是 Lauren Tan 与 Roman Ugarte，主题是他们如何做出并部署 Grok Bot。
+
+按[节目简介](https://www.youtube.com/watch?v=y1-9yeYLJUo)，他们强调用自动化测试和代码库护栏让智能体先检查自己的工作，认为机器人的权限应当逐步挣得，而不是一开始就给满；执行变得更快、更便宜之后，方向和目标设定反而更重要。章节目录还谈到一个还是一队专职机器人、公司内共享、身份与权限、机器人之间的协作与信任，以及「每月 4,000 个 PR」背后的工作流——后一个数字来自节目章节标题，不是本站另行统计的结果。后半段转向：怎样教智能体写出可以信任的代码、个人软件工厂、产品判断何时变成瓶颈，以及从财务转向 AI 工程的经验。
+
+### [Cyberattacks Used to Take Months. AI Can Do It in Minutes.](https://www.youtube.com/watch?v=PbD9pVXxsYM)
+
+[a16z](https://www.youtube.com/@a16z)，2026-11-13 23:30:16 Asia/Shanghai（UTC+8），时长 46:06。Wiz 联合创始人兼 CTO Ami Luttwak，对谈人是 a16z 的 Zane Lackey 与 Sarah Wang。
+
+Luttwak 把一轮漏洞与智能体攻击称为 “Black October”，认为这是网络安全的转折点。按[节目简介](https://www.youtube.com/watch?v=PbD9pVXxsYM)，讨论的核心不是某一个漏洞的细节，而是时间被压缩：从发现到被利用的间隔，正在从以月计变成以分钟计；开源模型也让更具攻击力的能力更容易落到更多人手上。他提到创业公司若持有高价值的 AI 凭证，会成为更有吸引力的目标，昨天还算安全的架构，在模型进步后未必仍然安全。防御一侧，他主张持续攻击自己的系统、尽量自动完成排查与修补，并按「高水平攻击者终将进来」来设计基础设施。简介里的原话大意是：攻击者若能在分钟级行动，防御就不能再按人的时间表运转。
+
+### [Powering AI-Driven Drug Discovery with President of Isomorphic Labs Max Jaderberg](https://www.youtube.com/watch?v=IiKf3BgBezE)
+
+[No Priors](https://www.youtube.com/@NoPriorsPodcast)，2026-11-12 19:00:17 Asia/Shanghai（UTC+8），时长 39:16。主持人 Elad Gil，嘉宾是 Isomorphic Labs 总裁 Max Jaderberg。
+
+按[节目简介](https://www.youtube.com/watch?v=IiKf3BgBezE)，Jaderberg 把传统药物研发写成昂贵、耗时的经验试错，并希望把发现过程搬到计算机上，使医学从「发现」转向更接近精密工程。他以 AlphaFold 作为深度学习能在生物学里泛化的第一批证明，并谈到模型的学习如何随规模复利，从而提高真实临床试验的成功概率与速度。对谈还涉及：用计算机模拟减少对动物试验的依赖、做不绑定单一病种或靶点或模态的药物设计引擎、更准确的分子工程如何打开跨越复杂通路的多药组合，以及他如何看待药物优化对寿命与健康寿命的影响。这些是嘉宾的愿景与判断，不是已经实现的临床结论。
+
+### [Mike Volpi on Why AI Infrastructure Will Outlast the Hype Cycle](https://www.youtube.com/watch?v=LI3lxzHfRrU)
+
+[a16z](https://www.youtube.com/@a16z)，2026-11-11 23:30:22 Asia/Shanghai（UTC+8），时长 56:06。Mike Volpi 曾参与思科在互联网基建高潮中的策略，对谈人是 a16z 的 Raghu Raghuram 与 Guido Appenzeller。
+
+按[节目简介](https://www.youtube.com/watch?v=LI3lxzHfRrU)，他拿 1990 年代末的光纤热潮对照今天的 GPU、数据中心与电力投资：上一轮堆的是带宽，这一轮堆的是智能；即便市场回调，这些基础设施仍可能留下价值。讨论覆盖英伟达、定制芯片、网络，以及 GPU 经济学的变化，章节里还提到「GPU 的实际使用年限超过折旧假设」。后半段是思科并购机器的经验、给英伟达的建议、创始人何时该卖、今日 AI 基建图谱，以及数据中心网络如何为 AI 改写。他认为这一轮技术周期的影响可能比上一轮更大——这是嘉宾判断，不是预测已兑现。
+
+### [Rebuilding GitHub for the Agent Era — Jay Parikh, EVP of CoreAI, Microsoft](https://www.youtube.com/watch?v=rSWiNE92xqM)
+
+[Latent Space](https://www.youtube.com/@LatentSpacePod)，2026-11-08 09:22:17 Asia/Shanghai（UTC+8），时长 23:15。微软 CoreAI 执行副总裁 Jay Parikh 在 GitHub Universe 主题演讲后接受采访。
+
+按[节目简介](https://www.youtube.com/watch?v=rSWiNE92xqM)及其引用的 [Octoverse](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/) 说法，GitHub 有 2.25 亿开发者，过去一年处理了 343 亿次提交——这些数字来自节目与官方报告，不是本站另行统计。下一阶段的扩展压力被说成来自智能体工作负载。对谈涉及 Copilot Fusion 的模型编排与质量–成本边界、它下面的 harness、一次会话如何在手机、桌面和 VS Code 之间延续，以及 GitHub 迁往 Azure 的基础设施工作。Parikh 主张用完成的工作和业务结果来衡量 AI 开支。沿途还谈到：他在部分自己的仓库里跳过 pull request、Matt Pocock 的 Markdown 指令仓库，以及把两千个依赖换成二十个之后「谁来维护」的问题。
+
+## 7. 本月阅读与今日书摘
 
 本站从今天起，会在工作日的早报里分期读一本软件工程书。11 月的四本书是：
 
@@ -240,10 +280,10 @@ WDR 报道，周五微软服务故障导致 Outlook 等中断。德国主题乐�
 
 明天（11 月 17 日，星期二）继续第 5–8 章：第二个系统、传递信息、巴比伦塔为什么失败，以及胸有成竹。
 
-## 7. 今日总结
+## 8. 今日总结
 
 今天信息环境的主轴很清楚，而且中外平台叠在同一件事上：深圳 APEC 以及正在协调的中美俄三方会晤。它同时出现在微博置顶、自然热搜第一，以及 BBC、纽约时报对卡尼亚洲行的铺垫里。欧洲媒体则更多在写忧虑。会晤是否成行、核裁军与经贸能谈出什么，都还没有可核对的结果，但议程本身已经足够把其他新闻挤到第二排。
 
 第二根线是技术与安全的「裂缝」同时发声。星舰第一次在发射塔上接住飞船，是航天工程的高光；同一张 HN 首页上，却是微软故障让氯警报邮件无人接收、Bitly 旧链被重新领取、uBlock 的选择器被网页驱使、Tor 中继挨 DDoS、Coles 在查网络安全事件。它们并不属于同一攻击，但都在提醒：系统与系统之间的接口，往往比系统内部更脆弱。通义千问发布 Qwen4-Max，是中文技术圈当天为数不多的「新品」正片；它与微博上 DeepSeek「算力不足限额」的热搜、英文圈对英伟达人事和出口管制的讨论，处在同一张算力地图的不同角落。
 
-市场则更疲倦。A 股收跌，深成指跌幅明显大于上证；人民币中间价几乎不动；现货黄金仍在 3,800 美元上方。X 的美国热榜还停在橄榄球场，科技讨论则被「黄仁勋回不回得来」拖成连续剧——这件事被转述得很多，被证实的很少。作为本站的第一篇早报，更合适的态度也许是：把能核对的数字和链接放在前面，把还在流传的故事明确标出来，剩下的交给明天的稿。阅读这边则先从一个更老、也更硬的判断开始：人月不能当可互换的单位，概念完整性要比堆叠许多好想法更要紧。明天继续《人月神话》的第 5–8 章。
+市场则更疲倦。A 股收跌，深成指跌幅明显大于上证；人民币中间价几乎不动；现货黄金仍在 3,800 美元上方。X 的美国热榜还停在橄榄球场，科技讨论则被「黄仁勋回不回得来」拖成连续剧——这件事被转述得很多，被证实的很少。油管访谈则提供了另一条侧写，而不是把上面的新闻再讲一遍：消费级智能体如何等到自己满意再上线，工作型智能体怎样靠测试和权限阶梯被当成同事，安全响应为什么可能不再按人的时间表运转，药物发现和 AI 基建又各自把「这一轮」说成工程问题。GitHub 那期更短，但判断很硬：平台下一步要扛的，是智能体带来的工作负载。作为本站的第一篇早报，更合适的态度也许是：把能核对的数字和链接放在前面，把还在流传的故事明确标出来，剩下的交给明天的稿。阅读这边则先从一个更老、也更硬的判断开始：人月不能当可互换的单位，概念完整性要比堆叠许多好想法更要紧。明天继续《人月神话》的第 5–8 章。
