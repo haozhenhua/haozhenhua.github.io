@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "notes": "每期早报写入一条 snapshot，供后一期计算涨跌。同一序列只与同源、同口径的上一期读数比较，不要跨接口混算。黄金与市场化参考汇率的接口通常不提供涨跌，必须以本档案的相邻快照计算，并在变化栏标明「较上一期早报」及上一期采集时间。人民币中间价和 A 股若来源已给出官方涨跌（上一发布日中间价、昨收），变化栏以官方口径为主，同时仍要把本期读数写入档案。",
   "series": {
     "xau_usd": {
@@ -107,6 +107,91 @@
           "high": 10881.91,
           "low": 10642.37,
           "session": "close"
+        }
+      }
+    },
+    {
+      "brief_date": "2026-11-17",
+      "permalink": "/2026/11/17/daily-brief/",
+      "collected_at": "2026-11-17 07:38:00 Asia/Shanghai (UTC+8)",
+      "quotes": {
+        "xau_usd": {
+          "value": 3856.469971,
+          "display": "3,856.47",
+          "as_of": "2026-11-16T23:35:57Z",
+          "as_of_shanghai": "2026-11-17 07:35:57 Asia/Shanghai (UTC+8)",
+          "source": "Gold-API",
+          "url": "https://api.gold-api.com/price/XAU",
+          "change_from_previous_brief": {
+            "previous_brief_date": "2026-11-16",
+            "previous_value": 3842.27002,
+            "previous_as_of_shanghai": "2026-11-16 14:51:28 Asia/Shanghai (UTC+8)",
+            "delta": 14.199951,
+            "change_pct": 0.37
+          }
+        },
+        "usd_cny_cfets_mid": {
+          "value": 6.7141,
+          "display": "6.7141",
+          "date": "2026-11-16",
+          "as_of_shanghai": "2026-11-17 07:36:13 Asia/Shanghai (UTC+8)",
+          "source": "CFETS / ChinaMoney CCPR",
+          "url": "https://www.chinamoney.com.cn/ags/ms/cm-u-bk-ccpr/CcprHisNew?startDate=&endDate=&currency=USD/CNY&pageNum=1&pageSize=5",
+          "official_previous": {
+            "date": "2026-11-13",
+            "value": 6.7152,
+            "delta": -0.0011
+          },
+          "note": "采集时 11 月 17 日中间价尚未公布，本条为截至 11 月 16 日的最新官方中间价。"
+        },
+        "usd_cny_midmarket": {
+          "value": 6.678399,
+          "display": "6.678399",
+          "as_of": "2026-11-16T00:02:31Z",
+          "as_of_shanghai": "2026-11-16 08:02:31 Asia/Shanghai (UTC+8)",
+          "source": "ExchangeRate-API",
+          "url": "https://open.er-api.com/v6/latest/USD",
+          "time_last_update_utc": "Mon, 16 Nov 2026 00:02:31 +0000",
+          "note": "与 2026-11-16 早报为同一笔日更读数；下一笔预定 Tue, 17 Nov 2026 00:35:41 +0000。",
+          "change_from_previous_brief": {
+            "previous_brief_date": "2026-11-16",
+            "previous_value": 6.678399,
+            "previous_as_of_shanghai": "2026-11-16 08:02:31 Asia/Shanghai (UTC+8)",
+            "delta": 0.0,
+            "change_pct": 0.0
+          }
+        },
+        "sse_000001": {
+          "value": 3602.57,
+          "display": "3602.57",
+          "as_of_shanghai": "2026-11-17 07:38:10 Asia/Shanghai (UTC+8)",
+          "quote_timestamp": "20261116161427",
+          "source": "Tencent Finance (Eastmoney returned 502)",
+          "url": "https://qt.gtimg.cn/q=sh000001,sz399001",
+          "previous_close": 3634.35,
+          "change": -31.78,
+          "change_pct": -0.87,
+          "open": 3611.54,
+          "high": 3623.12,
+          "low": 3586.57,
+          "session": "previous_close_preopen",
+          "note": "采集时尚在 11 月 17 日常规开盘之前，此为 11 月 16 日收盘价。"
+        },
+        "szse_399001": {
+          "value": 10690.78,
+          "display": "10690.78",
+          "as_of_shanghai": "2026-11-17 07:38:10 Asia/Shanghai (UTC+8)",
+          "quote_timestamp": "20261116161406",
+          "source": "Tencent Finance (Eastmoney returned 502)",
+          "url": "https://qt.gtimg.cn/q=sh000001,sz399001",
+          "previous_close": 10968.79,
+          "change": -278.01,
+          "change_pct": -2.53,
+          "open": 10881.91,
+          "high": 10881.91,
+          "low": 10642.37,
+          "session": "previous_close_preopen",
+          "note": "采集时尚在 11 月 17 日常规开盘之前，此为 11 月 16 日收盘价。"
         }
       }
     }

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-11-16",
-  "source_brief": "/2026/11/16/daily-brief/",
+  "updated": "2026-11-17",
+  "source_brief": "/2026/11/17/daily-brief/",
   "rules": {
     "skip_if_seen": true,
     "material_update_as_followup": true,
@@ -18,13 +18,16 @@
       "title": "深圳 APEC：美中俄三方会晤正在协调",
       "url": "https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad",
       "first_brief": "2026-11-16",
-      "last_brief": "2026-11-16",
-      "status": "covered",
+      "last_brief": "2026-11-17",
+      "status": "update",
       "urls": [
         "https://www.bbc.com/zhongwen/articles/c6lym29v7nr0o/trad",
         "https://www.bbc.com/zhongwen/articles/cwe85djzkkv5o/trad",
         "https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks",
-        "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html"
+        "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
+        "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+        "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
+        "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23"
       ]
     },
     {
@@ -46,10 +49,11 @@
       "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
       "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo",
       "first_brief": "2026-11-16",
-      "last_brief": "2026-11-16",
-      "status": "covered",
+      "last_brief": "2026-11-17",
+      "status": "update",
       "urls": [
-        "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html"
+        "https://www.nytimes.com/2026/11/15/world/middleeast/saudi-houthis-yemen-red-sea.html",
+        "https://www.bbc.co.uk/news/articles/cmy97qperq9eo"
       ]
     },
     {
@@ -58,13 +62,17 @@
       "title": "英伟达风波：黄仁勋去职与回归传闻（流传，非已核实事实）",
       "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
       "first_brief": "2026-11-16",
-      "last_brief": "2026-11-16",
-      "status": "covered",
+      "last_brief": "2026-11-17",
+      "status": "update",
       "urls": [
         "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
         "https://www.bbc.com/zhongwen/articles/cw8dvqp5z412o/trad",
         "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-        "https://www.youtube.com/watch?v=Uv2w4VTU-iQ"
+        "https://www.youtube.com/watch?v=Uv2w4VTU-iQ",
+        "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
+        "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
+        "https://x.com/i/trending/2122309300601205175",
+        "https://x.com/i/trending/2122323250177036571"
       ],
       "note": "传言与评论节目，不是已核实的人事结论。All-In 2026-11-13 同题一期已视为同一事件，不单列展开。"
     },
@@ -1168,6 +1176,1145 @@
       "last_brief": "2026-11-16",
       "status": "covered",
       "note": "作为 HN 条目引用，不是访谈栏目正文"
+    },
+    {
+      "id": "story:eu-rwanda-return-hubs",
+      "type": "story",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go",
+      "urls": [
+        "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+        "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "story:crimea-bridge-ukraine-drone-attack",
+      "type": "story",
+      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o",
+      "urls": [
+        "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "story:estonia-russia-border-closure-drone-factory",
+      "type": "story",
+      "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+      "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "story:south-africa-mass-shootings-17-dead",
+      "type": "story",
+      "title": "Two mass shootings in South Africa leave 17 dead",
+      "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "story:un-lethal-autonomous-weapons-talks",
+      "type": "story",
+      "title": "U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons",
+      "url": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
+      "urls": [
+        "https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "story:jpmorgan-us-banks-outage",
+      "type": "story",
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "urls": [
+        "https://www.bbc.co.uk/news/articles/cj752wvqneq6o",
+        "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-zelle-aeb4b0d6b6789c8c96bb2520454a6d1e"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "story:united-airlines-system-outage",
+      "type": "story",
+      "title": "United Airlines experiencing a widespread system outage",
+      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "story:optimizely-malware-supply-chain",
+      "type": "story",
+      "title": "World's Largest Brands Infected With Malware Via Optimizely",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "story:microsoft-365-email-outage-july-defect",
+      "type": "story",
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "story:taiwan-lizhang-china-trips",
+      "type": "story",
+      "title": "里长赴中旅游受关注",
+      "url": "https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad",
+      "urls": [
+        "https://www.bbc.com/zhongwen/articles/cr7428z1wx74o/trad"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50517488",
+      "type": "hn",
+      "title": "Many of Amazon's Black Friday and Cyber Monday deals offered no savings",
+      "url": "https://news.ycombinator.com/item?id=50517488",
+      "urls": [
+        "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+      "type": "news",
+      "title": "Many of Amazon's Black Friday and Cyber Monday deals offered no savings",
+      "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50521045",
+      "type": "hn",
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "url": "https://news.ycombinator.com/item?id=50521045",
+      "urls": [
+        "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "type": "news",
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50522980",
+      "type": "hn",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://news.ycombinator.com/item?id=50522980",
+      "urls": [
+        "https://www.cs.cmu.edu/learn/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.cs.cmu.edu/learn/",
+      "type": "news",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50516473",
+      "type": "hn",
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "url": "https://news.ycombinator.com/item?id=50516473",
+      "urls": [
+        "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+      "type": "news",
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50519744",
+      "type": "hn",
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "url": "https://news.ycombinator.com/item?id=50519744",
+      "urls": [
+        "https://burntsushi.net/jiff/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://burntsushi.net/jiff/",
+      "type": "news",
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "url": "https://burntsushi.net/jiff/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50519354",
+      "type": "hn",
+      "title": "Frame color ePaper display",
+      "url": "https://news.ycombinator.com/item?id=50519354",
+      "urls": [
+        "https://trmnl.com/blog/introducing-frame"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://trmnl.com/blog/introducing-frame",
+      "type": "news",
+      "title": "Frame color ePaper display",
+      "url": "https://trmnl.com/blog/introducing-frame",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50523601",
+      "type": "hn",
+      "title": "BugMeNot has closed",
+      "url": "https://news.ycombinator.com/item?id=50523601",
+      "urls": [
+        "https://www.bugmenot.com/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bugmenot.com/",
+      "type": "news",
+      "title": "BugMeNot has closed",
+      "url": "https://www.bugmenot.com/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50520182",
+      "type": "hn",
+      "title": "Grazing sheep in fields with solar arrays",
+      "url": "https://news.ycombinator.com/item?id=50520182",
+      "urls": [
+        "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "type": "news",
+      "title": "Grazing sheep in fields with solar arrays",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50517321",
+      "type": "hn",
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "url": "https://news.ycombinator.com/item?id=50517321",
+      "urls": [
+        "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "type": "news",
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50522563",
+      "type": "hn",
+      "title": "Rust changed me as a developer",
+      "url": "https://news.ycombinator.com/item?id=50522563",
+      "urls": [
+        "https://blog.startifact.com/posts/how-rust-changed-me/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://blog.startifact.com/posts/how-rust-changed-me/",
+      "type": "news",
+      "title": "Rust changed me as a developer",
+      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50524165",
+      "type": "hn",
+      "title": "United Airlines experiencing a widespread system outage, airline says",
+      "url": "https://news.ycombinator.com/item?id=50524165",
+      "urls": [
+        "https://www.cnn.com/2026/11/16/us/united-airlines-outage"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "type": "news",
+      "title": "United Airlines experiencing a widespread system outage, airline says",
+      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50515151",
+      "type": "hn",
+      "title": "Squircles",
+      "url": "https://news.ycombinator.com/item?id=50515151",
+      "urls": [
+        "https://linebender.org/wiki/curves/squircle/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://linebender.org/wiki/curves/squircle/",
+      "type": "news",
+      "title": "Squircles",
+      "url": "https://linebender.org/wiki/curves/squircle/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50520270",
+      "type": "hn",
+      "title": "Aristotle Expands into Rust",
+      "url": "https://news.ycombinator.com/item?id=50520270",
+      "urls": [
+        "https://www.harmonic.fun/news/aristotle-rust-verification/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.harmonic.fun/news/aristotle-rust-verification/",
+      "type": "news",
+      "title": "Aristotle Expands into Rust",
+      "url": "https://www.harmonic.fun/news/aristotle-rust-verification/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50520804",
+      "type": "hn",
+      "title": "Strengthening the fight against online child sexual abuse",
+      "url": "https://news.ycombinator.com/item?id=50520804",
+      "urls": [
+        "https://openai.com/index/strengthening-online-child-safety/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://openai.com/index/strengthening-online-child-safety/",
+      "type": "news",
+      "title": "Strengthening the fight against online child sexual abuse",
+      "url": "https://openai.com/index/strengthening-online-child-safety/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50519345",
+      "type": "hn",
+      "title": "Jolt - Clojure that speaks C",
+      "url": "https://news.ycombinator.com/item?id=50519345",
+      "urls": [
+        "https://jolt-lang.net/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://jolt-lang.net/",
+      "type": "news",
+      "title": "Jolt - Clojure that speaks C",
+      "url": "https://jolt-lang.net/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50520518",
+      "type": "hn",
+      "title": "Michael Mann's Heat Copyright Fight Turns on a Deal with Himself",
+      "url": "https://news.ycombinator.com/item?id=50520518",
+      "urls": [
+        "https://copyrightlately.com/michael-mann-heat-copyright-termination/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://copyrightlately.com/michael-mann-heat-copyright-termination/",
+      "type": "news",
+      "title": "Michael Mann's Heat Copyright Fight Turns on a Deal with Himself",
+      "url": "https://copyrightlately.com/michael-mann-heat-copyright-termination/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50523025",
+      "type": "hn",
+      "title": "Comcast fiber-powered Wi-Fi is cable, AT&T says in false advertising case",
+      "url": "https://news.ycombinator.com/item?id=50523025",
+      "urls": [
+        "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "type": "news",
+      "title": "Comcast fiber-powered Wi-Fi is cable, AT&T says in false advertising case",
+      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50523291",
+      "type": "hn",
+      "title": "My Quest to push native Three.js quality match AAA Game Engines",
+      "url": "https://news.ycombinator.com/item?id=50523291",
+      "urls": [
+        "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+      "type": "news",
+      "title": "My Quest to push native Three.js quality match AAA Game Engines",
+      "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50523300",
+      "type": "hn",
+      "title": "World's Largest Brands Infected With Malware Via Optimizely",
+      "url": "https://news.ycombinator.com/item?id=50523300",
+      "urls": [
+        "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "type": "news",
+      "title": "World's Largest Brands Infected With Malware Via Optimizely",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50523459",
+      "type": "hn",
+      "title": "OpenCode Browse",
+      "url": "https://news.ycombinator.com/item?id=50523459",
+      "urls": [
+        "https://opencode.ai/product/browse"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://opencode.ai/product/browse",
+      "type": "news",
+      "title": "OpenCode Browse",
+      "url": "https://opencode.ai/product/browse",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50522643",
+      "type": "hn",
+      "title": "Chemistry is Actually Geometry",
+      "url": "https://news.ycombinator.com/item?id=50522643",
+      "urls": [
+        "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "type": "news",
+      "title": "Chemistry is Actually Geometry",
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50524225",
+      "type": "hn",
+      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "url": "https://news.ycombinator.com/item?id=50524225",
+      "urls": [
+        "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "type": "news",
+      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50521870",
+      "type": "hn",
+      "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+      "url": "https://news.ycombinator.com/item?id=50521870",
+      "urls": [
+        "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
+      "type": "news",
+      "title": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+      "url": "https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50523784",
+      "type": "hn",
+      "title": "Spamhaus new email sender requirements in November",
+      "url": "https://news.ycombinator.com/item?id=50523784",
+      "urls": [
+        "https://www.spamhaus.org/sender-guidelines/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.spamhaus.org/sender-guidelines/",
+      "type": "news",
+      "title": "Spamhaus new email sender requirements in November",
+      "url": "https://www.spamhaus.org/sender-guidelines/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50522776",
+      "type": "hn",
+      "title": "Launch HN: Axonnic (YC F26)",
+      "url": "https://news.ycombinator.com/item?id=50522776",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50524728",
+      "type": "hn",
+      "title": "US will say no to global ban on killer robots",
+      "url": "https://news.ycombinator.com/item?id=50524728",
+      "urls": [
+        "https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369",
+      "type": "news",
+      "title": "US will say no to global ban on killer robots",
+      "url": "https://www.newsweek.com/us-expected-to-block-killer-robot-treaty-talks-12722369",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50485327",
+      "type": "hn",
+      "title": "The origins of the placenta",
+      "url": "https://news.ycombinator.com/item?id=50485327",
+      "urls": [
+        "https://www.caltech.edu/about/news/uncovering-the-hidden-origins-of-the-placenta"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.caltech.edu/about/news/uncovering-the-hidden-origins-of-the-placenta",
+      "type": "news",
+      "title": "The origins of the placenta",
+      "url": "https://www.caltech.edu/about/news/uncovering-the-hidden-origins-of-the-placenta",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50524736",
+      "type": "hn",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://news.ycombinator.com/item?id=50524736",
+      "urls": [
+        "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "type": "news",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50524767",
+      "type": "hn",
+      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+      "url": "https://news.ycombinator.com/item?id=50524767",
+      "urls": [
+        "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50497621",
+      "type": "hn",
+      "title": "Formal Verification Is Not Verifiable",
+      "url": "https://news.ycombinator.com/item?id=50497621",
+      "urls": [
+        "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/"
+      ],
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
+      "type": "news",
+      "title": "Formal Verification Is Not Verifiable",
+      "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cw987343352go",
+      "type": "news",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+      "type": "news",
+      "title": "Five European Countries Plan to Deport Migrants to Rwanda",
+      "url": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+      "type": "news",
+      "title": "Five EU states announce plans for immigration return hubs in Rwanda",
+      "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cmy97qperq9eo",
+      "type": "news",
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cry49plv8v3go",
+      "type": "news",
+      "title": "Nvidia dismisses campaign to bring back Jensen Huang as Trump backs effort",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o",
+      "type": "news",
+      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
+      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cqp83nk673reo",
+      "type": "news",
+      "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
+      "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo",
+      "type": "news",
+      "title": "Two mass shootings in South Africa leave 17 dead",
+      "url": "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+      "type": "news",
+      "title": "Trump's Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
+      "url": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
+      "type": "news",
+      "title": "Trump to embark on Asia trip in apparent foreign policy push before end of term",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
+      "type": "news",
+      "title": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
+      "url": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
+      "type": "news",
+      "title": "U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons",
+      "url": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
+      "type": "news",
+      "title": "Too Many Chips in One Basket?",
+      "url": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cj752wvqneq6o",
+      "type": "news",
+      "title": "Customers report outages at Chase, Bank of America and Wells Fargo",
+      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://apnews.com/article/bank-outage-chase-wells-fargo-truist-zelle-aeb4b0d6b6789c8c96bb2520454a6d1e",
+      "type": "news",
+      "title": "What to know about the online banking delays affecting major US banks",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-zelle-aeb4b0d6b6789c8c96bb2520454a6d1e",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad",
+      "type": "news",
+      "title": "里长赴中旅游受关注",
+      "url": "https://www.bbc.com/zhongwen/articles/cm3elx8gxdn3o/trad",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.com/zhongwen/articles/cr7428z1wx74o/trad",
+      "type": "news",
+      "title": "里长赴中旅游：台湾反渗透法为何查办多、定罪少",
+      "url": "https://www.bbc.com/zhongwen/articles/cr7428z1wx74o/trad",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "yt:0NE89Nzfk20",
+      "type": "youtube",
+      "title": "The Pragmatic Engineer: Software engineering after code becomes cheap with Satya Nadella",
+      "url": "https://www.youtube.com/watch?v=0NE89Nzfk20",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "yt:SyHM5hNPAEo",
+      "type": "youtube",
+      "title": "Dwarkesh Patel: We could be 12 months away from AIs that can overthrow the government",
+      "url": "https://www.youtube.com/watch?v=SyHM5hNPAEo",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "yt:g_67TmQ8lGY",
+      "type": "youtube",
+      "title": "a16z: What History Tells Us About the AI Revolution | Tyler Cowen & Alex Imas",
+      "url": "https://www.youtube.com/watch?v=g_67TmQ8lGY",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "yt:8cGfJOU3AlQ",
+      "type": "youtube",
+      "title": "Latent Space: Why FLUX 3 Trains on Images, Video and Sound",
+      "url": "https://www.youtube.com/watch?v=8cGfJOU3AlQ",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "yt:qGf2Yvan4Wg",
+      "type": "youtube",
+      "title": "Lenny's Podcast: Why PMs are suddenly valuable again | Tulsee Doshi",
+      "url": "https://www.youtube.com/watch?v=qGf2Yvan4Wg",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "yt:Q78dJ0vkWe8",
+      "type": "youtube",
+      "title": "Y Combinator: How To Build The Future: Paul Graham & Amjad Masad",
+      "url": "https://www.youtube.com/watch?v=Q78dJ0vkWe8",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#习近平在广东省中山市考察#",
+      "type": "weibo",
+      "title": "#习近平在广东省中山市考察#",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%A8%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%AD%E5%B1%B1%E5%B8%82%E8%80%83%E5%AF%9F%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#APEC合作成果惠及千家万户#",
+      "type": "weibo",
+      "title": "#APEC合作成果惠及千家万户#",
+      "url": "https://s.weibo.com/weibo?q=%23APEC%E5%90%88%E4%BD%9C%E6%88%90%E6%9E%9C%E6%83%A0%E5%8F%8A%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#终于有人说说干发帽了#",
+      "type": "weibo",
+      "title": "#终于有人说说干发帽了#",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%9C%89%E4%BA%BA%E8%AF%B4%E8%AF%B4%E5%B9%B2%E5%8F%91%E5%B8%BD%E4%BA%86%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#沈奕斐聊养娃如何不焦虑#",
+      "type": "weibo",
+      "title": "#沈奕斐聊养娃如何不焦虑#",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B2%88%E5%A5%95%E6%96%90%E8%81%8A%E5%85%BB%E5%A8%83%E5%A6%82%E4%BD%95%E4%B8%8D%E7%84%A6%E8%99%91%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:6年恋爱因一枚戒指分手",
+      "type": "weibo",
+      "title": "6年恋爱因一枚戒指分手",
+      "url": "https://s.weibo.com/weibo?q=6%E5%B9%B4%E6%81%8B%E7%88%B1%E5%9B%A0%E4%B8%80%E6%9E%9A%E6%88%92%E6%8C%87%E5%88%86%E6%89%8B",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#华尔街日报必须道歉#",
+      "type": "weibo",
+      "title": "#华尔街日报必须道歉#",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B0%94%E8%A1%97%E6%97%A5%E6%8A%A5%E5%BF%85%E9%A1%BB%E9%81%93%E6%AD%89%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#新007是帕丁森#",
+      "type": "weibo",
+      "title": "#新007是帕丁森#",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0007%E6%98%AF%E5%B8%95%E4%B8%81%E6%A3%AE%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#金价创今年以来新低#",
+      "type": "weibo",
+      "title": "#金价创今年以来新低#",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%88%9B%E4%BB%8A%E5%B9%B4%E4%BB%A5%E6%9D%A5%E6%96%B0%E4%BD%8E%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#乔欣宣传蒋欣新剧多喜一家人#",
+      "type": "weibo",
+      "title": "#乔欣宣传蒋欣新剧多喜一家人#",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%E5%AE%A3%E4%BC%A0%E8%92%8B%E6%AC%A3%E6%96%B0%E5%89%A7%E5%A4%9A%E5%96%9C%E4%B8%80%E5%AE%B6%E4%BA%BA%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#墨西哥总统抵达深圳后做了一个动作#",
+      "type": "weibo",
+      "title": "#墨西哥总统抵达深圳后做了一个动作#",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%E5%90%8E%E5%81%9A%E4%BA%86%E4%B8%80%E4%B8%AA%E5%8A%A8%E4%BD%9C%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#高市早苗穿菲律宾服饰出席晚宴#",
+      "type": "weibo",
+      "title": "#高市早苗穿菲律宾服饰出席晚宴#",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%A9%BF%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%9C%8D%E9%A5%B0%E5%87%BA%E5%B8%AD%E6%99%9A%E5%AE%B4%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:吃了点didi喂",
+      "type": "weibo",
+      "title": "吃了点didi喂",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%83%E4%BA%86%E7%82%B9didi%E5%96%82",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#被虞书欣起诉网友发文#",
+      "type": "weibo",
+      "title": "#被虞书欣起诉网友发文#",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%B5%B7%E8%AF%89%E7%BD%91%E5%8F%8B%E5%8F%91%E6%96%87%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#金子涵称被家人骗到了精神病院#",
+      "type": "weibo",
+      "title": "#金子涵称被家人骗到了精神病院#",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E5%AD%90%E6%B6%B5%E7%A7%B0%E8%A2%AB%E5%AE%B6%E4%BA%BA%E9%AA%97%E5%88%B0%E4%BA%86%E7%B2%BE%E7%A5%9E%E7%97%85%E9%99%A2%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#罗伯特帕丁森五大IP集齐#",
+      "type": "weibo",
+      "title": "#罗伯特帕丁森五大IP集齐#",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BC%AF%E7%89%B9%E5%B8%95%E4%B8%81%E6%A3%AE%E4%BA%94%E5%A4%A7IP%E9%9B%86%E9%BD%90%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#华为MateX8五款配色亮相#",
+      "type": "weibo",
+      "title": "#华为MateX8五款配色亮相#",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMateX8%E4%BA%94%E6%AC%BE%E9%85%8D%E8%89%B2%E4%BA%AE%E7%9B%B8%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#iPhoneDuo新增人脸识别解锁#",
+      "type": "weibo",
+      "title": "#iPhoneDuo新增人脸识别解锁#",
+      "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%96%B0%E5%A2%9E%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E8%A7%A3%E9%94%81%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#美芯片股集体下跌#",
+      "type": "weibo",
+      "title": "#美芯片股集体下跌#",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%8A%AF%E7%89%87%E8%82%A1%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#A股新利好来了#",
+      "type": "weibo",
+      "title": "#A股新利好来了#",
+      "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%96%B0%E5%88%A9%E5%A5%BD%E6%9D%A5%E4%BA%86%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#17家车企被点名查账#",
+      "type": "weibo",
+      "title": "#17家车企被点名查账#",
+      "url": "https://s.weibo.com/weibo?q=%2317%E5%AE%B6%E8%BD%A6%E4%BC%81%E8%A2%AB%E7%82%B9%E5%90%8D%E6%9F%A5%E8%B4%A6%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#菲律宾总统回忆与高市早苗唱K#",
+      "type": "weibo",
+      "title": "#菲律宾总统回忆与高市早苗唱K#",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%80%BB%E7%BB%9F%E5%9B%9E%E5%BF%86%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%94%B1K%23",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "x:trending:2122309300601205175",
+      "type": "x",
+      "title": "Nvidia Stock Tumbles on Cut AI Forecasts and CEO Resignation",
+      "url": "https://x.com/i/trending/2122309300601205175",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "x:trending:2122323250177036571",
+      "type": "x",
+      "title": "U.S. Closes Loophole on China's Remote Access to Advanced AI Chips",
+      "url": "https://x.com/i/trending/2122323250177036571",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "x:trending:2122464099590164980",
+      "type": "x",
+      "title": "AI Chip Stocks Face Pessimism Amid Demand Warnings",
+      "url": "https://x.com/i/trending/2122464099590164980",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
     }
   ]
 }
