@@ -16,7 +16,7 @@ title: "早报 · YYYY-MM-DD"
 date: YYYY-MM-DD HH:MM:SS +0800
 category: daily
 categories: [daily]
-tags: [每日早报, 金融市场, 全球头条, Hacker News, X, 微博]
+tags: [每日早报, 金融市场, 全球头条, Hacker News, X, 微博, 本月阅读]
 collected_at: "YYYY-MM-DD HH:MM:SS Asia/Shanghai (UTC+8)"
 permalink: /YYYY/MM/DD/daily-brief/
 ---
@@ -31,7 +31,8 @@ permalink: /YYYY/MM/DD/daily-brief/
 3. **Hacker News 近期文章**：抓取当前首页（Algolia `https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=30` 或官方首页 / hnrss）。对最热或讨论最多的 8–12 篇打开原文（并用 HN 讨论作评论语境），写中文摘要，保留英文标题，同时链接原文与 HN 帖。引语最多一两句，不转载全文。其余首页条目用短列表：英文标题、链接、一行中文、HN 点数与评论数。检查链接时只丢掉真正的 404；401/403/405 仍可列出。时间用 Asia/Shanghai。
 4. **X 热门与科技圈**：全球及有关地区趋势，加上 AI/IT 圈讨论。使用已安装的 X 公共连接器工具，不要自造接口。摘要并分析，引用帖子或趋势链接。未核实传言标明「在流传」。明显的假模型名垃圾信息可省略。
 5. **微博热搜**：请求 `https://weibo.com/ajax/side/hotSearch`，使用桌面 User-Agent、`Referer: https://weibo.com/`、`Accept: application/json`。区分置顶/政务（hotgov）、自然热搜与广告。科技、AI、IT、国际、重大社会话题写摘要与分析；纯娱乐放进「速览」。链接到 `s.weibo.com` 搜索页。接口失败时在文中说明，不要编造话题。
-6. **今日总结**：短评当天的信息环境。
+6. **本月阅读与今日书摘**：对照 `docs/reading-plan-2026-11.md`。若当天是计划中的工作日分期，把该日书摘写入早报（可按原文微调衔接，但不要改写得面目全非，也不要编造书中没有的论断或页码）；并附本月四本书与本周进度的简表或链接到 `/reading/`。周末或没有安排的日子，只保留书单和进度指引，不要硬塞新的章节摘要。注明书名、作者与章节；只做精炼，不转载章节正文。
+7. **今日总结**：短评当天的信息环境；若有书摘，可点一句阅读进度。
 
 ## 文风
 

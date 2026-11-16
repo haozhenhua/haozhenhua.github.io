@@ -1,18 +1,19 @@
 # haozhenhua.github.io
 
-个人 GitHub Pages 博客：[https://haozhenhua.github.io](https://haozhenhua.github.io)
+个人 GitHub Pages 博客 **OLLY早报**：[https://haozhenhua.github.io](https://haozhenhua.github.io)
 
-This is a personal reading-filter and daily-brief blog for GitHub user [haozhenhua](https://github.com/haozhenhua). The live site is a typography-first Chinese blog, not a news portal.
+This is **OLLY早报**, a personal daily-brief and staged-reading blog for GitHub user [haozhenhua](https://github.com/haozhenhua). The live site is a typography-first Chinese blog, not a news portal.
 
 ## 栏目
 
 - 首页：简介与最新文章
-- [每日早报](https://haozhenhua.github.io/daily/)：每天一篇公开信息整理
+- [每日早报](https://haozhenhua.github.io/daily/)：每天一篇公开信息整理，工作日含分期书摘
+- [本月阅读](https://haozhenhua.github.io/reading/)：软件工程书单与进度
 - [阅读笔记](https://haozhenhua.github.io/notes/)：个人摘录（目前还是空的）
 - [关于](https://haozhenhua.github.io/about/)
 - [标签](https://haozhenhua.github.io/tags/)：按主题或来源过滤
 
-文章是 `_posts/` 里的 Markdown。早报模板见 [`docs/brief-template.md`](docs/brief-template.md)。时区为 Asia/Shanghai（UTC+8）。
+文章是 `_posts/` 里的 Markdown。早报模板见 [`docs/brief-template.md`](docs/brief-template.md)，本月书单与分期书摘见 [`docs/reading-plan-2026-11.md`](docs/reading-plan-2026-11.md)。时区为 Asia/Shanghai（UTC+8）。
 
 ## 许可
 
