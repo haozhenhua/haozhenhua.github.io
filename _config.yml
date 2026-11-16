@@ -12,6 +12,7 @@ kramdown:
   hard_wrap: false
 highlighter: rouge
 permalink: /:year/:month/:day/:title/
+future: true
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
