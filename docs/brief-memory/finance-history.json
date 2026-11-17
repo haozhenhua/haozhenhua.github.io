@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "notes": "每期早报写入一条 snapshot，供后一期计算涨跌。同一序列只与同源、同口径的上一期读数比较，不要跨接口混算。黄金与市场化参考汇率的接口通常不提供涨跌，必须以本档案的相邻快照计算，并在变化栏标明「较上一期早报」及上一期采集时间。人民币中间价和 A 股若来源已给出官方涨跌（上一发布日中间价、昨收），变化栏以官方口径为主，同时仍要把本期读数写入档案。若写稿时当日官方中间价或 A 股收盘尚未公布，快照必须写入最近一次已公布的官方读数（上一发布日中间价、最近一个交易日收盘价），并在 note 或 session 中标明，不要把尚未公布写成缺数字。",
   "series": {
     "xau_usd": {
@@ -192,6 +192,90 @@
           "low": 10642.37,
           "session": "previous_close_preopen",
           "note": "采集时尚在 11 月 17 日常规开盘之前，此为 11 月 16 日收盘价。"
+        }
+      }
+    },
+    {
+      "brief_date": "2026-11-18",
+      "permalink": "/2026/11/18/daily-brief/",
+      "collected_at": "2026-11-18 07:42:00 Asia/Shanghai (UTC+8)",
+      "quotes": {
+        "xau_usd": {
+          "value": 3856.27002,
+          "display": "3,856.27",
+          "as_of": "2026-11-17T23:33:59Z",
+          "as_of_shanghai": "2026-11-18 07:33:59 Asia/Shanghai (UTC+8)",
+          "source": "Gold-API",
+          "url": "https://api.gold-api.com/price/XAU",
+          "change_from_previous_brief": {
+            "previous_brief_date": "2026-11-17",
+            "previous_value": 3856.469971,
+            "previous_as_of_shanghai": "2026-11-17 07:35:57 Asia/Shanghai (UTC+8)",
+            "delta": -0.199951,
+            "change_pct": -0.005184819316723664
+          }
+        },
+        "usd_cny_cfets_mid": {
+          "value": 6.7132,
+          "display": "6.7132",
+          "date": "2026-11-17",
+          "as_of_shanghai": "2026-11-18 07:34:15 Asia/Shanghai (UTC+8)",
+          "source": "CFETS / ChinaMoney CCPR",
+          "url": "https://www.chinamoney.com.cn/ags/ms/cm-u-bk-ccpr/CcprHisNew?startDate=&endDate=&currency=USD/CNY&pageNum=1&pageSize=5",
+          "official_previous": {
+            "date": "2026-11-16",
+            "value": 6.7141,
+            "delta": -0.0009
+          },
+          "note": "采集时 11 月 18 日中间价尚未公布，本条为截至 11 月 17 日的最新官方中间价。"
+        },
+        "usd_cny_midmarket": {
+          "value": 6.679257,
+          "display": "6.679257",
+          "as_of": "2026-11-17T00:02:31Z",
+          "as_of_shanghai": "2026-11-17 08:02:31 Asia/Shanghai (UTC+8)",
+          "source": "ExchangeRate-API",
+          "url": "https://open.er-api.com/v6/latest/USD",
+          "time_last_update_utc": "Tue, 17 Nov 2026 00:02:31 +0000",
+          "change_from_previous_brief": {
+            "previous_brief_date": "2026-11-16",
+            "previous_value": 6.678399,
+            "previous_as_of_shanghai": "2026-11-16 08:02:31 Asia/Shanghai (UTC+8)",
+            "delta": 0.000858,
+            "change_pct": 0.012847390519794123
+          }
+        },
+        "sse_000001": {
+          "value": 3584.58,
+          "display": "3584.58",
+          "as_of_shanghai": "2026-11-18 07:34:18 Asia/Shanghai (UTC+8)",
+          "quote_timestamp": "20261117161427",
+          "source": "Eastmoney, cross-checked with Tencent Finance",
+          "url": "https://push2.eastmoney.com/api/qt/ulist.np/get?fltt=2&invt=2&secids=1.000001,0.399001&fields=f2,f3,f4,f12,f14,f15,f16,f17,f18",
+          "previous_close": 3602.57,
+          "change": -17.99,
+          "change_pct": -0.5,
+          "open": 3585.67,
+          "high": 3604.98,
+          "low": 3565.59,
+          "session": "previous_close_preopen",
+          "note": "采集时尚在 11 月 18 日常规开盘之前，此为 11 月 17 日收盘价。"
+        },
+        "szse_399001": {
+          "value": 10638.52,
+          "display": "10638.52",
+          "as_of_shanghai": "2026-11-18 07:34:18 Asia/Shanghai (UTC+8)",
+          "quote_timestamp": "20261117161445",
+          "source": "Eastmoney, cross-checked with Tencent Finance",
+          "url": "https://push2.eastmoney.com/api/qt/ulist.np/get?fltt=2&invt=2&secids=1.000001,0.399001&fields=f2,f3,f4,f12,f14,f15,f16,f17,f18",
+          "previous_close": 10690.78,
+          "change": -52.26,
+          "change_pct": -0.49,
+          "open": 10605.17,
+          "high": 10768.06,
+          "low": 10556.29,
+          "session": "previous_close_preopen",
+          "note": "采集时尚在 11 月 18 日常规开盘之前，此为 11 月 17 日收盘价。"
         }
       }
     }
