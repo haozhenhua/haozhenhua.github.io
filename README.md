@@ -13,7 +13,7 @@ This is **OLLY早报**, a personal daily-brief and staged-reading blog for GitHu
 - [关于](https://haozhenhua.github.io/about/)
 - [标签](https://haozhenhua.github.io/tags/)：按主题或来源过滤
 
-文章是 `_posts/` 里的 Markdown。早报模板见 [`docs/brief-template.md`](docs/brief-template.md)，本月书单与分期书摘见 [`docs/reading-plan-2026-11.md`](docs/reading-plan-2026-11.md)。时区为 Asia/Shanghai（UTC+8）。
+文章是 `_posts/` 里的 Markdown。早报模板见 [`docs/brief-template.md`](docs/brief-template.md)，天气与本地新闻来源见 [`docs/weather-and-local-news.md`](docs/weather-and-local-news.md)，本月书单与分期书摘见 [`docs/reading-plan-2026-11.md`](docs/reading-plan-2026-11.md)。时区为 Asia/Shanghai（UTC+8）。
 
 ## 许可
 

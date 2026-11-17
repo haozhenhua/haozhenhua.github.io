@@ -1,12 +1,14 @@
 # 早报查重档案
 
-`seen.json` 记录已经写进每日早报的信息，供以后各期查重，避免同一条新闻、同一篇 HN、同一则微博话题或同一条油管视频反复出现。
+`seen.json` 记录已经写进每日早报的信息，供以后各期查重，避免同一条新闻、同一条本地新闻、同一篇 HN、同一则微博话题或同一条油管视频反复出现。
 
 ## 规则
 
 - 写稿前先读本文件和近日已发布的早报。
 - 已经记录的条目默认跳过。只有出现实质性新进展时，才写简短「续报」，并更新该条的 `last_brief`。
 - 金融市场数字每天更新，不算重复，不必写入本档案。
+- 每日天气预报数字同样每天更新，不算重复新闻，不必写入本档案。
+- 海淀区、昌平区本地新闻按新闻事件查重，须写入本档案；同一事件换了新的报道链接，也视为已见。
 - 书摘按阅读计划分期发布，不算重复新闻。
 - 同一油管频道的新一集可以写；同一 `videoId` 不要再写。
 - 同一新闻事件即使换了新的报道链接，也视为已见；不要因为换了媒体就重写一遍。
@@ -14,10 +16,11 @@
 
 ## 字段
 
-- `id`：稳定标识，如 `yt:VIDEO_ID`、`hn:ITEM_ID`、`news:规范化后的文章 URL`、`story:事件短名`、`weibo:#话题#`、`x:status:帖子ID`
-- `type`：`youtube` / `hn` / `news` / `story` / `weibo` / `x`
+- `id`：稳定标识，如 `yt:VIDEO_ID`、`hn:ITEM_ID`、`news:规范化后的文章 URL`、`story:事件短名`、`weibo:#话题#`、`x:status:帖子ID`；海淀区、昌平区本地新闻用 `local:haidian:规范化后的文章 URL` 或 `local:changping:规范化后的文章 URL`（同一事件若先以 `news:` URL 记过，也视为已见）
+- `type`：`youtube` / `hn` / `news` / `story` / `weibo` / `x`；本地新闻的 `type` 仍用 `news`
 - `url`、`title`、`first_brief`、`last_brief`、`status`（`covered` 或 `update`）
 - `urls`：同一事件的其他出处，可选
+- `district`：本地新闻可选，值为 `haidian` 或 `changping`
 
 ## 金融行情档案
 

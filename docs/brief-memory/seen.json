@@ -9,7 +9,9 @@
     "book_installments_follow_plan": true,
     "same_youtube_video_no_repeat": true,
     "new_episode_of_same_show_ok": true,
-    "same_story_even_with_new_url": true
+    "same_story_even_with_new_url": true,
+    "weather_always_refresh": true,
+    "local_news_dedup": true
   },
   "items": [
     {
@@ -2312,6 +2314,106 @@
       "type": "x",
       "title": "AI Chip Stocks Face Pessimism Amid Demand Warnings",
       "url": "https://x.com/i/trending/2122464099590164980",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261112_4834392.shtml",
+      "type": "news",
+      "district": "haidian",
+      "title": "区委十三届十二次全会11月17日召开",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261112_4834392.shtml",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261113_4834517.shtml",
+      "type": "news",
+      "district": "haidian",
+      "title": "全区领导干部会议召开",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261113_4834517.shtml",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/zwdt/xxgk/tzgg/202611/t20261110_4834190.shtml",
+      "type": "news",
+      "district": "haidian",
+      "title": "关于《西郊清代皇家园林历史文化街区（第一批）保护规划（2026年-2035年）》（草案）的公示",
+      "url": "https://zyk.bjhd.gov.cn/zwdt/xxgk/tzgg/202611/t20261110_4834190.shtml",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261109_4833861.shtml",
+      "type": "news",
+      "district": "haidian",
+      "title": "时刻把百姓冷暖放心上 确保群众温暖过冬 区领导检查供暖保障工作",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261109_4833861.shtml",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/jzdt/202611/t20261109_4833982.shtml",
+      "type": "news",
+      "district": "haidian",
+      "title": "上地街道以“烟火气”聚才暖才 探索人才服务新路径",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/jzdt/202611/t20261109_4833982.shtml",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026111613450766574/index.html",
+      "type": "news",
+      "district": "changping",
+      "title": "登高寻山趣，入林遇清风！昌平新城生态休闲公园一期对外开放",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026111613450766574/index.html",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111619564742787/index.html",
+      "type": "news",
+      "district": "changping",
+      "title": "织就民生通途 护航学子出行 昌平公路分局推进秦北路健康工程",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111619564742787/index.html",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026111517055379234/index.html",
+      "type": "news",
+      "district": "changping",
+      "title": "未来科学城生态休闲公园沙河片区（三期）对外开放 全龄共享生态新空间亮相昌平",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026111517055379234/index.html",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111320481289566/index.html",
+      "type": "news",
+      "district": "changping",
+      "title": "补齐回天教育短板，奥北中学项目建设正式启动",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111320481289566/index.html",
+      "first_brief": "2026-11-17",
+      "last_brief": "2026-11-17",
+      "status": "covered"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111321261041437/index.html",
+      "type": "news",
+      "district": "changping",
+      "title": "昌平区与首发集团签署战略合作框架协议",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111321261041437/index.html",
       "first_brief": "2026-11-17",
       "last_brief": "2026-11-17",
       "status": "covered"
