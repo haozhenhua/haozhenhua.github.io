@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-11-18",
-  "source_brief": "/2026/11/18/daily-brief/",
+  "updated": "2026-11-19",
+  "source_brief": "/2026/11/19/daily-brief/",
   "rules": {
     "skip_if_seen": true,
     "material_update_as_followup": true,
@@ -20,7 +20,7 @@
       "title": "深圳 APEC：美中俄三方会晤正在协调",
       "url": "https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad",
       "first_brief": "2026-11-16",
-      "last_brief": "2026-11-18",
+      "last_brief": "2026-11-19",
       "status": "update",
       "urls": [
         "https://www.bbc.com/zhongwen/articles/c6lym29v7nr0o/trad",
@@ -29,7 +29,10 @@
         "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
         "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
         "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
-        "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23"
+        "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23",
+        "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo",
+        "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/simp",
+        "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/simp"
       ]
     },
     {
@@ -2325,8 +2328,11 @@
       "title": "区委十三届十二次全会11月17日召开",
       "url": "https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261112_4834392.shtml",
       "first_brief": "2026-11-17",
-      "last_brief": "2026-11-17",
-      "status": "covered"
+      "last_brief": "2026-11-19",
+      "status": "update",
+      "urls": [
+        "https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261118_4835596.shtml"
+      ]
     },
     {
       "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261113_4834517.shtml",
@@ -3319,6 +3325,918 @@
       "title": "Latent Space: Designing for Agents — Zeno Rocha, Resend",
       "first_brief": "2026-11-18",
       "last_brief": "2026-11-18",
+      "status": "covered"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261118_4835596.shtml",
+      "type": "news",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261118_4835596.shtml",
+      "title": "区委十三届十二次全会决定 中国共产党北京市海淀区第十四次代表大会12月1日至4日召开",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "update",
+      "district": "haidian",
+      "urls": [
+        "https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261112_4834392.shtml"
+      ]
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261104_4833397.shtml",
+      "type": "news",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261104_4833397.shtml",
+      "title": "用心用情用力办好群众反映诉求 不断提升为民办实事能力水平 海淀区召开接诉即办工作调度会议",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered",
+      "district": "haidian"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261105_4833540.shtml",
+      "type": "news",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261105_4833540.shtml",
+      "title": "2026年海淀区“消防宣传月”活动正式启动",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered",
+      "district": "haidian"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/bmdt/202611/t20261109_4833983.shtml",
+      "type": "news",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/bmdt/202611/t20261109_4833983.shtml",
+      "title": "海淀教育关工委“科普双百”迎来第100场",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered",
+      "district": "haidian"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111721350771971/index.html",
+      "type": "news",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111721350771971/index.html",
+      "title": "区领导带队检查森林防火工作",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered",
+      "district": "changping",
+      "urls": [
+        "https://www.bjchp.gov.cn/cpqzf/ywdt26/1022455/2026111808411218869/index.html"
+      ]
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111716203029669/index.html",
+      "type": "news",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111716203029669/index.html",
+      "title": "解决“关节”老化 装上“感知神经” 南环大桥两项施工一次办",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered",
+      "district": "changping"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/315734/bmdt/2026111816565974490/index.html",
+      "type": "news",
+      "url": "https://www.bjchp.gov.cn/cpqzf/315734/bmdt/2026111816565974490/index.html",
+      "title": "白羊城蓄滞洪区工程全面完工",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered",
+      "district": "changping"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/315734/bmdt/2026111817025238077/index.html",
+      "type": "news",
+      "url": "https://www.bjchp.gov.cn/cpqzf/315734/bmdt/2026111817025238077/index.html",
+      "title": "昌平区以“一图-AI-终端”打造就创业集成服务模式",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered",
+      "district": "changping"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111717595571697/index.html",
+      "type": "news",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111717595571697/index.html",
+      "title": "我区召开接诉即办重点单位约谈会",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered",
+      "district": "changping"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo",
+      "type": "news",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo",
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/simp",
+      "type": "news",
+      "url": "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/simp",
+      "title": "APEC深圳峰会：习近平亲赴机场迎接特朗普，46年来首次中国元首接机",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/simp",
+      "type": "news",
+      "url": "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/simp",
+      "title": "美中俄峰会：为何选在深圳麒麟山庄？",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:myanmar-icj-genocide-verdict",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o",
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered",
+      "urls": [
+        "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court"
+      ]
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c5m2l90ez144o",
+      "type": "news",
+      "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o",
+      "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+      "type": "news",
+      "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+      "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:israel-gaza-yellow-line-incursion",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cw8r7510degno",
+      "type": "news",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno",
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:kuwait-iran-attack-after-qeshm-strike",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o",
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o",
+      "type": "news",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o",
+      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:hakeem-jeffries-speaker-nomination",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cmy49873dn95o",
+      "type": "news",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o",
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:alaska-senate-mary-peltola",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo",
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo",
+      "type": "news",
+      "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo",
+      "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:waymo-leaves-us-freeways",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cmy86pp336qlo",
+      "type": "news",
+      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:rubio-denies-systemic-attack",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o",
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o",
+      "type": "news",
+      "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o",
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:gta-6-launch-reviews",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered",
+      "urls": [
+        "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game"
+      ]
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
+      "type": "news",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po",
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
+      "type": "news",
+      "url": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
+      "title": "GTA 6 dazzles gamers in Australia with ‘fully lived-in, breathable world’",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:south-korea-ai-cheating-exams",
+      "type": "story",
+      "url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
+      "title": "South Korea’s high-stakes university exams upended by AI cheating scandal",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
+      "type": "news",
+      "url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
+      "title": "South Korea’s high-stakes university exams upended by AI cheating scandal",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:ukraine-kharkiv-underground-tunnel",
+      "type": "story",
+      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o",
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c32l507ev4v4o",
+      "type": "news",
+      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o",
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:haiti-pastor-sanon-conviction",
+      "type": "story",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+      "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+      "type": "news",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
+      "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:hegseth-venezuela-visit",
+      "type": "story",
+      "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+      "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+      "type": "news",
+      "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+      "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:us-blocks-se-asia-ai-compute-rental",
+      "type": "story",
+      "url": "https://www.bbc.com/zhongwen/articles/cmpdwn010nyvo/simp",
+      "title": "特朗普访华之际 美国封堵中国公司在东南亚租用AI算力的「后门」",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.com/zhongwen/articles/cmpdwn010nyvo/simp",
+      "type": "news",
+      "url": "https://www.bbc.com/zhongwen/articles/cmpdwn010nyvo/simp",
+      "title": "特朗普访华之际 美国封堵中国公司在东南亚租用AI算力的「后门」",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:nginx-http2-rce",
+      "type": "story",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "title": "Unauthenticated remote code execution in Nginx (CVE-2026-123633, CVE-2026-123007)",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50547374",
+      "type": "hn",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "title": "Unauthenticated remote code execution in Nginx",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:inside-deutsche-bank-leak",
+      "type": "story",
+      "url": "https://www.inside-db.com/",
+      "title": "Inside Deutsche Bank",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50547620",
+      "type": "hn",
+      "url": "https://www.inside-db.com/",
+      "title": "Inside Deutsche Bank",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:microsoft-ignite-2026-mai-models",
+      "type": "story",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "title": "Seven new models at scalable price-performance",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50548021",
+      "type": "hn",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "title": "Seven new models at scalable price-performance",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:gemini-4-neon",
+      "type": "story",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "title": "Introducing Gemini 4 Neon",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50552424",
+      "type": "hn",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "title": "Gemini 4 Neon",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:genie-4-available",
+      "type": "story",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "title": "Genie 4 is now available",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50550415",
+      "type": "hn",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "title": "Genie 4 is now available",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:kpmg-project-exponential-ai-audit",
+      "type": "story",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50547777",
+      "type": "hn",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "title": "AI agents ask better questions than KPMG accountants in audit trial",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50543989",
+      "type": "hn",
+      "url": "https://energy-based-reasoners.github.io/",
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:cambridge-dictionary-human-woty-2026",
+      "type": "story",
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50546914",
+      "type": "hn",
+      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:openai-chip-design-jalapeno-amd",
+      "type": "story",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "title": "Advancing chip design with OpenAI models",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50549493",
+      "type": "hn",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
+      "title": "Advancing chip design with OpenAI models",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50545958",
+      "type": "hn",
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "title": "DNS resolvers are the wrong place to fight piracy",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50548004",
+      "type": "hn",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-99312",
+      "title": "KVM: x86: Unconditionally reset MMU context when emulating INIT (CVE-2026-99312)",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50547980",
+      "type": "hn",
+      "url": "https://exitpath-ruddy.vercel.app/",
+      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50547583",
+      "type": "hn",
+      "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+      "title": "F-22 Next-Generation micro–Data Transfer Cartridge (mDTC)",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50548161",
+      "type": "hn",
+      "url": "https://rshekhar.com/voyager/",
+      "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50546967",
+      "type": "hn",
+      "url": "https://pikuma.com/blog/history-of-x86-4004-to-486",
+      "title": "The x86 CPU: From 4004 to 486",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50551046",
+      "type": "hn",
+      "url": "https://www.radixark.com/blog/daisyrose-27b",
+      "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50546922",
+      "type": "hn",
+      "url": "https://arxiv.org/abs/2510.18203",
+      "title": "A Primer on Fourier Series (2025)",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50548991",
+      "type": "hn",
+      "url": "https://crosspointreader.com",
+      "title": "CrossPoint Reader",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50550096",
+      "type": "hn",
+      "url": "https://jimmyhmiller.com/magic-of-partial-evaluation",
+      "title": "The Magic of Partial Evaluation",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50548660",
+      "type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50548660",
+      "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50505310",
+      "type": "hn",
+      "url": "https://americanhandgunner.com/handguns/revolvers/the-first-revolver/",
+      "title": "The First Revolver: How We Got from Blackbeard's Six Pistols to the Six-Shooter",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50551398",
+      "type": "hn",
+      "url": "https://searchbrowser.app/",
+      "title": "Search Browser – Minimalist WebKit browser with Chrome extension support",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50549188",
+      "type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50549188",
+      "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50551359",
+      "type": "hn",
+      "url": "https://lisper.cc/ideas/entangle.html",
+      "title": "Sexp Matrix",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50510385",
+      "type": "hn",
+      "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
+      "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50551509",
+      "type": "hn",
+      "url": "https://horizon-labs.ai/",
+      "title": "Horizon Labs Report",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50524227",
+      "type": "hn",
+      "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+      "title": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50553192",
+      "type": "hn",
+      "url": "https://github.com/eklavya-raj/gta6-uefi",
+      "title": "GTA6-like as a 942Kb UEFI bootable image",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50553402",
+      "type": "hn",
+      "url": "https://keycybermonk.com/edu",
+      "title": "Why educational system is broken",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "yt:4Cjb7691GJ8",
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=4Cjb7691GJ8",
+      "title": "The Pragmatic Engineer: Software factories and code reviews with Harjot Gill",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "yt:kBJe4H_WobA",
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=kBJe4H_WobA",
+      "title": "a16z: What It Takes to Build an AI That Actually Knows You",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "yt:wX8nDtGIfYA",
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=wX8nDtGIfYA",
+      "title": "Latent Space: Anthropic: Know Before You IPO — Tanay Jaipuria, Wing VC",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "yt:HDRy6XmE2RQ",
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=HDRy6XmE2RQ",
+      "title": "a16z: How AI Could Bring Halo and Other Classic Games Back to Life",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "yt:s4lXP9IuHjk",
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=s4lXP9IuHjk",
+      "title": "a16z: Why HubSpot’s Co-Founder Is Betting Against the SaaSpocalypse",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#于道各努力千里自同风#",
+      "type": "weibo",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%81%93%E5%90%84%E5%8A%AA%E5%8A%9B%E5%8D%83%E9%87%8C%E8%87%AA%E5%90%8C%E9%A3%8E%23",
+      "title": "#于道各努力千里自同风#",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#APEC会议来宾欢迎宴会大合影#",
+      "type": "weibo",
+      "url": "https://s.weibo.com/weibo?q=%23APEC%E4%BC%9A%E8%AE%AE%E6%9D%A5%E5%AE%BE%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E5%A4%A7%E5%90%88%E5%BD%B1%23",
+      "title": "#APEC会议来宾欢迎宴会大合影#",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#特朗普感受到了深圳市民的热情#",
+      "type": "weibo",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%84%9F%E5%8F%97%E5%88%B0%E4%BA%86%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%B0%91%E7%9A%84%E7%83%AD%E6%83%85%23",
+      "title": "#特朗普感受到了深圳市民的热情#",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#深圳倡议发布#",
+      "type": "weibo",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%80%A1%E8%AE%AE%E5%8F%91%E5%B8%83%23",
+      "title": "#深圳倡议发布#",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#养老保险缴够15年就能坐等退休系谣言#",
+      "type": "weibo",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%85%BB%E8%80%81%E4%BF%9D%E9%99%A9%E7%BC%B4%E5%A4%9F15%E5%B9%B4%E5%B0%B1%E8%83%BD%E5%9D%90%E7%AD%89%E9%80%80%E4%BC%91%E7%B3%BB%E8%B0%A3%E8%A8%80%23",
+      "title": "#养老保险缴够15年就能坐等退休系谣言#",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#普京说俄罗斯也想模仿这种成就#",
+      "type": "weibo",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E8%AF%B4%E4%BF%84%E7%BD%97%E6%96%AF%E4%B9%9F%E6%83%B3%E6%A8%A1%E4%BB%BF%E8%BF%99%E7%A7%8D%E6%88%90%E5%B0%B1%23",
+      "title": "#普京说俄罗斯也想模仿这种成就#",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#普京和特朗普互动握手#",
+      "type": "weibo",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%92%E5%8A%A8%E6%8F%A1%E6%89%8B%23",
+      "title": "#普京和特朗普互动握手#",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#黄金跌得有多狠#",
+      "type": "weibo",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E5%BE%97%E6%9C%89%E5%A4%9A%E7%8B%A0%23",
+      "title": "#黄金跌得有多狠#",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#哪家AI能画对13个鸡蛋#",
+      "type": "weibo",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%AE%B6AI%E8%83%BD%E7%94%BB%E5%AF%B913%E4%B8%AA%E9%B8%A1%E8%9B%8B%23",
+      "title": "#哪家AI能画对13个鸡蛋#",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#高市早苗抵达深圳#",
+      "type": "weibo",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8A%B5%E8%BE%BE%E6%B7%B1%E5%9C%B3%23",
+      "title": "#高市早苗抵达深圳#",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#李在明夫妇会见韩籍在华企业家#",
+      "type": "weibo",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%A4%AB%E5%A6%87%E4%BC%9A%E8%A7%81%E9%9F%A9%E7%B1%8D%E5%9C%A8%E5%8D%8E%E4%BC%81%E4%B8%9A%E5%AE%B6%23",
+      "title": "#李在明夫妇会见韩籍在华企业家#",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#马斯克现身特朗普随行大巴车#",
+      "type": "weibo",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%8E%B0%E8%BA%AB%E7%89%B9%E6%9C%97%E6%99%AE%E9%9A%8F%E8%A1%8C%E5%A4%A7%E5%B7%B4%E8%BD%A6%23",
+      "title": "#马斯克现身特朗普随行大巴车#",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#原研药与仿制药区别#",
+      "type": "weibo",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A0%94%E8%8D%AF%E4%B8%8E%E4%BB%BF%E5%88%B6%E8%8D%AF%E5%8C%BA%E5%88%AB%23",
+      "title": "#原研药与仿制药区别#",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#新易盛天孚通信公告近期经营情况#",
+      "type": "weibo",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%98%93%E7%9B%9B%E5%A4%A9%E5%AD%9A%E9%80%9A%E4%BF%A1%E5%85%AC%E5%91%8A%E8%BF%91%E6%9C%9F%E7%BB%8F%E8%90%A5%E6%83%85%E5%86%B5%23",
+      "title": "#新易盛天孚通信公告近期经营情况#",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#菲律宾总统深夜为特朗普点炸鸡#",
+      "type": "weibo",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%80%BB%E7%BB%9F%E6%B7%B1%E5%A4%9C%E4%B8%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%82%B9%E7%82%B8%E9%B8%A1%23",
+      "title": "#菲律宾总统深夜为特朗普点炸鸡#",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "x:status:2123133757615980707",
+      "type": "x",
+      "url": "https://x.com/testingcatalog/status/2123133757615980707",
+      "title": "TestingCatalog on Gemini 4 Neon listed on GCP Vertex AI Model Garden",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "x:trending:2122912380896337979",
+      "type": "x",
+      "url": "https://x.com/i/trending/2122912380896337979",
+      "title": "Google Launches Gemini 4 Neon with Top Benchmark Scores",
+      "first_brief": "2026-11-19",
+      "last_brief": "2026-11-19",
       "status": "covered"
     }
   ]
