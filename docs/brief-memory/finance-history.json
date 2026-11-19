@@ -362,6 +362,91 @@
           "note": "采集时尚在 11 月 19 日常规开盘之前，此为 11 月 18 日收盘价。东方财富接口两次 502，未能交叉核对。"
         }
       }
+    },
+    {
+      "brief_date": "2026-11-20",
+      "permalink": "/2026/11/20/daily-brief/",
+      "collected_at": "2026-11-20 07:50:00 Asia/Shanghai (UTC+8)",
+      "quotes": {
+        "xau_usd": {
+          "value": 3621.800049,
+          "display": "3,621.80",
+          "as_of": "2026-11-19T23:36:04Z",
+          "as_of_shanghai": "2026-11-20 07:36:04 Asia/Shanghai (UTC+8)",
+          "source": "Gold-API",
+          "url": "https://api.gold-api.com/price/XAU",
+          "change_from_previous_brief": {
+            "previous_brief_date": "2026-11-19",
+            "previous_value": 3741.370117,
+            "previous_as_of_shanghai": "2026-11-19 07:37:31 Asia/Shanghai (UTC+8)",
+            "delta": -119.570068,
+            "change_pct": -3.195887980171215
+          }
+        },
+        "usd_cny_cfets_mid": {
+          "value": 6.7128,
+          "display": "6.7128",
+          "date": "2026-11-19",
+          "as_of_shanghai": "2026-11-20 07:36:12 Asia/Shanghai (UTC+8)",
+          "source": "CFETS / ChinaMoney CCPR",
+          "url": "https://www.chinamoney.com.cn/ags/ms/cm-u-bk-ccpr/CcprHisNew?startDate=&endDate=&currency=USD/CNY&pageNum=1&pageSize=5",
+          "official_previous": {
+            "date": "2026-11-18",
+            "value": 6.7118,
+            "delta": 0.001
+          },
+          "note": "采集时 11 月 20 日中间价尚未公布，本条为截至 11 月 19 日的最新官方中间价。"
+        },
+        "usd_cny_midmarket": {
+          "value": 6.680778,
+          "display": "6.680778",
+          "as_of": "2026-11-19T00:02:31Z",
+          "as_of_shanghai": "2026-11-19 08:02:31 Asia/Shanghai (UTC+8)",
+          "source": "ExchangeRate-API",
+          "url": "https://open.er-api.com/v6/latest/USD",
+          "time_last_update_utc": "Thu, 19 Nov 2026 00:02:31 +0000",
+          "note": "采集时今日日更尚未刷新；下一笔预定 Fri, 20 Nov 2026 00:35:41 +0000。",
+          "change_from_previous_brief": {
+            "previous_brief_date": "2026-11-19",
+            "previous_value": 6.679863,
+            "previous_as_of_shanghai": "2026-11-18 08:02:31 Asia/Shanghai (UTC+8)",
+            "delta": 0.0009150000000003328,
+            "change_pct": 0.01369759200114023
+          }
+        },
+        "sse_000001": {
+          "value": 3577.62,
+          "display": "3577.62",
+          "as_of_shanghai": "2026-11-20 07:36:15 Asia/Shanghai (UTC+8)",
+          "quote_timestamp": "20261119161427",
+          "source": "Tencent Finance (Eastmoney returned 502)",
+          "url": "https://qt.gtimg.cn/q=sh000001,sz399001",
+          "previous_close": 3587.83,
+          "change": -10.21,
+          "change_pct": -0.28,
+          "open": 3583.12,
+          "high": 3584.28,
+          "low": 3547.94,
+          "session": "previous_close_preopen",
+          "note": "采集时尚在 11 月 20 日常规开盘之前，此为 11 月 19 日收盘价。东方财富接口返回 502，未能交叉核对。"
+        },
+        "szse_399001": {
+          "value": 10583.2,
+          "display": "10583.20",
+          "as_of_shanghai": "2026-11-20 07:36:15 Asia/Shanghai (UTC+8)",
+          "quote_timestamp": "20261119161442",
+          "source": "Tencent Finance (Eastmoney returned 502)",
+          "url": "https://qt.gtimg.cn/q=sh000001,sz399001",
+          "previous_close": 10659.41,
+          "change": -76.21,
+          "change_pct": -0.71,
+          "open": 10591.73,
+          "high": 10664.29,
+          "low": 10505.84,
+          "session": "previous_close_preopen",
+          "note": "采集时尚在 11 月 20 日常规开盘之前，此为 11 月 19 日收盘价。东方财富接口返回 502，未能交叉核对。"
+        }
+      }
     }
   ]
 }

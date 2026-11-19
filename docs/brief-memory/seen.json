@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-11-19",
-  "source_brief": "/2026/11/19/daily-brief/",
+  "updated": "2026-11-20",
+  "source_brief": "/2026/11/20/daily-brief/",
   "rules": {
     "skip_if_seen": true,
     "material_update_as_followup": true,
@@ -17,10 +17,10 @@
     {
       "id": "story:apec-shenzhen-xi-trump-putin-meeting",
       "type": "story",
-      "title": "深圳 APEC：美中俄三方会晤正在协调",
+      "title": "深圳 APEC：中美俄发表联合和平宣言",
       "url": "https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad",
       "first_brief": "2026-11-16",
-      "last_brief": "2026-11-19",
+      "last_brief": "2026-11-20",
       "status": "update",
       "urls": [
         "https://www.bbc.com/zhongwen/articles/c6lym29v7nr0o/trad",
@@ -32,7 +32,11 @@
         "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E5%B0%86%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%B8%BE%E8%A1%8C%23",
         "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo",
         "https://www.bbc.com/zhongwen/articles/cjy5xkw9g1zpo/simp",
-        "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/simp"
+        "https://www.bbc.com/zhongwen/articles/cqn0dy4ppxp7o/simp",
+        "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
+        "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+        "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/simp",
+        "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80%23"
       ]
     },
     {
@@ -67,7 +71,7 @@
       "title": "英伟达风波：黄仁勋去职与回归传闻（流传，非已核实事实）",
       "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
       "first_brief": "2026-11-16",
-      "last_brief": "2026-11-18",
+      "last_brief": "2026-11-20",
       "status": "update",
       "urls": [
         "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
@@ -77,7 +81,8 @@
         "https://www.bbc.co.uk/news/articles/cry49plv8v3go",
         "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
         "https://x.com/i/trending/2122309300601205175",
-        "https://x.com/i/trending/2122323250177036571"
+        "https://x.com/i/trending/2122323250177036571",
+        "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no"
       ],
       "note": "传言与评论节目，不是已核实的人事结论。All-In 2026-11-13 同题一期已视为同一事件，不单列展开。"
     },
@@ -2505,8 +2510,11 @@
       "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo",
       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "first_brief": "2026-11-18",
-      "last_brief": "2026-11-18",
-      "status": "covered"
+      "last_brief": "2026-11-20",
+      "status": "update",
+      "urls": [
+        "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo"
+      ]
     },
     {
       "id": "news:https://www.bbc.co.uk/news/articles/crz9dgz28zwdo",
@@ -3678,8 +3686,11 @@
       "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
       "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
       "first_brief": "2026-11-19",
-      "last_brief": "2026-11-19",
-      "status": "covered"
+      "last_brief": "2026-11-20",
+      "status": "update",
+      "urls": [
+        "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo"
+      ]
     },
     {
       "id": "news:https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
@@ -4237,6 +4248,664 @@
       "title": "Google Launches Gemini 4 Neon with Top Benchmark Scores",
       "first_brief": "2026-11-19",
       "last_brief": "2026-11-19",
+      "status": "covered"
+    },
+    {
+      "id": "story:anthropic-nasdaq-debut",
+      "type": "story",
+      "title": "Anthropic Nasdaq debut",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered",
+      "urls": [
+        "https://www.bbc.com/zhongwen/articles/cw4gn9359q37o/simp",
+        "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+        "https://news.ycombinator.com/item?id=50562754",
+        "https://x.com/search?q=Anthropic",
+        "https://x.com/i/trending/2122986843943911816",
+        "https://s.weibo.com/weibo?q=%23Anthropic%E4%B8%83%E4%BD%8D%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%23"
+      ]
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+      "type": "news",
+      "title": "Anthropic becomes one of world's most valuable public companies in first-of-its kind IPO.",
+      "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "story:myanmar-icj-rohingya-genocide",
+      "type": "story",
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered",
+      "urls": [
+        "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
+        "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html"
+      ]
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
+      "type": "news",
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
+      "type": "news",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+      "type": "news",
+      "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+      "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+      "type": "news",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cm879dqn3e1jo",
+      "type": "news",
+      "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "story:venezuela-us-military-deal",
+      "type": "story",
+      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo",
+      "type": "news",
+      "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cqn70vxp5p4no",
+      "type": "news",
+      "title": "California probing whether China improperly got Nvidia technology",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c58j484089ewo",
+      "type": "news",
+      "title": "Senegal boat disaster: Dozens missing as migrant boat sinks",
+      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
+      "type": "news",
+      "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cwz0k3172xzko",
+      "type": "news",
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
+      "type": "news",
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/hdyw/202611/t20261119_4835783.shtml",
+      "type": "news",
+      "district": "haidian",
+      "title": "校地共建人工智能创新转化高地 未名·AI Park正式揭牌",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/hdyw/202611/t20261119_4835783.shtml",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/hdyw/202611/t20261119_4835755.shtml",
+      "type": "news",
+      "district": "haidian",
+      "title": "共商央地合作 共促事业发展 海淀区与中国航油签署战略合作协议",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/hdyw/202611/t20261119_4835755.shtml",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/zwdt/xxgk/tzgg/202611/t20261118_4835668.shtml",
+      "type": "news",
+      "district": "haidian",
+      "title": "关于海淀区深化巩固创建“基本无违法建设区”成效第十四批持续治理类项目的公示",
+      "url": "https://zyk.bjhd.gov.cn/zwdt/xxgk/tzgg/202611/t20261118_4835668.shtml",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111816335519236/index.html",
+      "type": "news",
+      "district": "changping",
+      "title": "芯生视界生产基地一期工程在昌平启动",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111816335519236/index.html",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111818063735890/index.html",
+      "type": "news",
+      "district": "changping",
+      "title": "区领导调研重点道路交通项目进展情况",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111818063735890/index.html",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026111919200623578/index.html",
+      "type": "news",
+      "district": "changping",
+      "title": "北七家镇高效办结异地养老卡更换业务",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026111919200623578/index.html",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026111919195089534/index.html",
+      "type": "news",
+      "district": "changping",
+      "title": "社区搭台、双方换位：一面锦旗背后的“接诉即办”温度",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026111919195089534/index.html",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50562754",
+      "type": "hn",
+      "title": "Anthropic’s Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50519231",
+      "type": "hn",
+      "title": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50556287",
+      "type": "hn",
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50560822",
+      "type": "hn",
+      "title": "Everything you need to survive and rebuild society",
+      "url": "https://lastbook.org/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50563148",
+      "type": "hn",
+      "title": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50557661",
+      "type": "hn",
+      "title": "Do not buy RAM, compress",
+      "url": "https://curiousbits.nl/blog/do-not-buy-ram-compress/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50561508",
+      "type": "hn",
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50557870",
+      "type": "hn",
+      "title": "What's New in PHP 8.6",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50562113",
+      "type": "hn",
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50558533",
+      "type": "hn",
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50563066",
+      "type": "hn",
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50558906",
+      "type": "hn",
+      "title": "Someone reported java4shell bug in September 2026",
+      "url": "https://github.com/openjdk/jdk/pull/32781",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50564159",
+      "type": "hn",
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50557537",
+      "type": "hn",
+      "title": "Distributed, high-performance blob storage on SQLite",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50547048",
+      "type": "hn",
+      "title": "Nintendo takes Picofly firmware down from GitHub [video]",
+      "url": "https://www.youtube.com/watch?v=-TLCGUpoD6c",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50536950",
+      "type": "hn",
+      "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
+      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50559719",
+      "type": "hn",
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50561515",
+      "type": "hn",
+      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+      "url": "https://cornholenews.news",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50564366",
+      "type": "hn",
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50559179",
+      "type": "hn",
+      "title": "Unblockable communication with gravity",
+      "url": "https://www.science.org/doi/10.1126/sciadv.aee0802",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50562320",
+      "type": "hn",
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50567209",
+      "type": "hn",
+      "title": "Synology Security Advisory",
+      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50561170",
+      "type": "hn",
+      "title": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence",
+      "url": "https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50567735",
+      "type": "hn",
+      "title": "Court: 4th Amendment Doesn't Cover AI-Generated 'Probable Cause'",
+      "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50528119",
+      "type": "hn",
+      "title": "How to CAD Almost Anything",
+      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50566261",
+      "type": "hn",
+      "title": "Rebuilding my local voice assistant pipeline",
+      "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50537832",
+      "type": "hn",
+      "title": "Computer Graphics from Scratch (2021)",
+      "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50521083",
+      "type": "hn",
+      "title": "Adding Fortran Support to LLDB (GSoC 2026)",
+      "url": "https://blog.llvm.org/posts/2026-09-07-gsoc-add-fortran-support-to-lldb/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50517657",
+      "type": "hn",
+      "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
+      "url": "https://www.tisonkun.io/posts/ai-repair-program/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50567374",
+      "type": "hn",
+      "title": "RegExr: Temporarily Offline",
+      "url": "https://regexr.com/",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#中俄美元首和平宣言#",
+      "type": "weibo",
+      "title": "#中俄美元首和平宣言#",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80%23",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#一图读懂深圳倡议#",
+      "type": "weibo",
+      "title": "#一图读懂深圳倡议#",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9B%BE%E8%AF%BB%E6%87%82%E6%B7%B1%E5%9C%B3%E5%80%A1%E8%AE%AE%23",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#特朗普登上空军一号挥手告别#",
+      "type": "weibo",
+      "title": "#特朗普登上空军一号挥手告别#",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%99%BB%E4%B8%8A%E7%A9%BA%E5%86%9B%E4%B8%80%E5%8F%B7%E6%8C%A5%E6%89%8B%E5%91%8A%E5%88%AB%23",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#普京称不再讨论海上停火#",
+      "type": "weibo",
+      "title": "#普京称不再讨论海上停火#",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%B8%8D%E5%86%8D%E8%AE%A8%E8%AE%BA%E6%B5%B7%E4%B8%8A%E5%81%9C%E7%81%AB%23",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#李在明发文感谢中国热情接待#",
+      "type": "weibo",
+      "title": "#李在明发文感谢中国热情接待#",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%9C%A8%E6%98%8E%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E7%83%AD%E6%83%85%E6%8E%A5%E5%BE%85%23",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#Anthropic七位创始人百亿美元#",
+      "type": "weibo",
+      "title": "#Anthropic七位创始人百亿美元#",
+      "url": "https://s.weibo.com/weibo?q=%23Anthropic%E4%B8%83%E4%BD%8D%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%23",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#多所高校不向2027级研究生提供宿舍#",
+      "type": "weibo",
+      "title": "#多所高校不向2027级研究生提供宿舍#",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E4%B8%8D%E5%90%912027%E7%BA%A7%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8F%90%E4%BE%9B%E5%AE%BF%E8%88%8D%23",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#比亚迪发布DMS超级混动全能平台#",
+      "type": "weibo",
+      "title": "#比亚迪发布DMS超级混动全能平台#",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%8F%91%E5%B8%83DMS%E8%B6%85%E7%BA%A7%E6%B7%B7%E5%8A%A8%E5%85%A8%E8%83%BD%E5%B9%B3%E5%8F%B0%23",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#美联储或将多次加息#",
+      "type": "weibo",
+      "title": "#美联储或将多次加息#",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%81%94%E5%82%A8%E6%88%96%E5%B0%86%E5%A4%9A%E6%AC%A1%E5%8A%A0%E6%81%AF%23",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#马斯克从深圳飞到了上海#",
+      "type": "weibo",
+      "title": "#马斯克从深圳飞到了上海#",
+      "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E4%BB%8E%E6%B7%B1%E5%9C%B3%E9%A3%9E%E5%88%B0%E4%BA%86%E4%B8%8A%E6%B5%B7%23",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "x:trending:2122986843943911816",
+      "type": "x",
+      "title": "Anthropic Launches Largest IPO Ever at $83 Per Share, Hits $1.5 Trillion Valuation",
+      "url": "https://x.com/i/trending/2122986843943911816",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "x:trending:2123556162201084066",
+      "type": "x",
+      "title": "Trump, Putin, and Xi Issue Joint Peace Declaration at Shenzhen Summit",
+      "url": "https://x.com/i/trending/2123556162201084066",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "x:search:Anthropic",
+      "type": "x",
+      "title": "X US trend: Anthropic",
+      "url": "https://x.com/search?q=Anthropic",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "x:search:Putin",
+      "type": "x",
+      "title": "X worldwide trend: Putin",
+      "url": "https://x.com/search?q=Putin",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "yt:lwfewYL7X0o",
+      "type": "youtube",
+      "title": "Jacob Coxon vs. Robin Hanson: Should We Slow Down AI?",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "yt:gDW9An30_c0",
+      "type": "youtube",
+      "title": "Why Nick Bostrom Thinks Superintelligence Could End Aging",
+      "url": "https://www.youtube.com/watch?v=gDW9An30_c0",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "yt:_wLzJINt9iQ",
+      "type": "youtube",
+      "title": "Superintelligence Needs the Physical World with CEO and Co-Founder of Arda Bob McGrew",
+      "url": "https://www.youtube.com/watch?v=_wLzJINt9iQ",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "yt:0Hvs6-XODgU",
+      "type": "youtube",
+      "title": "Ramp’s Bet on the 100x Employee",
+      "url": "https://www.youtube.com/watch?v=0Hvs6-XODgU",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "yt:x0VSm6IjcDQ",
+      "type": "youtube",
+      "title": "Scaling Linear's GTM to $100M+ ARR — Cristina Cordova, COO",
+      "url": "https://www.youtube.com/watch?v=x0VSm6IjcDQ",
+      "first_brief": "2026-11-20",
+      "last_brief": "2026-11-20",
       "status": "covered"
     }
   ]
