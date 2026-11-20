@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-19",
+  "updated": "2026-11-21",
   "notes": "每期早报写入一条 snapshot，供后一期计算涨跌。同一序列只与同源、同口径的上一期读数比较，不要跨接口混算。黄金与市场化参考汇率的接口通常不提供涨跌，必须以本档案的相邻快照计算，并在变化栏标明「较上一期早报」及上一期采集时间。人民币中间价和 A 股若来源已给出官方涨跌（上一发布日中间价、昨收），变化栏以官方口径为主，同时仍要把本期读数写入档案。若写稿时当日官方中间价或 A 股收盘尚未公布，快照必须写入最近一次已公布的官方读数（上一发布日中间价、最近一个交易日收盘价），并在 note 或 session 中标明，不要把尚未公布写成缺数字。",
   "series": {
     "xau_usd": {
@@ -445,6 +445,91 @@
           "low": 10505.84,
           "session": "previous_close_preopen",
           "note": "采集时尚在 11 月 20 日常规开盘之前，此为 11 月 19 日收盘价。东方财富接口返回 502，未能交叉核对。"
+        }
+      }
+    },
+    {
+      "brief_date": "2026-11-21",
+      "permalink": "/2026/11/21/daily-brief/",
+      "collected_at": "2026-11-21 07:50:00 Asia/Shanghai (UTC+8)",
+      "quotes": {
+        "xau_usd": {
+          "value": 3539.0,
+          "display": "3,539.00",
+          "as_of": "2026-11-20T23:32:36Z",
+          "as_of_shanghai": "2026-11-21 07:32:36 Asia/Shanghai (UTC+8)",
+          "source": "Gold-API",
+          "url": "https://api.gold-api.com/price/XAU",
+          "change_from_previous_brief": {
+            "previous_brief_date": "2026-11-20",
+            "previous_value": 3621.800049,
+            "previous_as_of_shanghai": "2026-11-20 07:36:04 Asia/Shanghai (UTC+8)",
+            "delta": -82.80004899999994,
+            "change_pct": -2.2861573769888683
+          }
+        },
+        "usd_cny_cfets_mid": {
+          "value": 6.7131,
+          "display": "6.7131",
+          "date": "2026-11-20",
+          "as_of_shanghai": "2026-11-21 07:32:53 Asia/Shanghai (UTC+8)",
+          "source": "CFETS / ChinaMoney CCPR",
+          "url": "https://www.chinamoney.com.cn/ags/ms/cm-u-bk-ccpr/CcprHisNew?startDate=&endDate=&currency=USD/CNY&pageNum=1&pageSize=5",
+          "official_previous": {
+            "date": "2026-11-19",
+            "value": 6.7128,
+            "delta": 0.0003
+          },
+          "note": "今天是星期六，无新的中间价发布日，本条为截至 11 月 20 日的最新官方中间价。"
+        },
+        "usd_cny_midmarket": {
+          "value": 6.69198,
+          "display": "6.69198",
+          "as_of": "2026-11-20T00:02:32Z",
+          "as_of_shanghai": "2026-11-20 08:02:32 Asia/Shanghai (UTC+8)",
+          "source": "ExchangeRate-API",
+          "url": "https://open.er-api.com/v6/latest/USD",
+          "time_last_update_utc": "Fri, 20 Nov 2026 00:02:32 +0000",
+          "note": "采集时今日日更尚未刷新；下一笔预定 Sat, 21 Nov 2026 00:35:42 +0000。",
+          "change_from_previous_brief": {
+            "previous_brief_date": "2026-11-20",
+            "previous_value": 6.680778,
+            "previous_as_of_shanghai": "2026-11-19 08:02:31 Asia/Shanghai (UTC+8)",
+            "delta": 0.011201999999999934,
+            "change_pct": 0.16767508215360447
+          }
+        },
+        "sse_000001": {
+          "value": 3533.79,
+          "display": "3533.79",
+          "as_of_shanghai": "2026-11-21 07:32:53 Asia/Shanghai (UTC+8)",
+          "quote_timestamp": "20261120161427",
+          "source": "Tencent Finance (Eastmoney returned 502)",
+          "url": "https://qt.gtimg.cn/q=sh000001,sz399001",
+          "previous_close": 3577.62,
+          "change": -43.83,
+          "change_pct": -1.23,
+          "open": 3527.3,
+          "high": 3538.27,
+          "low": 3500.83,
+          "session": "weekend_last_close",
+          "note": "今天是星期六，本期采用 11 月 20 日（星期五）收盘价。东方财富接口返回 502，未能交叉核对。"
+        },
+        "szse_399001": {
+          "value": 10256.39,
+          "display": "10256.39",
+          "as_of_shanghai": "2026-11-21 07:32:53 Asia/Shanghai (UTC+8)",
+          "quote_timestamp": "20261120161412",
+          "source": "Tencent Finance (Eastmoney returned 502)",
+          "url": "https://qt.gtimg.cn/q=sh000001,sz399001",
+          "previous_close": 10583.2,
+          "change": -326.81,
+          "change_pct": -3.09,
+          "open": 10402.29,
+          "high": 10436.04,
+          "low": 10256.39,
+          "session": "weekend_last_close",
+          "note": "今天是星期六，本期采用 11 月 20 日（星期五）收盘价。东方财富接口返回 502，未能交叉核对。"
         }
       }
     }

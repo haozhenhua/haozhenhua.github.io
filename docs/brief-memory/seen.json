@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-11-20",
-  "source_brief": "/2026/11/20/daily-brief/",
+  "updated": "2026-11-21",
+  "source_brief": "/2026/11/21/daily-brief/",
   "rules": {
     "skip_if_seen": true,
     "material_update_as_followup": true,
@@ -20,7 +20,7 @@
       "title": "深圳 APEC：中美俄发表联合和平宣言",
       "url": "https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad",
       "first_brief": "2026-11-16",
-      "last_brief": "2026-11-20",
+      "last_brief": "2026-11-21",
       "status": "update",
       "urls": [
         "https://www.bbc.com/zhongwen/articles/c6lym29v7nr0o/trad",
@@ -36,7 +36,8 @@
         "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
         "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
         "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/simp",
-        "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80%23"
+        "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E7%BE%8E%E5%85%83%E9%A6%96%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80%23",
+        "https://www.bbc.com/zhongwen/articles/cm5y120z0pw0o/trad"
       ]
     },
     {
@@ -71,7 +72,7 @@
       "title": "英伟达风波：黄仁勋去职与回归传闻（流传，非已核实事实）",
       "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
       "first_brief": "2026-11-16",
-      "last_brief": "2026-11-20",
+      "last_brief": "2026-11-21",
       "status": "update",
       "urls": [
         "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
@@ -82,7 +83,8 @@
         "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
         "https://x.com/i/trending/2122309300601205175",
         "https://x.com/i/trending/2122323250177036571",
-        "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no"
+        "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no",
+        "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china"
       ],
       "note": "传言与评论节目，不是已核实的人事结论。All-In 2026-11-13 同题一期已视为同一事件，不单列展开。"
     },
@@ -1206,10 +1208,11 @@
       "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
       "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o",
       "urls": [
-        "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html"
+        "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
+        "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o"
       ],
       "first_brief": "2026-11-17",
-      "last_brief": "2026-11-18",
+      "last_brief": "2026-11-21",
       "status": "update"
     },
     {
@@ -4256,15 +4259,16 @@
       "title": "Anthropic Nasdaq debut",
       "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
       "first_brief": "2026-11-20",
-      "last_brief": "2026-11-20",
-      "status": "covered",
+      "last_brief": "2026-11-21",
+      "status": "update",
       "urls": [
         "https://www.bbc.com/zhongwen/articles/cw4gn9359q37o/simp",
         "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
         "https://news.ycombinator.com/item?id=50562754",
         "https://x.com/search?q=Anthropic",
         "https://x.com/i/trending/2122986843943911816",
-        "https://s.weibo.com/weibo?q=%23Anthropic%E4%B8%83%E4%BD%8D%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%23"
+        "https://s.weibo.com/weibo?q=%23Anthropic%E4%B8%83%E4%BD%8D%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%23",
+        "https://www.bbc.co.uk/news/articles/c6808ym10vzgo"
       ]
     },
     {
@@ -4906,6 +4910,978 @@
       "url": "https://www.youtube.com/watch?v=x0VSm6IjcDQ",
       "first_brief": "2026-11-20",
       "last_brief": "2026-11-20",
+      "status": "covered"
+    },
+    {
+      "id": "story:alpoege-claude-grh-claim",
+      "type": "story",
+      "title": "Levent Alpöge 宣称与 Claude 完成黎曼猜想 / GRH 的 Lean 形式化（验证中）",
+      "url": "https://alpo.ge/remark.pdf",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
+        "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+        "https://scottaaronson.blog/?p=10344",
+        "https://github.com/tristanbuckmaster/navier-stokes/"
+      ],
+      "note": "宣称尚未被数学共同体接受"
+    },
+    {
+      "id": "story:masullo-grh-draft",
+      "type": "story",
+      "title": "Alessandro Masullo 提出一份全由人完成的 GRH 证明草稿（验证中）",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "note": "Ravi Vakil 转发；Brian Conrad 审读中"
+    },
+    {
+      "id": "story:poland-airspace-russian-missile-2026-11-20",
+      "type": "story",
+      "title": "Poland says a Russian cruise missile and other objects violated its airspace",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "story:trump-ai-datacenter-overseas-threat",
+      "type": "story",
+      "title": "Trump threatens ban or penalties on US firms building AI data centres overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+      ]
+    },
+    {
+      "id": "story:denmark-russia-kyivstoner-assassination-plot",
+      "type": "story",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper Kyivstoner",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "story:anthropic-ipo-second-day-selloff",
+      "type": "story",
+      "title": "Anthropic second-day slide as broader tech sell-off hits US and Asian markets",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+      ]
+    },
+    {
+      "id": "story:uk-eu-closer-ties-burnham",
+      "type": "story",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
+      "type": "news",
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+      "type": "news",
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "type": "news",
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic second-day trading",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
+      "type": "news",
+      "title": "Russian missile hits Poland as Ukraine allies hold military exercise, says Tusk",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o",
+      "type": "news",
+      "title": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+      "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+      "type": "news",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+      "type": "news",
+      "title": "Trump threatens tremendous penalties on US tech firms that build datacenters abroad",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
+      "type": "news",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+      "type": "news",
+      "title": "California investigates Nvidia over whether chip exports ended up in China",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
+      "type": "news",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.com/zhongwen/articles/cm5y120z0pw0o/trad",
+      "type": "news",
+      "title": "中俄美三方峰會場面大於實質成果",
+      "url": "https://www.bbc.com/zhongwen/articles/cm5y120z0pw0o/trad",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
+      "type": "news",
+      "title": "Russian Objects Crashed in Poland, Officials Say",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+      "type": "news",
+      "title": "Britain and Brussels Have Begun a Brexit Rollback. How Far Will It Go?",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/britain-and-brussels-have-begun-a-brexit-rollback-how-far-will-it-go.html",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
+      "type": "news",
+      "title": "Denmark Expels Russian Diplomat After Accusing Moscow of Planning a Hit",
+      "url": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://alpo.ge/remark.pdf",
+      "type": "news",
+      "title": "Levent Alpoge, Remark (RH / GRH claim)",
+      "url": "https://alpo.ge/remark.pdf",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "type": "news",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "type": "news",
+      "title": "Unforced Euler singularity, unforced Navier-Stokes singularity, and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://scottaaronson.blog/?p=10344",
+      "type": "news",
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "url": "https://scottaaronson.blog/?p=10344",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://architectlabs.com/blog/frostbite",
+      "type": "news",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://thinkingmachines.ai/news/inkling-2-mini/",
+      "type": "news",
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://signal.org/blog/protecting-your-privacy/",
+      "type": "news",
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://arxiv.org/abs/2611.21885",
+      "type": "news",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "type": "news",
+      "title": "Google Workers Tell Their Employer Not to Punish Schools That Do Not Want AI",
+      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://manidoraisamy.com/developer-to-architect.html",
+      "type": "news",
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/hdyw/202611/t20261120_4835957.shtml",
+      "type": "news",
+      "title": "全国人大代表与北京市人大代表联合调研暨市人大海淀团代表会前视察活动举行",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/hdyw/202611/t20261120_4835957.shtml",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "district": "haidian"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/bmdt/202611/t20261119_4835781.shtml",
+      "type": "news",
+      "title": "职工医保个账，能给外地家人用了！医保钱包2.0版上线",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/bmdt/202611/t20261119_4835781.shtml",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "district": "haidian"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/jzdt/202611/t20261119_4835758.shtml",
+      "type": "news",
+      "title": "马连洼街道消防实训守护一老一小",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/jzdt/202611/t20261119_4835758.shtml",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "district": "haidian"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026112011123820066/index.html",
+      "type": "news",
+      "title": "寒林深处紧急救援！南口镇成功营救坠树伤者",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026112011123820066/index.html",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "district": "changping"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111912013242348/index.html",
+      "type": "news",
+      "title": "拧紧供热安全阀！区城管执法局开展供热专项执法巡查",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111912013242348/index.html",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "district": "changping"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111912030357371/index.html",
+      "type": "news",
+      "title": "政协北京市昌平区第六届委员会总结大会召开",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026111912030357371/index.html",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "district": "changping"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026112011151387499/index.html",
+      "type": "news",
+      "title": "北七家镇打造多方协同共治小区物业焕新样板",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026112011151387499/index.html",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "district": "changping"
+    },
+    {
+      "id": "hn:50574968",
+      "type": "hn",
+      "title": "Levent Alpoge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://news.ycombinator.com/item?id=50574968",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://alpo.ge/remark.pdf"
+      ]
+    },
+    {
+      "id": "hn:50579568",
+      "type": "hn",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://news.ycombinator.com/item?id=50579568",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
+      ]
+    },
+    {
+      "id": "hn:50572503",
+      "type": "hn",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://news.ycombinator.com/item?id=50572503",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://architectlabs.com/blog/frostbite"
+      ]
+    },
+    {
+      "id": "hn:50572355",
+      "type": "hn",
+      "title": "If you cannot explain something in simple terms, you do not understand it (2017)",
+      "url": "https://news.ycombinator.com/item?id=50572355",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it"
+      ]
+    },
+    {
+      "id": "hn:50581260",
+      "type": "hn",
+      "title": "Inkling 2 Mini",
+      "url": "https://news.ycombinator.com/item?id=50581260",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://thinkingmachines.ai/news/inkling-2-mini/"
+      ]
+    },
+    {
+      "id": "hn:50572348",
+      "type": "hn",
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "url": "https://news.ycombinator.com/item?id=50572348",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://signal.org/blog/protecting-your-privacy/"
+      ]
+    },
+    {
+      "id": "hn:50577265",
+      "type": "hn",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://news.ycombinator.com/item?id=50577265",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://arxiv.org/abs/2611.21885"
+      ]
+    },
+    {
+      "id": "hn:50578358",
+      "type": "hn",
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://news.ycombinator.com/item?id=50578358",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"
+      ]
+    },
+    {
+      "id": "hn:50576232",
+      "type": "hn",
+      "title": "Finite-time blow-up for the Navier-Stokes equations",
+      "url": "https://news.ycombinator.com/item?id=50576232",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://github.com/tristanbuckmaster/navier-stokes/"
+      ]
+    },
+    {
+      "id": "hn:50577901",
+      "type": "hn",
+      "title": "Google Workers Tell Their Employer Not to Punish Schools That Do Not Want AI",
+      "url": "https://news.ycombinator.com/item?id=50577901",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/"
+      ]
+    },
+    {
+      "id": "hn:50579331",
+      "type": "hn",
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://news.ycombinator.com/item?id=50579331",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://manidoraisamy.com/developer-to-architect.html"
+      ]
+    },
+    {
+      "id": "hn:50526023",
+      "type": "hn",
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "url": "https://news.ycombinator.com/item?id=50526023",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://kobi.music/research/dettato"
+      ]
+    },
+    {
+      "id": "hn:50581438",
+      "type": "hn",
+      "title": "Nvidia accounting under SEC investigation, sources say",
+      "url": "https://news.ycombinator.com/item?id=50581438",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html"
+      ]
+    },
+    {
+      "id": "hn:50581084",
+      "type": "hn",
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "url": "https://news.ycombinator.com/item?id=50581084",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://scottaaronson.blog/?p=10344"
+      ]
+    },
+    {
+      "id": "hn:50579297",
+      "type": "hn",
+      "title": "Vibecoding an inference chip",
+      "url": "https://news.ycombinator.com/item?id=50579297",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://ankitg.me/blog/vibecoding-inference-chip/"
+      ]
+    },
+    {
+      "id": "hn:50527444",
+      "type": "hn",
+      "title": "The G1 Garbage Collector",
+      "url": "https://news.ycombinator.com/item?id=50527444",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://dev.java/learn/jvm/tool/garbage-collection/g1gc-overview/"
+      ]
+    },
+    {
+      "id": "hn:50577613",
+      "type": "hn",
+      "title": "I am Peter Roberts, immigration attorney who does work for YC and startups. AMA",
+      "url": "https://news.ycombinator.com/item?id=50577613",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50580536",
+      "type": "hn",
+      "title": "Winedroid – run Android apps without Android (WASM demo)",
+      "url": "https://news.ycombinator.com/item?id=50580536",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://winedroid.soham.sh/demo/"
+      ]
+    },
+    {
+      "id": "hn:50550430",
+      "type": "hn",
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "url": "https://news.ycombinator.com/item?id=50550430",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/"
+      ]
+    },
+    {
+      "id": "hn:50581110",
+      "type": "hn",
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "url": "https://news.ycombinator.com/item?id=50581110",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://www.masteringemacs.org/article/announcing-dreamcoder"
+      ]
+    },
+    {
+      "id": "hn:50581177",
+      "type": "hn",
+      "title": "And Yet, It Moves",
+      "url": "https://news.ycombinator.com/item?id=50581177",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://signoregalilei.com/2026/11/20/and-yet-it-moves/"
+      ]
+    },
+    {
+      "id": "hn:50578233",
+      "type": "hn",
+      "title": "Running two PSP emulators on one Switch 2 and sharing one via GameShare",
+      "url": "https://news.ycombinator.com/item?id=50578233",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://github.com/XITRIX/ppsspp-nx2/blob/master/SWITCH2-GAMESHARE.md"
+      ]
+    },
+    {
+      "id": "hn:50532515",
+      "type": "hn",
+      "title": "Show HN: An API for word timestamps from speech, 75% within 20ms",
+      "url": "https://news.ycombinator.com/item?id=50532515",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://quebec.yarn.so"
+      ]
+    },
+    {
+      "id": "hn:50581403",
+      "type": "hn",
+      "title": "Show HN: OpenComputer – an open source alternative to Devin",
+      "url": "https://news.ycombinator.com/item?id=50581403",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://github.com/diggerhq/opencomputer"
+      ]
+    },
+    {
+      "id": "hn:50582629",
+      "type": "hn",
+      "title": "A few hours ago Google DeepMind created a math horizon repo",
+      "url": "https://news.ycombinator.com/item?id=50582629",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://github.com/google-deepmind/math-horizon"
+      ]
+    },
+    {
+      "id": "hn:50583274",
+      "type": "hn",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://news.ycombinator.com/item?id=50583274",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://ninlive.com/"
+      ]
+    },
+    {
+      "id": "hn:50583254",
+      "type": "hn",
+      "title": "Nasdaq erases all 2026 gains",
+      "url": "https://news.ycombinator.com/item?id=50583254",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
+      ]
+    },
+    {
+      "id": "hn:50581165",
+      "type": "hn",
+      "title": "Reverse Engineering my cats litter box",
+      "url": "https://news.ycombinator.com/item?id=50581165",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://master--ytulsiani.netlify.app/blog/furrytails/"
+      ]
+    },
+    {
+      "id": "hn:50537626",
+      "type": "hn",
+      "title": "Show HN: Professor Euler – Offline math desk, 300-function CAS, workbooks",
+      "url": "https://news.ycombinator.com/item?id=50537626",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://euler.dawei7.com"
+      ]
+    },
+    {
+      "id": "hn:50583117",
+      "type": "hn",
+      "title": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "url": "https://news.ycombinator.com/item?id=50583117",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered",
+      "urls": [
+        "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models"
+      ]
+    },
+    {
+      "id": "weibo:#习近平会见泰国总理#",
+      "type": "weibo",
+      "title": "#习近平会见泰国总理#",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E6%B3%B0%E5%9B%BD%E6%80%BB%E7%90%86%23",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:DeepSeek付费体验直线上升",
+      "type": "weibo",
+      "title": "DeepSeek付费体验直线上升",
+      "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%BB%98%E8%B4%B9%E4%BD%93%E9%AA%8C%E7%9B%B4%E7%BA%BF%E4%B8%8A%E5%8D%87",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#APEC盛会效应拉满#",
+      "type": "weibo",
+      "title": "#APEC盛会效应拉满#",
+      "url": "https://s.weibo.com/weibo?q=%23APEC%E7%9B%9B%E4%BC%9A%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1%23",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:AI证明黎曼猜想传闻",
+      "type": "weibo",
+      "title": "AI证明黎曼猜想传闻",
+      "url": "https://s.weibo.com/weibo?q=AI%E8%AF%81%E6%98%8E%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%BC%A0%E9%97%BB",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:余承东称现在L2开车不能睡觉",
+      "type": "weibo",
+      "title": "余承东称现在L2开车不能睡觉",
+      "url": "https://s.weibo.com/weibo?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E7%A7%B0%E7%8E%B0%E5%9C%A8L2%E5%BC%80%E8%BD%A6%E4%B8%8D%E8%83%BD%E7%9D%A1%E8%A7%89",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#华为首款鸿蒙AI手机#",
+      "type": "weibo",
+      "title": "#华为首款鸿蒙AI手机#",
+      "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99AI%E6%89%8B%E6%9C%BA%23",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#股民集体抛售科技股#",
+      "type": "weibo",
+      "title": "#股民集体抛售科技股#",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%82%A1%E6%B0%91%E9%9B%86%E4%BD%93%E6%8A%9B%E5%94%AE%E7%A7%91%E6%8A%80%E8%82%A1%23",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#费城半导体指数持续下挫#",
+      "type": "weibo",
+      "title": "#费城半导体指数持续下挫#",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%B4%B9%E5%9F%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%8C%87%E6%95%B0%E6%8C%81%E7%BB%AD%E4%B8%8B%E6%8C%AB%23",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#这轮金价为何跌那么快#",
+      "type": "weibo",
+      "title": "#这轮金价为何跌那么快#",
+      "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%BD%AE%E9%87%91%E4%BB%B7%E4%B8%BA%E4%BD%95%E8%B7%8C%E9%82%A3%E4%B9%88%E5%BF%AB%23",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#现货黄金大跌3%#",
+      "type": "weibo",
+      "title": "#现货黄金大跌3%#",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%A7%E8%B7%8C3%25%23",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#特朗普涉中俄美最新表态#",
+      "type": "weibo",
+      "title": "#特朗普涉中俄美最新表态#",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E4%B8%AD%E4%BF%84%E7%BE%8E%E6%9C%80%E6%96%B0%E8%A1%A8%E6%80%81%23",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#特朗普刚返美就发重大预告#",
+      "type": "weibo",
+      "title": "#特朗普刚返美就发重大预告#",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E8%BF%94%E7%BE%8E%E5%B0%B1%E5%8F%91%E9%87%8D%E5%A4%A7%E9%A2%84%E5%91%8A%23",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:后会友期黄焖鸡事件原声视频",
+      "type": "weibo",
+      "title": "后会友期黄焖鸡事件原声视频",
+      "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E9%BB%84%E7%84%96%E9%B8%A1%E4%BA%8B%E4%BB%B6%E5%8E%9F%E5%A3%B0%E8%A7%86%E9%A2%91",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#李嫣唱歌太孝顺了#",
+      "type": "weibo",
+      "title": "#李嫣唱歌太孝顺了#",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AB%A3%E5%94%B1%E6%AD%8C%E5%A4%AA%E5%AD%9D%E9%A1%BA%E4%BA%86%23",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#王子璇问马天宇你不会爱上我#",
+      "type": "weibo",
+      "title": "#王子璇问马天宇你不会爱上我#",
+      "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E9%97%AE%E9%A9%AC%E5%A4%A9%E5%AE%87%E4%BD%A0%E4%B8%8D%E4%BC%9A%E7%88%B1%E4%B8%8A%E6%88%91%23",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#成毅两京十五日演技表现#",
+      "type": "weibo",
+      "title": "#成毅两京十五日演技表现#",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%E6%BC%94%E6%8A%80%E8%A1%A8%E7%8E%B0%23",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#林更新你怎么什么都敢演#",
+      "type": "weibo",
+      "title": "#林更新你怎么什么都敢演#",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E4%BD%A0%E6%80%8E%E4%B9%88%E4%BB%80%E4%B9%88%E9%83%BD%E6%95%A2%E6%BC%94%23",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:杨超越一开口就是满分作文",
+      "type": "weibo",
+      "title": "杨超越一开口就是满分作文",
+      "url": "https://s.weibo.com/weibo?q=%E6%9D%A8%E8%B6%85%E8%B6%8A%E4%B8%80%E5%BC%80%E5%8F%A3%E5%B0%B1%E6%98%AF%E6%BB%A1%E5%88%86%E4%BD%9C%E6%96%87",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#U17国足0比5西班牙U17#",
+      "type": "weibo",
+      "title": "#U17国足0比5西班牙U17#",
+      "url": "https://s.weibo.com/weibo?q=%23U17%E5%9B%BD%E8%B6%B30%E6%AF%945%E8%A5%BF%E7%8F%AD%E7%89%99U17%23",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "x:search:Riemann",
+      "type": "x",
+      "title": "X trend: Riemann",
+      "url": "https://x.com/search?q=Riemann",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "x:search:Nasdaq",
+      "type": "x",
+      "title": "X US trend: Nasdaq",
+      "url": "https://x.com/search?q=Nasdaq",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "x:search:Trumpcare",
+      "type": "x",
+      "title": "X US trend: Trumpcare",
+      "url": "https://x.com/search?q=Trumpcare",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "x:search:リーマン予想",
+      "type": "x",
+      "title": "X trend: リーマン予想",
+      "url": "https://x.com/search?q=%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%B3%E4%BA%88%E6%83%B3",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "yt:TtOoLanFzGw",
+      "type": "youtube",
+      "title": "a16z: Why AI Has DHH Working 16-Hour Days",
+      "url": "https://www.youtube.com/watch?v=TtOoLanFzGw",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "yt:iXWSYlAX5Lg",
+      "type": "youtube",
+      "title": "Y Combinator: The Whistleblower Who Took on Theranos",
+      "url": "https://www.youtube.com/watch?v=iXWSYlAX5Lg",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "yt:8h-gfrVYyAU",
+      "type": "youtube",
+      "title": "All-In Podcast: Freedom vs. Safety: Axon CEO Rick Smith on the Future of Policing",
+      "url": "https://www.youtube.com/watch?v=8h-gfrVYyAU",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "yt:v5IJwVnTxzg",
+      "type": "youtube",
+      "title": "Latent Space: What Frontier Labs Buy: A Data Deep Dive with Handshake AI",
+      "url": "https://www.youtube.com/watch?v=v5IJwVnTxzg",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
+      "status": "covered"
+    },
+    {
+      "id": "yt:G5w7EyF-aFQ",
+      "type": "youtube",
+      "title": "All-In Podcast: Anthropic Goes Public, Nvidia in Crisis, Markets Tank, Open Source Crackdown?",
+      "url": "https://www.youtube.com/watch?v=G5w7EyF-aFQ",
+      "first_brief": "2026-11-21",
+      "last_brief": "2026-11-21",
       "status": "covered"
     }
   ]
