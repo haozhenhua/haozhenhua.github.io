@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-11-24",
-  "source_brief": "/2026/11/24/daily-brief/",
+  "updated": "2026-11-25",
+  "source_brief": "/2026/11/25/daily-brief/",
   "rules": {
     "skip_if_seen": true,
     "material_update_as_followup": true,
@@ -72,7 +72,7 @@
       "title": "英伟达董事会宣布黄仁勋立即复任总裁、CEO 和董事",
       "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo",
       "first_brief": "2026-11-16",
-      "last_brief": "2026-11-24",
+      "last_brief": "2026-11-25",
       "status": "update",
       "urls": [
         "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
@@ -89,9 +89,13 @@
         "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
         "https://www.bbc.com/zhongwen/articles/cqvg2947xvx0o/simp",
         "https://news.ycombinator.com/item?id=50611576",
-        "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html"
+        "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
+        "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
+        "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
+        "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+        "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html"
       ],
-      "note": "2026-11-23 公司正式声明复职；独立董事调查仍将进行到结束。此前去职与回归传闻已并入同一事件。"
+      "note": "2026-11-25 续报：司法部长 Todd Blanche 回避是否调查黄仁勋的提问；BBC 称股价下跌 7%。独立董事调查与国会听证、Megaspeed 实体清单此前已写。"
     },
     {
       "id": "story:iran-bahrain-attacks",
@@ -2920,8 +2924,13 @@
       "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
       "title": "Quad9's withdrawal from France: A canary in the coal mine",
       "first_brief": "2026-11-18",
-      "last_brief": "2026-11-18",
-      "status": "covered"
+      "last_brief": "2026-11-25",
+      "status": "update",
+      "urls": [
+        "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+        "https://news.ycombinator.com/item?id=50625384"
+      ],
+      "note": "2026-11-25 续报：Quad9 宣布 11 月 24 日 09:00 CET 关闭法国服务。"
     },
     {
       "id": "hn:50532118",
@@ -3172,8 +3181,14 @@
       "url": "https://s.weibo.com/weibo?q=%23%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E8%BF%9B%E5%85%A5%E5%8F%91%E5%B0%84%E5%89%8D%E5%85%B3%E9%94%AE%E9%98%B6%E6%AE%B5%23",
       "title": "#神舟二十四号进入发射前关键阶段#",
       "first_brief": "2026-11-18",
-      "last_brief": "2026-11-18",
-      "status": "covered"
+      "last_brief": "2026-11-25",
+      "status": "update",
+      "urls": [
+        "https://www.cmse.gov.cn/xwzx/202611/t20261124_57876.html",
+        "https://www.cmse.gov.cn/xwzx/202611/t20261125_57886.html",
+        "https://www.news.cn/20261124/18101736be3f4ef098c062ec82fb2a2a/c.html"
+      ],
+      "note": "2026-11-25 续报：官方宣布瞄准 08:18 发射，5:28 出征；写稿时尚未升空。"
     },
     {
       "id": "weibo:#男子的相亲经历比相声还精彩#",
@@ -4272,7 +4287,7 @@
       "title": "Anthropic Nasdaq debut",
       "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
       "first_brief": "2026-11-20",
-      "last_brief": "2026-11-21",
+      "last_brief": "2026-11-25",
       "status": "update",
       "urls": [
         "https://www.bbc.com/zhongwen/articles/cw4gn9359q37o/simp",
@@ -4281,7 +4296,8 @@
         "https://x.com/search?q=Anthropic",
         "https://x.com/i/trending/2122986843943911816",
         "https://s.weibo.com/weibo?q=%23Anthropic%E4%B8%83%E4%BD%8D%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%23",
-        "https://www.bbc.co.uk/news/articles/c6808ym10vzgo"
+        "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+        "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"
       ]
     },
     {
@@ -4989,11 +5005,14 @@
       "title": "Anthropic second-day slide as broader tech sell-off hits US and Asian markets",
       "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
       "first_brief": "2026-11-21",
-      "last_brief": "2026-11-22",
+      "last_brief": "2026-11-25",
       "status": "update",
       "urls": [
-        "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
-      ]
+        "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+        "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+        "https://news.ycombinator.com/item?id=50627836"
+      ],
+      "note": "2026-11-25 续报：HN 与彭博社标题均指 11 月 24 日跌破 83 美元发行价；彭博社正文页本次未能打开，热搜与 X 上的具体跌幅数字互不一致，未采用。"
     },
     {
       "id": "story:uk-eu-closer-ties-burnham",
@@ -6729,12 +6748,14 @@
       "type": "story",
       "title": "Fire at confectionery factory in Banten, Indonesia: deaths and dozens missing",
       "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
-      "status": "new",
+      "status": "update",
       "urls": [
-        "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta"
+        "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+        "https://www.nytimes.com/2026/11/24/world/asia/indonesia-factory-fire-deaths-missing.html"
       ],
       "first_brief": "2026-11-23",
-      "last_brief": "2026-11-23"
+      "last_brief": "2026-11-25",
+      "note": "2026-11-25 续报：纽约时报 RSS 称死亡人数升至 26 人，仍有数十人下落不明；正文页未能打开。"
     },
     {
       "id": "story:us-2026-midterms-house-majority-since-1992",
@@ -7563,8 +7584,12 @@
       "title": "US Commerce Department intends to add Megaspeed Ltd and Speedmatrix to entity list",
       "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
       "first_brief": "2026-11-24",
-      "last_brief": "2026-11-24",
-      "status": "covered"
+      "last_brief": "2026-11-25",
+      "status": "update",
+      "urls": [
+        "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo"
+      ],
+      "note": "2026-11-25 在司法部长答问中再次被提及，无新的清单决定。"
     },
     {
       "id": "story:anthropic-vp-neq-vnp-claim",
@@ -8104,6 +8129,679 @@
       "url": "https://www.youtube.com/watch?v=RwYz8XhZiu0",
       "first_brief": "2026-11-24",
       "last_brief": "2026-11-24",
+      "status": "covered"
+    },
+    {
+      "id": "story:shenzhou-24-launch-window",
+      "type": "story",
+      "title": "神舟二十四号瞄准 2026-11-25 08:18 发射，乘组已出征",
+      "url": "https://www.cmse.gov.cn/xwzx/202611/t20261124_57876.html",
+      "urls": [
+        "https://www.cmse.gov.cn/xwzx/202611/t20261125_57886.html",
+        "https://www.news.cn/20261124/18101736be3f4ef098c062ec82fb2a2a/c.html",
+        "https://www.chinanews.com.cn/gn/2026/11-24/10736757.shtml"
+      ],
+      "status": "covered",
+      "note": "写稿时出征仪式已举行，发射窗口尚未到达，未写成已经成功入轨。",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25"
+    },
+    {
+      "id": "story:chen-jining-investigation",
+      "type": "story",
+      "title": "上海市委书记陈吉宁涉嫌严重违纪违法接受审查调查",
+      "url": "https://www.bbc.com/zhongwen/articles/ck7v27vn9659o/simp",
+      "urls": [
+        "https://www.bbc.com/zhongwen/articles/ck7v27vn9659o/trad",
+        "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html"
+      ],
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
+      "type": "news",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
+      "type": "news",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
+      "type": "news",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c6rrg7ggq190o",
+      "type": "news",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c893rl37ywdgo",
+      "type": "news",
+      "title": "Land mine casualties soar in Syria, two years after war",
+      "url": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
+      "type": "news",
+      "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+      "url": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cjqlq2n4np7do",
+      "type": "news",
+      "title": "Car bomb tears through Colombian city wounding more than 20",
+      "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c65y17pwv1z7o",
+      "type": "news",
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cmwy868v3nneo",
+      "type": "news",
+      "title": "Russian governor detained in rare criminal case against regional leader",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o",
+      "type": "news",
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
+      "type": "news",
+      "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
+      "url": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261124_4836253.shtml",
+      "type": "news",
+      "district": "haidian",
+      "title": "区委常委会召开会议 听取区人大常委会党组、区政协党组、区纪委区监委工作汇报",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261124_4836253.shtml",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261124_4836252.shtml",
+      "type": "news",
+      "district": "haidian",
+      "title": "区政府召开常务会议 研究海淀区城市环境建设管理等事项",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261124_4836252.shtml",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261123_4836097.shtml",
+      "type": "news",
+      "district": "haidian",
+      "title": "政协北京市海淀区第十一届委员会履职总结大会召开",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261123_4836097.shtml",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112322533871923/index.html",
+      "type": "news",
+      "district": "changping",
+      "title": "区领导到城北街道调研",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112322533871923/index.html",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112322555737633/index.html",
+      "type": "news",
+      "district": "changping",
+      "title": "第四届跨国药企北京行暨促进生物医药产业投资合作圆桌会在昌平举办",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112322555737633/index.html",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026112410275738784/index.html",
+      "type": "news",
+      "district": "changping",
+      "title": "4142米长城上的「守护班长」——记居庸关长城东西山保卫班班长张军",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026112410275738784/index.html",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50627340",
+      "type": "hn",
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50625384",
+      "type": "hn",
+      "title": "Quad9 pulled their DNS service from France",
+      "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50598555",
+      "type": "hn",
+      "title": "The Spray Bottle",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50627836",
+      "type": "hn",
+      "title": "Anthropic breaks below $83 IPO price",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50633922",
+      "type": "hn",
+      "title": "Ternary Bonsai 2.5 27B",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50630594",
+      "type": "hn",
+      "title": "Active intrusion campaign against Check Point security management servers",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50630462",
+      "type": "hn",
+      "title": "Jetty Pro",
+      "url": "https://hypercritical.co/2026/11/23/jetty-pro",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50626413",
+      "type": "hn",
+      "title": "Worshipping at the altar of Brendan Gregg",
+      "url": "https://fzakaria.com/2026/11/12/worshipping-at-the-altar-of-brendan-gregg",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50599458",
+      "type": "hn",
+      "title": "How a Mechanical Watch Keeps Time (Interactive 3D)",
+      "url": "https://martincmartin.github.io/slidev-stem/watches/article/1/",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50632883",
+      "type": "hn",
+      "title": "Cloudflare hides shortcomings of the underlying infrastructure",
+      "url": "https://charlie.fish/posts/2026/11/what-cloudflare-doesnt-tell-you/",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50629106",
+      "type": "hn",
+      "title": "Splitting USB-C: USB 3 and USB 2 on one port",
+      "url": "https://www.frankchiarulli.com/blog/splitting-usb-c/",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50634658",
+      "type": "hn",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50627783",
+      "type": "hn",
+      "title": "GTA 6 Running on Windows",
+      "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50629231",
+      "type": "hn",
+      "title": "A training engine for your local model, using your idle compute",
+      "url": "https://github.com/sous-labs/songe",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50605361",
+      "type": "hn",
+      "title": "The new set of problems for engineers to solve",
+      "url": "https://www.katelynlesse.com/blog/new-problems-for-engineers-to-solve",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50633159",
+      "type": "hn",
+      "title": "Grafana 12.4.16, 13.0.14, 13.1.11, 13.2.7 and 13.3.2 (multiple CVEs)",
+      "url": "https://grafana.com/grafana/download",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50610820",
+      "type": "hn",
+      "title": "An Italian folding bicycle design that fits into a suitcase",
+      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50604355",
+      "type": "hn",
+      "title": "Cento fine foods has been sued for “tomato fraud”",
+      "url": "https://slate.com/life/2026/11/cento-san-marzano-tomato-sauce-recipes-lawsuit.html",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50629962",
+      "type": "hn",
+      "title": "The KL Divergence Is Never Negative, Except in PyTorch",
+      "url": "https://arxiv.org/abs/2611.30835",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50635271",
+      "type": "hn",
+      "title": "Heart attack and stroke risk detectable decades in advance",
+      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50630294",
+      "type": "hn",
+      "title": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage",
+      "url": "https://masondata.ai/",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50634933",
+      "type": "hn",
+      "title": "An unclassified CIA system was breached in a cyberattack",
+      "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50609483",
+      "type": "hn",
+      "title": "Calculate how many mesh radio nodes your city needs",
+      "url": "https://meshcoveragecalculator.lalala.ing/",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50625265",
+      "type": "hn",
+      "title": "Gödel Enigma",
+      "url": "https://www.helsinki.fi/en/researchgroups/godel-enigma/research/project-description",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50633424",
+      "type": "hn",
+      "title": "From CUDA and Jax to TorchTPU: Lessons from a Cayley Graph Solver",
+      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50634426",
+      "type": "hn",
+      "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
+      "url": "https://news.ycombinator.com/item?id=50634426",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50591024",
+      "type": "hn",
+      "title": "Show HN: PQCrypta Proxy: Rust proxy with HTTP/3, QUIC, hybrid post-quantum TLS",
+      "url": "https://github.com/PQCrypta/pqcrypta-proxy",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50635698",
+      "type": "hn",
+      "title": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available",
+      "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50598297",
+      "type": "hn",
+      "title": "Overpass QL EBNF Grammar",
+      "url": "https://github.com/b1tw153/overpass-ebnf",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "yt:Em6tbhj9o6A",
+      "type": "youtube",
+      "title": "The strongest objections to RSI",
+      "url": "https://www.youtube.com/watch?v=Em6tbhj9o6A",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "yt:o6KIjtkRdOI",
+      "type": "youtube",
+      "title": "CrowdStrike CEO: AI Cyberattack Wave, Hyperspeed Hacks, & The Patching Problem",
+      "url": "https://www.youtube.com/watch?v=o6KIjtkRdOI",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "yt:-ieJwYq4j-o",
+      "type": "youtube",
+      "title": "How To Build A Jet Engine From Scratch",
+      "url": "https://www.youtube.com/watch?v=-ieJwYq4j-o",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#习近平主席向世界推介中国这四座城市#",
+      "type": "weibo",
+      "title": "#习近平主席向世界推介中国这四座城市#",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BB%E5%B8%AD%E5%90%91%E4%B8%96%E7%95%8C%E6%8E%A8%E4%BB%8B%E4%B8%AD%E5%9B%BD%E8%BF%99%E5%9B%9B%E5%BA%A7%E5%9F%8E%E5%B8%82%23",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:神24航天员到达发射塔架",
+      "type": "weibo",
+      "title": "神24航天员到达发射塔架",
+      "url": "https://s.weibo.com/weibo?q=%E7%A5%9E24%E8%88%AA%E5%A4%A9%E5%91%98%E5%88%B0%E8%BE%BE%E5%8F%91%E5%B0%84%E5%A1%94%E6%9E%B6",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:神舟二十四号发射瞬间",
+      "type": "weibo",
+      "title": "神舟二十四号发射瞬间",
+      "url": "https://s.weibo.com/weibo?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E5%8F%91%E5%B0%84%E7%9E%AC%E9%97%B4",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:中国航天又一项新的历史",
+      "type": "weibo",
+      "title": "中国航天又一项新的历史",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%8F%88%E4%B8%80%E9%A1%B9%E6%96%B0%E7%9A%84%E5%8E%86%E5%8F%B2",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:陈吉宁被查",
+      "type": "weibo",
+      "title": "陈吉宁被查",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:陈吉宁被查上海表态",
+      "type": "weibo",
+      "title": "陈吉宁被查上海表态",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%90%89%E5%AE%81%E8%A2%AB%E6%9F%A5%E4%B8%8A%E6%B5%B7%E8%A1%A8%E6%80%81",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:陈吉宁从清华校长到被查",
+      "type": "weibo",
+      "title": "陈吉宁从清华校长到被查",
+      "url": "https://s.weibo.com/weibo?q=%E9%99%88%E5%90%89%E5%AE%81%E4%BB%8E%E6%B8%85%E5%8D%8E%E6%A0%A1%E9%95%BF%E5%88%B0%E8%A2%AB%E6%9F%A5",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:美国拟对数十国加征关税",
+      "type": "weibo",
+      "title": "美国拟对数十国加征关税",
+      "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%E6%8B%9F%E5%AF%B9%E6%95%B0%E5%8D%81%E5%9B%BD%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:特朗普对一道中国菜念念不忘",
+      "type": "weibo",
+      "title": "特朗普对一道中国菜念念不忘",
+      "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%B8%80%E9%81%93%E4%B8%AD%E5%9B%BD%E8%8F%9C%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:黄仁勋回归最大受害者出现",
+      "type": "weibo",
+      "title": "黄仁勋回归最大受害者出现",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%9B%9E%E5%BD%92%E6%9C%80%E5%A4%A7%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:Anthropic破发",
+      "type": "weibo",
+      "title": "Anthropic破发",
+      "url": "https://s.weibo.com/weibo?q=Anthropic%E7%A0%B4%E5%8F%91",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:美股恐慌指数拉升",
+      "type": "weibo",
+      "title": "美股恐慌指数拉升",
+      "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E6%81%90%E6%85%8C%E6%8C%87%E6%95%B0%E6%8B%89%E5%8D%87",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:AI换脸还没完AI融脸又来了",
+      "type": "weibo",
+      "title": "AI换脸还没完AI融脸又来了",
+      "url": "https://s.weibo.com/weibo?q=AI%E6%8D%A2%E8%84%B8%E8%BF%98%E6%B2%A1%E5%AE%8CAI%E8%9E%8D%E8%84%B8%E5%8F%88%E6%9D%A5%E4%BA%86",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:七海被丑狐融脸",
+      "type": "weibo",
+      "title": "七海被丑狐融脸",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%83%E6%B5%B7%E8%A2%AB%E4%B8%91%E7%8B%90%E8%9E%8D%E8%84%B8",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:鸿蒙积分兑换断货",
+      "type": "weibo",
+      "title": "鸿蒙积分兑换断货",
+      "url": "https://s.weibo.com/weibo?q=%E9%B8%BF%E8%92%99%E7%A7%AF%E5%88%86%E5%85%91%E6%8D%A2%E6%96%AD%E8%B4%A7",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:华为史上最薄最强智能手表来了",
+      "type": "weibo",
+      "title": "华为史上最薄最强智能手表来了",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E5%8F%B2%E4%B8%8A%E6%9C%80%E8%96%84%E6%9C%80%E5%BC%BA%E6%99%BA%E8%83%BD%E6%89%8B%E8%A1%A8%E6%9D%A5%E4%BA%86",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:宝妈曝智能门锁陌生人刷脸秒开",
+      "type": "weibo",
+      "title": "宝妈曝智能门锁陌生人刷脸秒开",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%9D%E5%A6%88%E6%9B%9D%E6%99%BA%E8%83%BD%E9%97%A8%E9%94%81%E9%99%8C%E7%94%9F%E4%BA%BA%E5%88%B7%E8%84%B8%E7%A7%92%E5%BC%80",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:25岁女研究生青海自驾失联4天",
+      "type": "weibo",
+      "title": "25岁女研究生青海自驾失联4天",
+      "url": "https://s.weibo.com/weibo?q=25%E5%B2%81%E5%A5%B3%E7%A0%94%E7%A9%B6%E7%94%9F%E9%9D%92%E6%B5%B7%E8%87%AA%E9%A9%BE%E5%A4%B1%E8%81%944%E5%A4%A9",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:官方回应男子坠楼轻生砸中男孩",
+      "type": "weibo",
+      "title": "官方回应男子坠楼轻生砸中男孩",
+      "url": "https://s.weibo.com/weibo?q=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E5%AD%90%E5%9D%A0%E6%A5%BC%E8%BD%BB%E7%94%9F%E7%A0%B8%E4%B8%AD%E7%94%B7%E5%AD%A9",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "x:search:Huawei",
+      "type": "x",
+      "title": "X US trend: Huawei",
+      "url": "https://x.com/search?q=Huawei",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "x:search:Real Madrid",
+      "type": "x",
+      "title": "X trend: Real Madrid",
+      "url": "https://x.com/search?q=Real%20Madrid",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "x:status:2125311419453419522",
+      "type": "x",
+      "title": "Post questioning Anthropic IPO as insider exit",
+      "url": "https://x.com/DaleHoustonNVDA/status/2125311419453419522",
+      "first_brief": "2026-11-25",
+      "last_brief": "2026-11-25",
       "status": "covered"
     }
   ]
