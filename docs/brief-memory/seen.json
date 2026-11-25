@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-11-25",
-  "source_brief": "/2026/11/25/daily-brief/",
+  "updated": "2026-11-26",
+  "source_brief": "/2026/11/26/daily-brief/",
   "rules": {
     "skip_if_seen": true,
     "material_update_as_followup": true,
@@ -6769,14 +6769,14 @@
     {
       "id": "story:iowa-lead-azide-detonation",
       "type": "story",
-      "title": "US Army plans to detonate degraded lead azide in Iowa despite court order",
-      "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo",
-      "status": "new",
+      "title": "US Army detonates degraded lead azide in Iowa; officials call blast a success",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
+      "status": "update",
       "urls": [
         "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really"
       ],
       "first_brief": "2026-11-23",
-      "last_brief": "2026-11-23"
+      "last_brief": "2026-11-26"
     },
     {
       "id": "story:china-ai-chip-espionage-nyt",
@@ -8071,11 +8071,11 @@
     {
       "id": "x:search:Thanksgiving",
       "type": "x",
-      "title": "X worldwide trend: Thanksgiving",
+      "title": "X trend: Thanksgiving",
       "url": "https://x.com/search?q=Thanksgiving",
       "first_brief": "2026-11-24",
-      "last_brief": "2026-11-24",
-      "status": "covered"
+      "last_brief": "2026-11-26",
+      "status": "update"
     },
     {
       "id": "x:search:WALL-API-1.0",
@@ -8134,17 +8134,18 @@
     {
       "id": "story:shenzhou-24-launch-window",
       "type": "story",
-      "title": "神舟二十四号瞄准 2026-11-25 08:18 发射，乘组已出征",
-      "url": "https://www.cmse.gov.cn/xwzx/202611/t20261124_57876.html",
+      "title": "神舟二十四号发射成功并进驻天宫，中外航天员首次太空握手",
+      "url": "https://www.cmse.gov.cn/xwzx/202611/t20261125_57891.html",
       "urls": [
-        "https://www.cmse.gov.cn/xwzx/202611/t20261125_57886.html",
-        "https://www.news.cn/20261124/18101736be3f4ef098c062ec82fb2a2a/c.html",
-        "https://www.chinanews.com.cn/gn/2026/11-24/10736757.shtml"
+        "https://www.news.cn/20261125/6cd1bfb2c62346d09b002ba4dd502b2a/c.html",
+        "https://www.news.cn/20261125/2e93763e2a264c24bbc49b313df5dbe1/c.html",
+        "https://www.bbc.com/zhongwen/articles/cm9w91y0pge7o/simp",
+        "https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo"
       ],
-      "status": "covered",
+      "status": "update",
       "note": "写稿时出征仪式已举行，发射窗口尚未到达，未写成已经成功入轨。",
       "first_brief": "2026-11-25",
-      "last_brief": "2026-11-25"
+      "last_brief": "2026-11-26"
     },
     {
       "id": "story:chen-jining-investigation",
@@ -8802,6 +8803,640 @@
       "url": "https://x.com/DaleHoustonNVDA/status/2125311419453419522",
       "first_brief": "2026-11-25",
       "last_brief": "2026-11-25",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.cmse.gov.cn/xwzx/202611/t20261125_57891.html",
+      "type": "news",
+      "title": "神舟二十四号载人飞船发射取得圆满成功",
+      "url": "https://www.cmse.gov.cn/xwzx/202611/t20261125_57891.html",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.news.cn/20261125/6cd1bfb2c62346d09b002ba4dd502b2a/c.html",
+      "type": "news",
+      "title": "神二十四发射取得圆满成功 中国“天宫”首迎外籍航天员",
+      "url": "https://www.news.cn/20261125/6cd1bfb2c62346d09b002ba4dd502b2a/c.html",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.news.cn/20261125/2e93763e2a264c24bbc49b313df5dbe1/c.html",
+      "type": "news",
+      "title": "神二十四乘组进驻“天宫” 中外航天员首次“太空握手”",
+      "url": "https://www.news.cn/20261125/2e93763e2a264c24bbc49b313df5dbe1/c.html",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+      "type": "news",
+      "title": "US announces new tariffs on host of countries including China",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/simp",
+      "type": "news",
+      "title": "美国准备公布对全球贸易伙伴加征新关税的计划",
+      "url": "https://www.bbc.com/zhongwen/articles/cm9d7g967l5lo/simp",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
+      "type": "news",
+      "title": "US stocks fall further as fears over AI intensify",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cxj05mv723r2o",
+      "type": "news",
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cqy7rn30v314o",
+      "type": "news",
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
+      "type": "news",
+      "title": "US Army says controlled blast of explosives in Iowa was huge success",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o",
+      "type": "news",
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cv702rw7dzx5o",
+      "type": "news",
+      "title": "Is China behind a wave of AI fake videos targeting Taiwan?",
+      "url": "https://www.bbc.co.uk/news/articles/cv702rw7dzx5o",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.com/zhongwen/articles/cm9w91y0pge7o/simp",
+      "type": "news",
+      "title": "神舟二十四号成功发射 首位巴基斯坦航天员登中国天宫意味什么",
+      "url": "https://www.bbc.com/zhongwen/articles/cm9w91y0pge7o/simp",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
+      "type": "news",
+      "title": "Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu",
+      "url": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+      "type": "news",
+      "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
+      "url": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
+      "type": "news",
+      "title": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes",
+      "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261125_4836499.shtml",
+      "type": "news",
+      "title": "区委召开东部片区街镇工作座谈会议",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261125_4836499.shtml",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered",
+      "district": "haidian"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112420540961828/index.html",
+      "type": "news",
+      "title": "区领导围绕区域高质量发展开展调研",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112420540961828/index.html",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered",
+      "district": "changping"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112416210937947/index.html",
+      "type": "news",
+      "title": "昌平美丽健康产业加速跑，多美康领跑重组胶原蛋白创新赛道",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112416210937947/index.html",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered",
+      "district": "changping"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112410270725520/index.html",
+      "type": "news",
+      "title": "波兰企业代表团赴生命科学园参观调研",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112410270725520/index.html",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered",
+      "district": "changping"
+    },
+    {
+      "id": "hn:50637220",
+      "type": "hn",
+      "title": "The matrix multiplication exponent is nine fourths [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50644817",
+      "type": "hn",
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50638032",
+      "type": "hn",
+      "title": "Button Sounds",
+      "url": "https://buttons.joshwcomeau.com/",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50646108",
+      "type": "hn",
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what is now happening",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50637686",
+      "type": "hn",
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50642086",
+      "type": "hn",
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50643129",
+      "type": "hn",
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50641171",
+      "type": "hn",
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50639698",
+      "type": "hn",
+      "title": "Smart people who give a shit use tools",
+      "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50624446",
+      "type": "hn",
+      "title": "Porting Rockbox to an undocumented AliExpress YP3 MP3 player with LLMs",
+      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50601280",
+      "type": "hn",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers code golf records",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50642939",
+      "type": "hn",
+      "title": "I checked Clojures core with Lean and found unreported bugs",
+      "url": "https://s.conao3.com/blog/2026/e4f733",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50648050",
+      "type": "hn",
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50589784",
+      "type": "hn",
+      "title": "SSH is a GUI framework",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50647673",
+      "type": "hn",
+      "title": "The New York Times tells photographers not to use the latest Photoshop",
+      "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50644980",
+      "type": "hn",
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50635783",
+      "type": "hn",
+      "title": "Predicting LoRA size for any dataset",
+      "url": "https://engram.com/blog/lora-size",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50643199",
+      "type": "hn",
+      "title": "In C++, = default and {} are not the same constructor",
+      "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50647181",
+      "type": "hn",
+      "title": "Slow Ubuntu security response times",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50645074",
+      "type": "hn",
+      "title": "Britains ghost stations",
+      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50647158",
+      "type": "hn",
+      "title": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
+      "url": "https://scienceinhand.com/72-hour-fasting-can-reset-your-entire-immune-system-usc-study-shows/",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50647161",
+      "type": "hn",
+      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernels NFS server",
+      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50611593",
+      "type": "hn",
+      "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+      "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50648035",
+      "type": "hn",
+      "title": "Defang Security Incident",
+      "url": "https://defang.io/blog/post/security-incident-november-2026/",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50619073",
+      "type": "hn",
+      "title": "The undocumented 249-file limit for Googlebot rendering",
+      "url": "https://www.fullstackoptimization.com/a/googlebot-249-file-rendering-limit",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50624684",
+      "type": "hn",
+      "title": "Show HN: Rchive",
+      "url": "https://www.rchive.computer/",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50648823",
+      "type": "hn",
+      "title": "Jev is (probably) Qwen3.5-35B-A3B",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "yt:Qe9d9dWyED0",
+      "type": "youtube",
+      "title": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+      "url": "https://www.youtube.com/watch?v=Qe9d9dWyED0",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "yt:9oNvKMd7xJo",
+      "type": "youtube",
+      "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
+      "url": "https://www.youtube.com/watch?v=9oNvKMd7xJo",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#中巴领导人就神24飞天互致贺电#",
+      "type": "weibo",
+      "title": "#中巴领导人就神24飞天互致贺电#",
+      "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%B7%B4%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B0%B1%E7%A5%9E24%E9%A3%9E%E5%A4%A9%E4%BA%92%E8%87%B4%E8%B4%BA%E7%94%B5%23",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:蔡磊已进渐冻症终末期",
+      "type": "weibo",
+      "title": "蔡磊已进渐冻症终末期",
+      "url": "https://s.weibo.com/weibo?q=%E8%94%A1%E7%A3%8A%E5%B7%B2%E8%BF%9B%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:小米SU7 Ultra上工信部",
+      "type": "weibo",
+      "title": "小米SU7 Ultra上工信部",
+      "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3SU7%20Ultra%E4%B8%8A%E5%B7%A5%E4%BF%A1%E9%83%A8",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:神24乘组进驻天宫",
+      "type": "weibo",
+      "title": "神24乘组进驻天宫",
+      "url": "https://s.weibo.com/weibo?q=%E7%A5%9E24%E4%B9%98%E7%BB%84%E8%BF%9B%E9%A9%BB%E5%A4%A9%E5%AE%AB",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:巴基斯坦电视主持人激动播报",
+      "type": "weibo",
+      "title": "巴基斯坦电视主持人激动播报",
+      "url": "https://s.weibo.com/weibo?q=%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%94%B5%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%BF%80%E5%8A%A8%E6%92%AD%E6%8A%A5",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:金价扛不住了",
+      "type": "weibo",
+      "title": "金价扛不住了",
+      "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:华为自研HBM内存方案",
+      "type": "weibo",
+      "title": "华为自研HBM内存方案",
+      "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E8%87%AA%E7%A0%94HBM%E5%86%85%E5%AD%98%E6%96%B9%E6%A1%88",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:美军本土引爆5吨含铅剧毒起爆药",
+      "type": "weibo",
+      "title": "美军本土引爆5吨含铅剧毒起爆药",
+      "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%86%9B%E6%9C%AC%E5%9C%9F%E5%BC%95%E7%88%865%E5%90%A8%E5%90%AB%E9%93%85%E5%89%A7%E6%AF%92%E8%B5%B7%E7%88%86%E8%8D%AF",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:首位外籍航天员进天宫机密如何保障",
+      "type": "weibo",
+      "title": "首位外籍航天员进天宫机密如何保障",
+      "url": "https://s.weibo.com/weibo?q=%E9%A6%96%E4%BD%8D%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98%E8%BF%9B%E5%A4%A9%E5%AE%AB%E6%9C%BA%E5%AF%86%E5%A6%82%E4%BD%95%E4%BF%9D%E9%9A%9C",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:工信部公示小米新SU7Ultra",
+      "type": "weibo",
+      "title": "工信部公示小米新SU7Ultra",
+      "url": "https://s.weibo.com/weibo?q=%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%85%AC%E7%A4%BA%E5%B0%8F%E7%B1%B3%E6%96%B0SU7Ultra",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:黄金史上暴跌最快半年恢复",
+      "type": "weibo",
+      "title": "黄金史上暴跌最快半年恢复",
+      "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E5%8F%B2%E4%B8%8A%E6%9A%B4%E8%B7%8C%E6%9C%80%E5%BF%AB%E5%8D%8A%E5%B9%B4%E6%81%A2%E5%A4%8D",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:炒股亏钱最对不起的是家人",
+      "type": "weibo",
+      "title": "炒股亏钱最对不起的是家人",
+      "url": "https://s.weibo.com/weibo?q=%E7%82%92%E8%82%A1%E4%BA%8F%E9%92%B1%E6%9C%80%E5%AF%B9%E4%B8%8D%E8%B5%B7%E7%9A%84%E6%98%AF%E5%AE%B6%E4%BA%BA",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "x:search:USAID",
+      "type": "x",
+      "title": "X US trend: USAID",
+      "url": "https://x.com/search?q=USAID",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "x:search:Steelers",
+      "type": "x",
+      "title": "X trend: Steelers",
+      "url": "https://x.com/search?q=Steelers",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "x:search:McCarthy",
+      "type": "x",
+      "title": "X trend: McCarthy",
+      "url": "https://x.com/search?q=McCarthy",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "x:status:2125618035100659996",
+      "type": "x",
+      "title": "DataRepublican USAID Files crossover thread",
+      "url": "https://x.com/DataRepublican/status/2125618035100659996",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "x:status:2125598511664087114",
+      "type": "x",
+      "title": "TokenGremlin AI gossip on OpenAI math papers",
+      "url": "https://x.com/TokenGremlin/status/2125598511664087114",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "x:status:2125684567281717404",
+      "type": "x",
+      "title": "Post amplifying Aaronson cryptography bombshell remark",
+      "url": "https://x.com/choblin29/status/2125684567281717404",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "story:openai-math-omega-nine-fourths",
+      "type": "story",
+      "title": "OpenAI claims matrix multiplication exponent is exactly 9/4",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "story:google-cogentic-math-papers",
+      "type": "story",
+      "title": "Google Cogentic research papers on factoring and discrete logs",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "story:1password-nov-2026-security-incident",
+      "type": "story",
+      "title": "1Password November 2026 backend security incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
+      "status": "covered"
+    },
+    {
+      "id": "story:us-new-tariffs-nov-2026",
+      "type": "story",
+      "title": "US announces new tariffs on China, EU and other partners",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
+      "first_brief": "2026-11-26",
+      "last_brief": "2026-11-26",
       "status": "covered"
     }
   ]
