@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "updated": "2026-11-26",
-  "source_brief": "/2026/11/26/daily-brief/",
+  "updated": "2026-11-27",
+  "source_brief": "/2026/11/27/daily-brief/",
   "rules": {
     "skip_if_seen": true,
     "material_update_as_followup": true,
@@ -3490,10 +3490,11 @@
       "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o",
       "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
       "first_brief": "2026-11-19",
-      "last_brief": "2026-11-19",
-      "status": "covered",
+      "last_brief": "2026-11-27",
+      "status": "update",
       "urls": [
-        "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court"
+        "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
+        "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo"
       ]
     },
     {
@@ -3538,8 +3539,11 @@
       "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o",
       "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
       "first_brief": "2026-11-19",
-      "last_brief": "2026-11-19",
-      "status": "covered"
+      "last_brief": "2026-11-27",
+      "status": "update",
+      "urls": [
+        "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o"
+      ]
     },
     {
       "id": "news:https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o",
@@ -4315,11 +4319,12 @@
       "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
       "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
       "first_brief": "2026-11-20",
-      "last_brief": "2026-11-20",
-      "status": "covered",
+      "last_brief": "2026-11-27",
+      "status": "update",
       "urls": [
         "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
-        "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html"
+        "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+        "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo"
       ]
     },
     {
@@ -5993,8 +5998,11 @@
       "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
       "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
       "first_brief": "2026-11-22",
-      "last_brief": "2026-11-22",
-      "status": "covered"
+      "last_brief": "2026-11-27",
+      "status": "update",
+      "urls": [
+        "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo"
+      ]
     },
     {
       "id": "story:finland-gulf-sparta-ii-drone",
@@ -7000,8 +7008,11 @@
       "title": "抢抓窗口期 挖蛹护绿家园 龙泽园街道社区开展美国白蛾越冬蛹集中清除行动",
       "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026111912002797930/index.html",
       "first_brief": "2026-11-23",
-      "last_brief": "2026-11-23",
-      "status": "new"
+      "last_brief": "2026-11-27",
+      "status": "update",
+      "urls": [
+        "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112516122884630/index.html"
+      ]
     },
     {
       "id": "hn:50596133",
@@ -7893,8 +7904,11 @@
       "title": "东小口镇部署美国白蛾越冬蛹清除专项行动",
       "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112114122265411/index.html",
       "first_brief": "2026-11-24",
-      "last_brief": "2026-11-24",
-      "status": "covered"
+      "last_brief": "2026-11-27",
+      "status": "update",
+      "urls": [
+        "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112516122884630/index.html"
+      ]
     },
     {
       "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026112312042787445/index.html",
@@ -8874,8 +8888,11 @@
       "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
       "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o",
       "first_brief": "2026-11-26",
-      "last_brief": "2026-11-26",
-      "status": "covered"
+      "last_brief": "2026-11-27",
+      "status": "update",
+      "urls": [
+        "https://www.bbc.co.uk/news/articles/c3gre90l0g45o"
+      ]
     },
     {
       "id": "news:https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
@@ -8937,8 +8954,11 @@
       "title": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes",
       "url": "https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html",
       "first_brief": "2026-11-26",
-      "last_brief": "2026-11-26",
-      "status": "covered"
+      "last_brief": "2026-11-27",
+      "status": "update",
+      "urls": [
+        "https://www.bbc.co.uk/news/articles/c3gre90l0g45o"
+      ]
     },
     {
       "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261125_4836499.shtml",
@@ -9436,7 +9456,706 @@
       "title": "US announces new tariffs on China, EU and other partners",
       "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
       "first_brief": "2026-11-26",
-      "last_brief": "2026-11-26",
+      "last_brief": "2026-11-27",
+      "status": "update",
+      "urls": [
+        "https://www.bbc.com/zhongwen/articles/c9ly484v6pdzo/simp"
+      ]
+    },
+    {
+      "id": "local:haidian:https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261126_4836790.shtml",
+      "type": "news",
+      "district": "haidian",
+      "title": "区委常委会召开会议 传达学习贯彻习近平总书记重要讲话精神 听取区政府党组、区法院党组、区检察院党组工作汇报",
+      "url": "https://zyk.bjhd.gov.cn/ywdt/hdywx/202611/t20261126_4836790.shtml",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112516115771901/index.html",
+      "type": "news",
+      "district": "changping",
+      "title": "全市首例商业用地使用权提前续期项目落地昌平 八达岭奥莱破解「年限之困」焕新启航",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112516115771901/index.html",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112516410267654/index.html",
+      "type": "news",
+      "district": "changping",
+      "title": "商户下单执法队上门，东小口镇推行预约式合规指导，筑牢燃气安全防线",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112516410267654/index.html",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112515244980297/index.html",
+      "type": "news",
+      "district": "changping",
+      "title": "都市芳园社区老旧小区改造项目基本竣工",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112515244980297/index.html",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026112516224118240/index.html",
+      "type": "news",
+      "district": "changping",
+      "title": "织密交通路网 畅通民生归途 北七家镇提质升级绘就便民出行新图景",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/zwxmt/apptt/2026112516224118240/index.html",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "local:changping:https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112516122884630/index.html",
+      "type": "news",
+      "district": "changping",
+      "title": "累计挖除7.89万枚 昌平区扎实推进美国白蛾越冬蛹除治工作",
+      "url": "https://www.bjchp.gov.cn/cpqzf/ywdt26/cpkx/2026112516122884630/index.html",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "update"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
+      "type": "news",
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "update"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cqlymky8kpzjo",
+      "type": "news",
+      "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+      "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "story:ibiza-med-emre-tanker-capsize",
+      "type": "story",
+      "title": "Diesel tanker Med Emre capsizes near Ibiza, killing one",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c9gklryvj24do",
+      "type": "news",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o",
+      "type": "news",
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "update"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cmly7jve72r2o",
+      "type": "news",
+      "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+      "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "story:lenacapavir-generic-africa-rollout",
+      "type": "story",
+      "title": "Generic lenacapavir HIV prevention jab reaches Zambia and Uganda",
+      "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c61wr87wyg5wo",
+      "type": "news",
+      "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
+      "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "update"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/crx209kwk4kzo",
+      "type": "news",
+      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
+      "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "story:bangkok-bangchak-refinery-explosion",
+      "type": "story",
+      "title": "Explosion at Bangchak oil refinery in Bangkok injures nine",
+      "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.com/zhongwen/articles/c9ly484v6pdzo/simp",
+      "type": "news",
+      "title": "特朗普深圳会晤一周后再挥关税大棒 对华税率可达40%",
+      "url": "https://www.bbc.com/zhongwen/articles/c9ly484v6pdzo/simp",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "update"
+    },
+    {
+      "id": "news:https://www.bbc.com/zhongwen/articles/cm62p52417ywo/simp",
+      "type": "news",
+      "title": "BBC事实查核：纪录显示，特朗普的帐户今年交易了44次Nvidia股票",
+      "url": "https://www.bbc.com/zhongwen/articles/cm62p52417ywo/simp",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "story:trump-nvidia-stock-trades-2026",
+      "type": "story",
+      "title": "Trump accounts traded Nvidia stock 44 times this year, BBC Verify reports",
+      "url": "https://www.bbc.com/zhongwen/articles/cm62p52417ywo/simp",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/simp",
+      "type": "news",
+      "title": "香港宏福苑大火一年后：居民受压、媒体噤声，为何悼念也变得小心翼翼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/simp",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered",
+      "urls": [
+        "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html"
+      ]
+    },
+    {
+      "id": "story:hong-kong-wang-fuk-court-fire-anniversary",
+      "type": "story",
+      "title": "Hong Kong marks anniversary of Wang Fuk Court fire",
+      "url": "https://www.bbc.com/zhongwen/articles/cw8dv46pv125o/simp",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered",
+      "urls": [
+        "https://www.nytimes.com/2026/11/26/world/asia/hong-kong-fire-wang-fuk-court-anniversary.html"
+      ]
+    },
+    {
+      "id": "news:https://www.bbc.com/zhongwen/articles/cwz0kymdzdd8o/simp",
+      "type": "news",
+      "title": "九合一选前反转：沈伯洋破天荒取消台北「选前之夜」",
+      "url": "https://www.bbc.com/zhongwen/articles/cwz0kymdzdd8o/simp",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "story:taipei-shen-boyang-cancels-election-eve-rally",
+      "type": "story",
+      "title": "Taipei DPP candidate Shen Bo-yang cancels election-eve rally",
+      "url": "https://www.bbc.com/zhongwen/articles/cwz0kymdzdd8o/simp",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/c3gre90l0g45o",
+      "type": "news",
+      "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+      "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "update"
+    },
+    {
+      "id": "news:https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo",
+      "type": "news",
+      "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+      "type": "news",
+      "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
+      "url": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
+      "type": "news",
+      "title": "After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream",
+      "url": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
+      "type": "news",
+      "title": "U.K. Releases Files on Peter Mandelson, Ambassador Tied to Jeffrey Epstein",
+      "url": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "news:https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
+      "type": "news",
+      "title": "Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia",
+      "url": "https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50653667",
+      "type": "hn",
+      "title": "Intel One Mono font (2023)",
+      "url": "https://github.com/intel/intel-one-mono",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50649834",
+      "type": "hn",
+      "title": "Collection of preserved UI style guides",
+      "url": "https://aresluna.org/ui-style-guides/",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50654289",
+      "type": "hn",
+      "title": "Nextcloud Office Desktop app",
+      "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50650892",
+      "type": "hn",
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "url": "https://progrium.github.io/minipg/",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50651719",
+      "type": "hn",
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50657265",
+      "type": "hn",
+      "title": "AMD-specific fork of llama.cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50652184",
+      "type": "hn",
+      "title": "Moat: OpenRouter replacement",
+      "url": "https://commandcode.ai/moat",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50652527",
+      "type": "hn",
+      "title": "OpenAI may be in cost control mode",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50657530",
+      "type": "hn",
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50657645",
+      "type": "hn",
+      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50651863",
+      "type": "hn",
+      "title": "An algebraic quantization of gravity from the null cone",
+      "url": "https://arxiv.org/abs/2611.34924",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50658170",
+      "type": "hn",
+      "title": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
+      "url": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50655664",
+      "type": "hn",
+      "title": "Tell HN: Happy Thanksgiving",
+      "url": "https://news.ycombinator.com/item?id=50655664",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50653477",
+      "type": "hn",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50634381",
+      "type": "hn",
+      "title": "The history of civilization is the history of wheat",
+      "url": "https://asteriskmag.com/issues/16/marginal-grains",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50660180",
+      "type": "hn",
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50636931",
+      "type": "hn",
+      "title": "Curiosity Is No Solo Act",
+      "url": "https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50656036",
+      "type": "hn",
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "url": "https://michidk.github.io/sidebyside/",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50619466",
+      "type": "hn",
+      "title": "Discovery of curse ritual in trash dump surprises Egyptologist",
+      "url": "https://phys.org/news/2026-11-discovery-curse-ritual-trash-dump.html",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50651430",
+      "type": "hn",
+      "title": "NormalScript: A perfectly normal scripting language",
+      "url": "https://psychoscript.com/",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50658632",
+      "type": "hn",
+      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+      "url": "https://github.com/eisenzopf/rvoip",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50651099",
+      "type": "hn",
+      "title": "Show HN: Olumino, a Markdown notes and spaced repetition app",
+      "url": "https://olumino.app",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50657936",
+      "type": "hn",
+      "title": "George Whitesides, 1939-2026",
+      "url": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50657070",
+      "type": "hn",
+      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
+      "url": "https://github.com/rxliuli/sim-drop",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50658193",
+      "type": "hn",
+      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+      "url": "https://bui.preetham.top/charts/",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50658910",
+      "type": "hn",
+      "title": "Top-cited AI scientists at four US companies compared",
+      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50660273",
+      "type": "hn",
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "url": "https://kendell.dev/blog/arkwrapper/",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "hn:50659841",
+      "type": "hn",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:#总书记寄语中国航天事业#",
+      "type": "weibo",
+      "title": "#总书记寄语中国航天事业#",
+      "url": "https://s.weibo.com/weibo?q=%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E5%AF%84%E8%AF%AD%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E4%BA%8B%E4%B8%9A%23",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:从5到24看载人航天之路",
+      "type": "weibo",
+      "title": "从5到24看载人航天之路",
+      "url": "https://s.weibo.com/weibo?q=%E4%BB%8E5%E5%88%B024%E7%9C%8B%E8%BD%BD%E4%BA%BA%E8%88%AA%E5%A4%A9%E4%B9%8B%E8%B7%AF",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:全球首个乙肝治愈新药中国获批",
+      "type": "weibo",
+      "title": "全球首个乙肝治愈新药中国获批",
+      "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E4%B9%99%E8%82%9D%E6%B2%BB%E6%84%88%E6%96%B0%E8%8D%AF%E4%B8%AD%E5%9B%BD%E8%8E%B7%E6%89%B9",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:英伟达东南亚停供或影响评级",
+      "type": "weibo",
+      "title": "英伟达东南亚停供或影响评级",
+      "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%9C%E5%8D%97%E4%BA%9A%E5%81%9C%E4%BE%9B%E6%88%96%E5%BD%B1%E5%93%8D%E8%AF%84%E7%BA%A7",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:立陶宛要求台当局更名",
+      "type": "weibo",
+      "title": "立陶宛要求台当局更名",
+      "url": "https://s.weibo.com/weibo?q=%E7%AB%8B%E9%99%B6%E5%AE%9B%E8%A6%81%E6%B1%82%E5%8F%B0%E5%BD%93%E5%B1%80%E6%9B%B4%E5%90%8D",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:中纪委一天连打三虎",
+      "type": "weibo",
+      "title": "中纪委一天连打三虎",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BA%AA%E5%A7%94%E4%B8%80%E5%A4%A9%E8%BF%9E%E6%89%93%E4%B8%89%E8%99%8E",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:上海百亿养老集资骗局股东潜逃海外",
+      "type": "weibo",
+      "title": "上海百亿养老集资骗局股东潜逃海外",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E7%99%BE%E4%BA%BF%E5%85%BB%E8%80%81%E9%9B%86%E8%B5%84%E9%AA%97%E5%B1%80%E8%82%A1%E4%B8%9C%E6%BD%9C%E9%80%83%E6%B5%B7%E5%A4%96",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:武大调查谈话238人次",
+      "type": "weibo",
+      "title": "武大调查谈话238人次",
+      "url": "https://s.weibo.com/weibo?q=%E6%AD%A6%E5%A4%A7%E8%B0%83%E6%9F%A5%E8%B0%88%E8%AF%9D238%E4%BA%BA%E6%AC%A1",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:北大教师右眼被注入工业气体获赔388万",
+      "type": "weibo",
+      "title": "北大教师右眼被注入工业气体获赔388万",
+      "url": "https://s.weibo.com/weibo?q=%E5%8C%97%E5%A4%A7%E6%95%99%E5%B8%88%E5%8F%B3%E7%9C%BC%E8%A2%AB%E6%B3%A8%E5%85%A5%E5%B7%A5%E4%B8%9A%E6%B0%94%E4%BD%93%E8%8E%B7%E8%B5%94388%E4%B8%87",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:三只松鼠致歉声明",
+      "type": "weibo",
+      "title": "三只松鼠致歉声明",
+      "url": "https://s.weibo.com/weibo?q=%E4%B8%89%E5%8F%AA%E6%9D%BE%E9%BC%A0%E8%87%B4%E6%AD%89%E5%A3%B0%E6%98%8E",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:董明珠称汽车行业有老鼠",
+      "type": "weibo",
+      "title": "董明珠称汽车行业有老鼠",
+      "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E7%A7%B0%E6%B1%BD%E8%BD%A6%E8%A1%8C%E4%B8%9A%E6%9C%89%E8%80%81%E9%BC%A0",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:U17国足8比0斐济",
+      "type": "weibo",
+      "title": "U17国足8比0斐济",
+      "url": "https://s.weibo.com/weibo?q=U17%E5%9B%BD%E8%B6%B38%E6%AF%940%E6%96%90%E6%B5%8E",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "weibo:国足回应U17国足8比0斐济",
+      "type": "weibo",
+      "title": "国足回应U17国足8比0斐济",
+      "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E8%B6%B3%E5%9B%9E%E5%BA%94U17%E5%9B%BD%E8%B6%B38%E6%AF%940%E6%96%90%E6%B5%8E",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "yt:qjPcaZf_plo",
+      "type": "youtube",
+      "title": "Latent Space: How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+      "url": "https://www.youtube.com/watch?v=qjPcaZf_plo",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "x:search:Bears",
+      "type": "x",
+      "title": "X trend: Bears",
+      "url": "https://x.com/search?q=Bears",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "x:trending:2125734003978440946",
+      "type": "x",
+      "title": "X news summary: Gemini 4 Neon multi-agent swarms",
+      "url": "https://x.com/i/trending/2125734003978440946",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "x:trending:2125304097138262034",
+      "type": "x",
+      "title": "X news summary: OpenAI and Anthropic staff question releasing models",
+      "url": "https://x.com/i/trending/2125304097138262034",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "x:trending:2125650660528210247",
+      "type": "x",
+      "title": "X news summary: US chip rules delay Chinese models",
+      "url": "https://x.com/i/trending/2125650660528210247",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
+      "status": "covered"
+    },
+    {
+      "id": "x:status:2125981720017268787",
+      "type": "x",
+      "title": "Post claiming Chinese labs may distill Gemini 4 Neon",
+      "url": "https://x.com/sonuv_dev/status/2125981720017268787",
+      "first_brief": "2026-11-27",
+      "last_brief": "2026-11-27",
       "status": "covered"
     }
   ]
