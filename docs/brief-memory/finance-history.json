@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "notes": "每期早报写入一条 snapshot，供后一期计算涨跌。同一序列只与同源、同口径的上一期读数比较，不要跨接口混算。黄金与市场化参考汇率的接口通常不提供涨跌，必须以本档案的相邻快照计算，并在变化栏标明「较上一期早报」及上一期采集时间。人民币中间价和 A 股若来源已给出官方涨跌（上一发布日中间价、昨收），变化栏以官方口径为主，同时仍要把本期读数写入档案。若写稿时当日官方中间价或 A 股收盘尚未公布，快照必须写入最近一次已公布的官方读数（上一发布日中间价、最近一个交易日收盘价），并在 note 或 session 中标明，不要把尚未公布写成缺数字。",
   "series": {
     "xau_usd": {
@@ -1040,6 +1040,91 @@
           "low": 9979.06,
           "session": "weekday_morning_last_close",
           "note": "今天是星期五，写稿时尚未开盘，本期采用 11 月 26 日（星期四）收盘价。东方财富接口返回 502，数值以腾讯财经为准，新浪财经交叉核对一致。"
+        }
+      }
+    },
+    {
+      "brief_date": "2026-11-28",
+      "permalink": "/2026/11/28/daily-brief/",
+      "collected_at": "2026-11-28 07:50:00 Asia/Shanghai (UTC+8)",
+      "quotes": {
+        "xau_usd": {
+          "value": 3650.0,
+          "display": "3,650.00",
+          "as_of": "2026-11-27T23:33:20Z",
+          "as_of_shanghai": "2026-11-28 07:33:20 Asia/Shanghai (UTC+8)",
+          "source": "Gold-API",
+          "url": "https://api.gold-api.com/price/XAU",
+          "change_from_previous_brief": {
+            "previous_brief_date": "2026-11-27",
+            "previous_value": 3566.0,
+            "previous_as_of_shanghai": "2026-11-27 07:38:48 Asia/Shanghai (UTC+8)",
+            "delta": 84.0,
+            "change_pct": 2.3555804823331465
+          }
+        },
+        "usd_cny_cfets_mid": {
+          "value": 6.7075,
+          "display": "6.7075",
+          "date": "2026-11-27",
+          "as_of_shanghai": "2026-11-28 07:34:12 Asia/Shanghai (UTC+8)",
+          "source": "CFETS / ChinaMoney CCPR",
+          "url": "https://www.chinamoney.com.cn/ags/ms/cm-u-bk-ccpr/CcprHisNew?startDate=&endDate=&currency=USD/CNY&pageNum=1&pageSize=5",
+          "official_previous": {
+            "date": "2026-11-26",
+            "value": 6.7096,
+            "delta": -0.0021
+          },
+          "note": "今天是星期六，证券市场休市，本条为 11 月 27 日已公布的官方中间价。"
+        },
+        "usd_cny_midmarket": {
+          "value": 6.674963,
+          "display": "6.674963",
+          "as_of": "2026-11-27T00:02:31Z",
+          "as_of_shanghai": "2026-11-27 08:02:31 Asia/Shanghai (UTC+8)",
+          "source": "ExchangeRate-API",
+          "url": "https://open.er-api.com/v6/latest/USD",
+          "time_last_update_utc": "Fri, 27 Nov 2026 00:02:31 +0000",
+          "note": "接口日更仍为 11 月 27 日；time_next_update_utc 为 Sat, 28 Nov 2026 00:35:41 +0000，采集时尚未到达。",
+          "change_from_previous_brief": {
+            "previous_brief_date": "2026-11-27",
+            "previous_value": 6.683199,
+            "previous_as_of_shanghai": "2026-11-26 08:02:31 Asia/Shanghai (UTC+8)",
+            "delta": -0.008236000000000132,
+            "change_pct": -0.12323439718015478
+          }
+        },
+        "sse_000001": {
+          "value": 3606.49,
+          "display": "3606.49",
+          "as_of_shanghai": "2026-11-28 07:33:25 Asia/Shanghai (UTC+8)",
+          "quote_timestamp": "20261127161427",
+          "source": "Tencent Finance, cross-checked with Sina Finance (Eastmoney returned 502)",
+          "url": "https://qt.gtimg.cn/q=sh000001,sz399001",
+          "previous_close": 3476.88,
+          "change": 129.61,
+          "change_pct": 3.73,
+          "open": 3482.38,
+          "high": 3610.72,
+          "low": 3467.41,
+          "session": "weekend_last_close",
+          "note": "今天是星期六，写稿时休市，本期采用 11 月 27 日（星期五）收盘价。东方财富接口返回 502，数值以腾讯财经为准，新浪财经交叉核对价格一致。"
+        },
+        "szse_399001": {
+          "value": 10814.02,
+          "display": "10814.02",
+          "as_of_shanghai": "2026-11-28 07:33:25 Asia/Shanghai (UTC+8)",
+          "quote_timestamp": "20261127161412",
+          "source": "Tencent Finance, cross-checked with Sina Finance (Eastmoney returned 502)",
+          "url": "https://qt.gtimg.cn/q=sh000001,sz399001",
+          "previous_close": 10084.04,
+          "change": 729.98,
+          "change_pct": 7.24,
+          "open": 10121.14,
+          "high": 10814.19,
+          "low": 10075.83,
+          "session": "weekend_last_close",
+          "note": "今天是星期六，写稿时休市，本期采用 11 月 27 日（星期五）收盘价。东方财富接口返回 502，数值以腾讯财经为准，新浪财经交叉核对一致。"
         }
       }
     }
